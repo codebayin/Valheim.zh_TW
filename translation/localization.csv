@@ -1,0 +1,2373 @@
+﻿Context,English,Traditional_Chinese
+// NOTE Language translations should only use the English column. We don't translate the language names since we want them to always display in their native language,,
+language_english,English,
+language_swedish,Svenska*,
+language_french,Français,
+language_italian,Italiano*,
+language_german,Deutsch,
+language_spanish,Español,
+language_russian,Русский,
+language_romanian,Romanian*,
+language_bulgarian,български*,
+language_macedonian,македонски*,
+language_finnish,Suomi*,
+language_danish,Dansk*,
+language_icelandic,íslenska*,
+language_turkish,Türkçe,
+language_lithuanian,Lietuvių kalba*,
+language_czech,Čeština*,
+language_hungarian,Magyar*,
+language_polish,Polski,
+language_dutch,Nederlands,
+language_greek,Ελληνικά*,
+language_ukrainian,українська,
+language_portuguese,Português europeu*,
+language_portuguese_brazilian,Português (Brasil),
+language_chinese,中文,
+language_traditional_chinese,正體中文,
+language_japanese,日本語,
+language_korean,한국어,
+language_norwegian,Norsk*,
+language_slovak,Slovenčina*,
+language_thai,ไทย*,
+menu_startgame,Start Game,開始遊戲
+menu_joingame,Join Game,加入遊戲
+menu_settings,Settings,設定
+menu_credits,Credits,製作團隊
+OLD menu_exit,Exit,離開
+menu_exit,Quit,離開遊戲
+menu_selectcharacter,Select Character,選擇角色
+menu_back,Back,返回
+menu_new,New,新建
+menu_remove,Remove,刪除
+menu_start,Start,開始
+menu_newcharacter,New Character,新建角色
+menu_done,Done,完成
+menu_cancel,Cancel,取消
+menu_name,Name,名稱
+menu_characterexist,A character with that name already exists.,該名稱的角色已存在。
+menu_skintone,Skin Tone,膚色
+menu_hairtone,Hair Tone,髮色
+menu_blondness,Blondness,金髮程度
+menu_hair,Hair,頭髮
+menu_beard,Beard,鬍鬚
+menu_selectworld,Select World,選擇世界
+menu_serverpassword,Server Password,伺服器密碼
+menu_startserver,Start Server,啟動伺服器
+menu_public,Public,公開
+menu_communityserver,Community Server,社群伺服器
+menu_friends,Friends,好友
+menu_passwordshort,The password is too short,密碼太短
+menu_passwordinvalid,Invalid password,密碼無效
+menu_community,Community,社群
+menu_newworld,New World,新建世界
+menu_seed,Seed,亂數種子
+menu_entername,Enter Name,輸入名稱
+menu_enterseed,Enter Seed,輸入亂數種子
+menu_worldnametip,5 characters minimum,至少5個字
+menu_selectserver,Select Server,選擇伺服器
+menu_connect,Connect,連線
+menu_loading,Loading...,載入中……
+menu_ok,OK,確認
+menu_close,Close,關閉
+menu_closemenu,Close Menu,關閉選單
+menu_logout,Logout,登出
+menu_logoutconfirm,Logout?,是否登出？
+menu_exitconfirm,Quit the Game?,是否離開遊戲？
+menu_yes,Yes,是
+menu_no,No,否
+menu_enterpassword,Enter Password,輸入密碼
+menu_password,Password,密碼
+menu_sex,Sex,性別
+menu_male,Male,男
+menu_female,Female,女
+menu_removecharacter,Remove Character?,是否刪除角色？
+menu_removeworld,Remove World?,是否刪除世界？
+menu_ndaaccept,Accept,接受
+menu_ndadecline,Decline,拒絕
+menu_resettutorial,Reset Tutorial,重置教學
+,,
+feedback_topic,Feedback,意見回饋
+feedback_subject,Subject,標題
+feedback_text,Write something,寫點什麼吧
+feedback_send,Send,發送
+feedback_bug,Bug,錯誤
+feedback_feedback,Feedback,建議
+feedback_idea,Idea,點子
+error_incompatibleversion,Incompatible version,版本不相容
+error_failedconnect,Failed to connect,連線失敗
+error_disconnected,Disconnected,已中斷連線
+error_password,Wrong password,密碼錯誤
+error_banned,Banned,已封禁
+error_alreadyconnected,Already connected,已連線
+error_serverfull,Server full,伺服器已滿
+settings_language,Language,語言
+settings_misc,Misc,其它
+settings_requirerestart,Requires restart,需要重新啟動
+settings_controls,Controls,操作
+settings_graphics,Graphics,圖像
+settings_audio,Audio,音訊
+settings_resetcontrols,Reset Controls,重置操作
+settings_mousesens,Mouse Sensitivity,滑鼠靈敏度
+settings_attack,Attack,攻擊
+settings_draw,Draw,拉弓
+settings_secondaryattack,Secondary Attack,次要攻擊
+settings_block,Block,格擋
+settings_dodge,Dodge,閃避
+settings_use,Use,使用
+settings_gp,Forsaken Power,放逐者之力
+settings_hide,Hide/Show Weapon,隱藏/顯示武器
+settings_jump,Jump,跳躍
+settings_run,Run,奔跑
+settings_sit,Sit,坐下
+settings_autorun,Auto-Run,自動奔跑
+settings_walk,Toggle Walk,切換行走
+settings_crouch,Crouch,蹲下
+settings_altplace,Alternative Placement,替代放置
+settings_forward,Forward,前進
+settings_left,Left,左移
+settings_backward,Backward,後退
+settings_right,Right,右移
+settings_invertmouse,Invert Mouse,滑鼠反轉
+settings_gamepadenabled,Gamepad Enabled,啟用手把
+settings_inventory,Inventory,背包
+settings_map,Map,地圖
+settings_zoomout,Zoom Out,縮小
+settings_zoomin,Zoom In,放大
+settings_buildnext,Next Build Item,下一頁建造項目
+settings_buildprev,Prev Build Item,上一頁建造項目
+settings_buildcat,Build Category,建造類別
+settings_remove,Deconstruct,拆除
+settings_buildmenu,Build Menu,建造選單
+settings_mastervol,Volume,主音量
+settings_musicvol,Music Volume,音樂音量
+settings_continousmusic,Continuous Music,音樂循環
+settings_dof,Depth of Field (DOF),景深
+settings_camerashake,Camera Shake,鏡頭晃動
+settings_shipcameratilt,Immersive Ship Camera,擬真乘船鏡頭
+settings_quickselect,Right-Click Build Selection,點選右鍵建造
+settings_showkeyhints,Show Key Hints,顯示關鍵提示
+settings_guiscale,Scale GUI,縮放圖形介面
+settings_guicale_note,Minimum screen resolution 2560x1440,最低螢幕解析度 2560x1440
+settings_bloom,Bloom,全螢幕泛光
+settings_ssao,SSAO,環境光遮蔽
+settings_sunshafts,Sun Shafts,雲隙光
+settings_motionblur,Motion Blur,動態模糊
+settings_tesselation,Tessellation,細分曲面
+settings_antialiasing,Anti-Aliasing,反鋸齒
+settings_ca,Chromatic Aberration,色差
+settings_vsync,VSync,垂直同步
+settings_shadowquality,Shadow Quality,陰影品質
+settings_vegetation,Vegetation Quality,植被品質
+settings_lod,Draw Distance/Level of Detail,繪製距離/細節層次
+settings_lights,Particle Lights,粒子光源
+settings_softpart,Soft Particles,柔和粒子
+settings_low,Low,低
+settings_medium,Medium,中
+settings_high,High,高
+settings_res,Resolution,解析度
+settings_fullscreen,Fullscreen,全螢幕
+settings_apply,Apply,套用
+settings_test,Test,測試
+settings_resok,Does this work correctly?,是否可以正常運作？
+,,
+,,
+button_mouse0,Mouse-1,滑鼠左鍵
+button_mouse1,Mouse-2,滑鼠右鍵
+button_mouse2,Mouse-3,滑鼠中鍵
+button_space,Space,空白鍵
+button_lshift,L-Shift,左Shift
+button_rshift,R-Shift,右Shift
+button_lalt,L-Alt,左Alt
+button_ralt,R-Alt,右Alt
+button_lctrl,L-Ctrl,左Ctrl
+button_rctrl,R-Ctrl,右Ctrl
+button_return,Return,Enter
+,,
+,,
+chat_entertext,Enter text...,輸入文字...
+chat_kill,Kill yourself,自殺
+chat_resetspawn,Reset spawn point,重置復活點
+chat_whisper,Whisper,悄悄話
+chat_shout,Shout,大喊
+,,
+,,
+hud_showmap,Show map,顯示地圖
+hud_hidemap,Hide map,隱藏地圖
+hud_addpin,Add pin,添加標記
+hud_removepin,Remove pin,移除標記
+hud_zoom,Zoom,縮放
+hud_publicpos,Visible to other players,對其他玩家可見
+hud_build,Build,建造
+hud_require,Require,需要
+hud_misc,Misc,其它
+hud_crafting,Crafting,工藝
+hud_building,Building,建築
+hud_furniture,Furniture,家具
+hud_repair,Repair,修理
+hud_switchcategory,Switch category,切換類別
+hud_switchitem,Switch item,切換物品
+hud_place,Place,放置
+hud_remove,Remove,拆除
+hud_rotate,Rotate,旋轉
+OLD hud_altplace,Alternative placement,替代放置
+hud_altplace,Toggle snapping / options,切換貼合/任意
+hud_nothingtobuild,Nothing to build,無法建造
+hud_buildmenu,Build menu,建造選單
+hud_tame,Tame,馴養
+hud_wild,Wild,野生
+hud_pet,Pet,撫摸
+hud_tameness,Tameness,馴化度
+hud_tamecheck,Check,查看
+hud_tamelove,loves you,愛你
+hud_tamefollow,follows you,跟隨你
+hud_tamestay,stays,停止跟隨
+hud_tamefrightened,Frightened,受驚
+hud_tamehungry,Hungry,飢餓
+hud_tameinprogress,Acclimatizing,適應中
+hud_tamedone,has been tamed,被馴服了
+hud_tamehappy,Happy,開心
+hud_ready,Ready,就緒
+hud_powernotready,Power not ready,冷卻中
+hud_equipping,Equipping,正在裝備
+hud_unequipping,Unequipping,正在卸下
+,,
+,,
+inventory_splitstack,Split stack,拆分
+inventory_crafting,Crafting,工藝
+inventory_craftingprog,Crafting,正在製作
+inventory_recipes,Recipes,配方
+inventory_craftbutton,Craft,製作
+inventory_upgradebutton,Upgrade,升級
+inventory_full,Inventory full,背包已滿
+inventory_stationlevel,Station level (Raise by building improvements),製作檯等級（透過建造改良設備來升級）
+OLD inventory_stationlevel,Station level,製作檯等級
+OLD inventory_stationlevelreq,Required improvements,需要改良設備
+inventory_stationlevelreq,Required station level,需要製作檯等級
+inventory_maxquality,Max quality,最高品質
+inventory_style,Style,樣式
+inventory_skills,Skills,技能
+inventory_totalskill,Total skill,總技能數
+inventory_new,New item,新物品
+inventory_upgrade,Upgrade $1 quality to $2,將$1品質升級到$2
+OLD inventory_upgrade,Upgrade item,升級物品
+inventory_repairbutton,Repair an item,修理物品
+inventory_pvp,Take damage from other players (PVP),會受到其他玩家傷害（PvP）
+inventory_takeall,Take all,全部拿取
+inventory_use,Use/Equip ,使用/裝備
+inventory_pickup,Pick up,拾取
+inventory_split,Split,拆分
+inventory_move,Move,移動
+inventory_trophies,Trophies,戰利品
+inventory_quality,Quality,品質
+inventory_damage,Damage,傷害
+inventory_blunt,Blunt,鈍擊
+inventory_slash,Slash,斬擊
+inventory_pierce,Pierce,刺擊
+inventory_chop,Chop,劈擊
+inventory_pickaxe,Pickaxe,鎬擊
+inventory_fire,Fire,火焰
+inventory_frost,Frost,冰霜
+inventory_lightning,Lightning,閃電
+inventory_poison,Poison,中毒
+inventory_spirit,Spirit,靈能
+inventory_dmgmod,Damage modifier,傷害修正
+inventory_immune,Immune,免疫
+inventory_resistant,Resistant,抗性
+inventory_veryresistant,Very resistant,超強抗性
+inventory_weak,Weak,虛弱
+inventory_veryweak,Very weak,非常虛弱
+inventory_texts,Valheim Compendium,英靈界概要
+inventory_activeeffects,Active effects,目前效果
+inventory_logs,Message log,訊息紀錄
+inventory_selectedgp,Selected Forsaken power,選擇的放逐者之力
+,,
+,,
+store_topic,Store,商店
+store_buy,Buy,購買
+store_sell,Sell,出售
+,,
+,,
+msg_worldsaved,World saved,世界已儲存
+msg_missingrequirement,Missing requirement,缺少必需品
+msg_wrongtool,Wrong tool,錯誤的工具
+msg_missingstation,Missing required crafting station,缺少需要的製作檯
+msg_nobuildzone,A mystical force in this area stops you,這片區域有股神祕的力量阻止了你
+msg_privatezone,The ward stops you,結界石阻止了你
+msg_noteleportarea,Can only be built inside a stone circle,只能在圈內建造
+msg_notindungeon,Can't be placed in a dungeon,無法放置在地城
+msg_blocked,Blocked,格擋
+msg_invalidplacement,Invalid placement,無效的放置
+msg_needspace,Needs more space,需要更多空間
+msg_extensionmissingstation,Needs to be placed near the appropriate crafting station,需要放置在相應的製作檯附近
+msg_wrongbiome,Can't be placed in this environment,無法放置在此環境
+msg_needcultivated,Needs cultivated soil,需要翻耕過的土壤
+msg_cantremovenow,That can't be removed at this time,目前無法移除
+msg_youdied,YOU DIED!,你死了！
+msg_softdeath,The gods are merciful,眾神慈悲
+msg_repaired,Repaired $1,已修理$1
+msg_doesnotneedrepair,does not need repairs,不需要修理
+msg_cantconsume,You can't consume that right now,你現在不能使用該物品
+msg_isfull,You are full already,你已經飽了
+msg_nomore,You can't eat more $1,你不能再吃$1
+msg_added,Added,已添加
+msg_removed,Removed,已移除
+msg_broke_OLD,broke,損壞了
+msg_outof,You are out of,你缺少了
+msg_cantpickup,You can't pick that up,你無法拾取該物品
+msg_noroom,No room in inventory,背包沒有空間
+msg_cantdrop,You can't drop that,你無法丟棄該物品
+msg_dropped,Dropped,已丟棄
+msg_cantuseon,You can't use $1 on $2,你無法在$2上使用$1
+msg_useonwhat,Use $1 on what?,要把$1用在哪裡？
+msg_stationneedroof,Crafting station needs a roof,製作檯需要屋頂
+msg_stationtooexposed,Station is too exposed,製作檯的遮蔽太少
+msg_bedneedroof,Bed needs a roof,床需要屋頂
+msg_bedtooexposed,Bed is too exposed,床的遮蔽太少
+msg_bednofire,Bed needs a nearby fire,床需要靠近熱源
+msg_bedwet,You are wet,你身上濕了
+msg_bedenemiesnearby,There are enemies nearby,附近有敵人
+msg_spawnpointset,Spawn point set,復活點已設置
+msg_cantopen,You can't open it,你無法打開它
+msg_nocookitems,You don't have any cookable items,你沒有任何可烹飪的食材
+msg_needfire,You need to have a lit fire under the cooking station,你需要在烹飪架下方生火
+msg_nocookroom,There is no room,沒有空間
+msg_cantaddmore,You can't add more $1,你無法再添加$1
+msg_fireadding,Adding $1 to the fire,往火裡添加了$1
+msg_firenotburning,It's not burning,未燃燒
+msg_toofew,Too few,太少了
+msg_wrongitem,Wrong item,錯誤的物品
+msg_fireportalalready,Portal already activated,傳送門已啟動
+msg_throwinfire,You throw some $1 into the fire,你把一些$1扔進了火裡
+msg_noprocessableitems,You don't have any processable items,你沒有任何可加工的物品
+msg_wontwork,That won't work,不管用
+msg_itsfull,It's full,滿了
+msg_wrongitem,Wrong item,錯誤的物品
+msg_donthaveany,You don't have any,你沒有任何
+msg_newtrophy,Trophy collected,戰利品已獲得
+msg_newitem,New item,新物品
+msg_newmaterial,New material,新材料
+msg_newstation,New crafting station,新製作檯
+msg_newstation_level,New station level,新製作檯等級
+msg_level,level,等級
+msg_newpiece,New build piece,新建造部件
+msg_newrecipe,New crafting recipe,新製作配方
+msg_cantoffer,Your offering is not answered,你的祭品沒有反應
+msg_cantsleep,You can't sleep at this time,你此刻不能睡覺
+msg_goodnight,Good night,晚安
+msg_goodmorning,Good morning,早安
+msg_food_done,You could eat another bite,你可以再吃一點
+msg_toohard,Too hard,太硬了
+msg_blocked,Blocked,格擋
+msg_skillup,Skill improved,技能已提升
+msg_noteleport,An item prevents you from teleporting,有物品阻礙傳送
+msg_pin_exist,Map location already added,地圖標記已添加過了
+msg_pin_added,Map location added,地圖標記已添加
+msg_door_needkey,Need key: $1,需要鑰匙：$1
+msg_door_usingkey,Using key: $1,使用鑰匙：$1
+msg_portal_blocked,Blocked,被擋住了
+msg_skills_lowered,Skills lowered,技能已降低
+msg_biome_found,Discovered $1 ,發現了$1
+msg_walk,Walk,行走
+msg_sold,Sold $1 for $2,以$2出售了$1
+msg_incompleteoffering,Incomplete offering,不完整的祭品
+msg_offerdone,You make the sacrifice,你進行了獻祭
+msg_offerwrong,Nothing happens,什麼也沒發生
+msg_missingitem,You don't have the correct item,你沒有正確的物品
+msg_newday,Day $1,第$1天
+msg_newtext,$1 added to the compendium,$1已添加到概要
+msg_pvpon,PVP-damage enabled,已啟用PvP傷害
+msg_pvpoff,PVP-damage disabled,已禁用PvP傷害
+msg_inuse,Someone else is using it,其他人正在使用
+msg_broke,$1 broke,$1損壞了
+msg_fishing_hooked,Hooked,上鉤了
+msg_fishing_linebroke,Line broke,線斷了
+msg_fishing_catched,Caught,釣到了
+msg_fishing_lost,Lost catch,逃掉了
+msg_dlcrequired,DLC required,需要附加下載內容
+,,
+,,
+biome_forest,Forest,森林
+biome_meadows,Meadows,草原
+biome_swamp,Swamp,沼澤
+biome_mountain,Mountain,雪山
+biome_blackforest,Black forest,黑森林
+biome_heath,Heath,荒原
+biome_plains,Plains,平原
+biome_ashlands,Ashlands,灰燼之地
+biome_deepnorth,Deep North,北方深境
+biome_edge,Edge of the World,世界盡頭
+biome_ocean,Ocean,海洋
+biome_darklands,Darklands,黑暗之地
+biome_mistlands,Mistlands,迷霧之地
+,,
+,,
+location_enter,Enter,進入
+location_exit,Exit,離開
+location_forestcrypt,Burial chambers,葬骨墓穴
+location_sunkencrypt,Sunken crypts,淹水墓窖
+location_forestcave,Troll cave,巨魔洞穴
+,,
+,,
+piece_use,Use,使用
+piece_useitem,Use item,使用物品
+piece_toofar,Too far,太遠了
+piece_itemstand,Item stand,物品架
+piece_itemstand_take,Take item,拿取物品
+piece_itemstand_attach,Attach item,安放物品
+piece_itemstand_cantattach,You can't attach this item,你無法安放此物品
+piece_itemstand_missingitem,Missing required item,缺少需要的物品
+piece_door_open,Open,打開
+piece_door_close,Close,關閉
+piece_noaccess,No access,無法進入
+piece_container_empty,EMPTY,空的
+piece_container_open,Open,打開
+piece_bed_unclaimed,Unclaimed bed,未認領的床
+piece_bed_claim,Claim,認領
+piece_bed,Bed,床
+piece_bed_currentspawn,Current spawn point,目前復活點
+piece_bed_setspawn,Set spawn point,設置復活點
+piece_bed_sleep,Sleep,睡覺
+piece_cstand_cook,Cook item,烹飪食材
+piece_fire_fuel,Fuel,燃料
+piece_fire,Fire,火
+piece_guardstone_active,Active,啟用中
+piece_guardstone_inactive,Inactive,停用中
+piece_guardstone_owner,Owner,擁有者
+piece_guardstone_additional,Permitted,受許可者
+piece_guardstone_add,Opt-in,加入
+piece_guardstone_remove,Opt-out,退出
+piece_guardstone_deactivate,Deactivate,停用
+piece_guardstone_activate,Activate,啟用
+piece_sign_input,Enter text,輸入文字
+piece_beehive_area,The bees don't like this biome,蜜蜂不喜歡這種生態域
+piece_beehive_freespace,The bees need more open space,蜜蜂需要更開闊的空間
+piece_beehive_sleep,The bees are sleeping,蜜蜂正在睡覺
+piece_beehive_happy,The bees are happy,蜜蜂很快樂
+piece_beehive_extract,Extract,提取
+piece_beehive_check,Check bees,查看蜜蜂
+piece_rune_read,Read,閱讀
+piece_smelter_add,Add,添加
+piece_smelter_additem,Add item,添加物品
+piece_smelter_empty,Empty,空的
+piece_smelter_ready,Processed,已加工
+piece_smelter_reqroof,Requires a roof,需要屋頂
+piece_plant_healthy,Healthy,健康
+piece_plant_nosun,Needs an open sky,需要廣闊的天空
+piece_plant_nospace,Needs more room to grow,需要更多生長空間
+piece_plant_wrongbiome,Can't grow in this environment,無法在這種環境中生長
+piece_plant_notcultivated,Needs cultivated ground,需要翻耕過的土壤
+piece_upgrade,improvement,改良設備
+piece_craftingstation,Crafting station,製作檯
+piece_fermenter,Fermenter,發酵桶
+piece_fermenter_ready,Done,完成
+piece_fermenter_tap,Tap,裝取
+piece_fermenter_fermenting,Fermenting,發酵中
+piece_fermenter_add,Add item,添加物品
+piece_fermenter_exposed,Too exposed,遮蔽太少
+piece_vegvisir,Vegvisir,羅盤石
+piece_register_location,Register location,標記位置
+piece_ship_rudder,Use rudder,使用船舵
+piece_sign,Sign,看板
+piece_charcoalkiln,Charcoal kiln,煤炭窯
+piece_cultivate,Cultivate,翻耕
+piece_firepit,Campfire,營火
+piece_bonfire,Bonfire,篝火
+piece_forge,Forge,鍛爐
+piece_forge_ext1,Forge bellows,鍛爐風箱
+piece_forge_ext2,Anvils,砧座
+piece_forge_ext3,Grinding wheel,砂輪機
+piece_forge_ext4,Smith's anvil,鐵匠砧座
+piece_forge_ext5,Forge cooler,淬火桶
+piece_forge_ext6,Forge toolrack,鍛爐工具架
+piece_guardstone,Ward,結界石
+piece_guardstone_description,Emits a magic seal on the nearby surroundings that prevents other players from constructing buildings or opening doors.,能在周圍發出結界，以阻止其他玩家建造或開門。
+piece_hearth,Hearth,爐灶
+piece_irongate,Iron gate,鐵門
+piece_levelground,Level ground,鋤平地面
+piece_pavedroad,Paved road,鋪石路
+piece_path,Pathen,闢路
+piece_replant,Grass,草
+piece_beehive,Beehive,蜂房
+piece_cauldron,Cauldron,釜鍋
+piece_stool,Stool,凳子
+piece_throne01,Raven throne,渡鴉王座
+piece_chest,Reinforced chest,加固型箱子
+piece_chestprivate,Personal chest,個人箱子
+piece_chestwood,Chest,箱子
+piece_cookingstation,Cooking station,烹飪架
+piece_groundtorch,Standing iron torch,立式鐵製火炬
+piece_groundtorchgreen,Standing green-burning iron torch,立式綠光鐵製火炬
+piece_groundtorchwood,Standing wood torch,立式木製火炬
+piece_repair,Repair,修理
+piece_stonecutter,Stonecutter,切石機
+piece_table,Table,桌子
+piece_sconce,Sconce,壁掛火炬
+piece_workbench,Workbench,工作檯
+piece_workbench_ext1,Chopping block,劈柴墩
+piece_workbench_ext2,Tanning rack,製革架
+piece_workbench_ext3,Adze,錛斧
+piece_workbench_ext4,Tool shelf,工具架
+piece_artisanstation,Artisan table,工匠檯
+piece_portal,Portal,傳送門
+piece_portal_description,Connects to another portal with equal or no tag.,能與另一扇有相同標籤或沒有標籤的傳送門連接。
+piece_portal_connected,CONNECTED,已連接
+piece_portal_unconnected,UNCONNECTED,未連接
+piece_portal_tag,Tag,標籤
+piece_portal_settag,Set tag,設置標籤
+piece_raise,Raise ground,堆高地面
+piece_rug_deer,Deer rug,鹿皮地毯
+piece_rug_wolf,Wolf rug,狼皮地毯
+piece_rug_lox,Lox rug,氂獸皮地毯
+piece_sapling_barley,Barley,大麥
+piece_sapling_flax,Flax,亞麻
+piece_sapling_turnip,Turnip,蕪菁
+piece_sapling_seedturnip,Seed-turnip,蕪菁種子
+piece_sapling_seedturnip_description,Plant a turnip to get more seeds.,種植蕪菁就能獲得更多種子。
+piece_sapling_carrot,Carrot,胡蘿蔔
+piece_sapling_carrot_description,Plant carrot seeds to grow carrots.,種下胡蘿蔔種子就能長出胡蘿蔔。
+piece_sapling_seedcarrot,Seed-carrot,胡蘿蔔種子
+piece_sapling_seedcarrot_description,Plant a carrot to get more seeds.,種植胡蘿蔔就能獲得更多種子。
+piece_smelter,Smelter,冶煉爐
+piece_blastfurnace,Blast furnace,高爐
+piece_windmill,Windmill,風車
+piece_stakewall,Stakewall,木樁圍牆
+piece_stonearch,Stone arch,石拱
+piece_stonefloor4x4,Stone floor 4x4,石地板4x4
+piece_stonefloor2x2,Stone floor 2x2,石地板2x2
+piece_stonepillar,Stone pillar,石柱
+piece_stonestair,Stone stair,石階梯
+piece_stonewall1x1,Stone wall 1x1,石牆1x1
+piece_stonewall2x1,Stone wall 2x1,石牆2x1
+piece_stonewall4x2,Stone wall 4x2,石牆4x2
+piece_woodbeam1,Wood beam 1m,木梁1公尺
+piece_woodbeam2,Wood beam 2m,木梁2公尺
+piece_woodbeam26,Wood beam 26°,木梁26°
+piece_woodbeam45,Wood beam 45°,木梁45°
+piece_wooddoor,Wood door,木門
+piece_wooddragon,Wood dragon adornment,木製龍頭裝飾
+piece_woodfence,Roundpole fence,圓桿柵欄
+piece_woodfloor2x2,Wood floor 2x2,木地板2x2
+piece_woodfloor1x1,Wood floor 1x1,木地板1x1
+piece_woodgate,Wood gate,木製大門
+piece_woodledge,Wood ledge,木架
+piece_woodpole,Wood pole 1m,木柱1公尺
+piece_woodpole2,Wood pole 2m,木柱2公尺
+piece_woodroof26,Thatch roof 26°,茅草屋頂26°
+piece_woodroof45,Thatch roof 45°,茅草屋頂45°
+piece_woodrooficorner,Thatch roof i-corner 26°,茅草內角屋脊26°
+piece_woodrooficorner45,Thatch roof i-corner 45°,茅草內角屋脊45°
+piece_woodroofocorner,Thatch roof o-corner 26°,茅草外角屋脊26°
+piece_woodroofocorner45,Thatch roof o-corner 45°,茅草外角屋脊45°
+piece_woodrooftop,Thatch roof ridge 26°,茅草屋脊26°
+piece_woodrooftop45,Thatch roof ridge 45°,茅草屋脊45°
+piece_woodstack,Wood stack,木堆
+piece_woodstair,Wood stair,木階梯
+piece_woodstepladder,Wood ladder,木梯子
+piece_woodwallhalf,Wood wall half,半高木牆
+piece_woodwallroof,Wood wall 26°,木牆26°
+piece_woodwallroof45,Wood wall 45°,木牆45°
+piece_woodwallrooftop,Wood roof cross 26°,十字木梁26°
+piece_woodwallrooftop45,Wood roof cross 45°,十字木梁45°
+piece_woodironbeam,Wood iron beam,鐵固木梁
+piece_woodironpole,Wood iron pole,鐵固木柱
+piece_woodwall,Wood wall,木牆
+piece_logbeam2,Log beam 2m,原木梁2公尺
+piece_logbeam4,Log beam 4m,原木梁4公尺
+piece_logpole2,Log pole 2m,原木柱2公尺
+piece_logpole4,Log pole 4m,原木柱4公尺
+piece_stonepile,Stone pile,石堆
+piece_chair,Chair,椅子
+piece_bed02,Dragon bed,龍床
+piece_bench01,Bench,長椅
+piece_brazierceiling01,Hanging brazier,吊火盆
+piece_banner01,Black banner,黑色旗幟
+piece_banner02,Blue banner,藍色旗幟
+piece_banner03,White and red striped banner,紅白條紋旗幟
+piece_banner04,Red banner,紅色旗幟
+piece_banner05,Green banner,綠色旗幟
+piece_sharpstakes,Sharp stakes,尖木樁
+piece_spinningwheel,Spinning wheel,紡車
+piece_offerbowl_makeoffer,Make offering,獻祭
+piece_offerbowl_offeritem,Offer item,獻祭物品
+piece_mudpile,Muddy scrap pile,泥濘的碎料堆
+piece_tombstone,Here rests,這裡長眠著
+piece_tombstone_recovered,Items recovered,物品已全部拾取
+piece_deposit_tin,Tin deposit,錫礦床
+piece_deposit_copper,Copper deposit,銅礦床
+piece_deposit_obsidian,Obsidian deposit,黑曜石礦床
+piece_deposit_silver,Silver deposit,銀礦床
+,,
+,,
+item_quality,Quality,品質
+item_dlc,DLC item,附加下載內容物品
+item_durability,Durability,耐用度
+item_repairlevel,Repair station level,修理所需製作檯等級
+item_weight,Weight,重量
+item_value,Value,價值
+item_knockback,Knockback,擊退力
+item_backstab,Backstab,背刺
+item_armor,Armor,防禦力
+item_blockpower,Block power,格擋力
+item_deflection_OLD,Deflection,偏擋
+item_deflection,Parry force,招架力
+item_parrybonus,Parry bonus,招架加成
+item_food,Food,食物
+item_food_health,Health,生命
+item_food_stamina,Stamina,耐力
+item_food_duration,Duration,持續時間
+item_food_regen,Healing,治療
+item_noteleport,Can't be teleported,無法傳送
+item_seteffect,Set effect,套裝效果
+item_parts,parts,部分
+item_crafter,Crafted by,製作者
+item_movement_modifier,Movement speed,移動速度
+item_total,Total,總計
+item_onehanded,One-handed,單手
+item_twohanded,Two-handed,雙手
+,,
+,,
+item_trophy_eikthyr,Eikthyr trophy,櫟神鹿戰利品
+item_trophy_eikthyr_description,"This severed head oozes power.
+
+Offer it to the Sacrificial Stones.","這顆被割下的鹿頭散發著力量。
+
+將其獻給獻祭石吧。"
+item_trophy_eikthyr_lore,"Once the king of the forest, the size of the antlers are truly impressive.","曾經的森林之王，鹿角
+的大小著實令人驚嘆。"
+item_trophy_elder,The Elder trophy,古老樹妖戰利品
+item_trophy_elder_description,"This severed head oozes power.
+
+Offer it to the Sacrificial Stones.","這顆被割下的頭顱散發著力量。
+
+將其獻給獻祭石吧。"
+item_trophy_elder_lore,"Even in death, it seems to grin with secret knowledge.","即使死了，它看起來仍
+暗暗竊笑著。"
+item_trophy_bonemass,Bonemass trophy,骨泥聚合體戰利品
+item_trophy_bonemass_description,"Bones and viscous goo, held together by some unseen force.
+
+Offer it to the Sacrificial Stones.","骸骨和黏稠物，被某種無形的力量凝結在一起。
+
+將其獻給獻祭石吧。"
+item_trophy_bonemass_lore,"A mess of black soil and old bone, thankfully quiet now.","整團沼泥和古老骸骨的
+混合物，幸好現在安靜
+了。"
+item_trophy_dragonqueen,Moder trophy,亞龍之母戰利品
+item_trophy_dragonqueen_description,"The head of a dragon, majestic even in the rigor of death.
+
+Offer it to the Sacrificial Stones.","巨龍的頭，即使死亡僵硬，依然莊嚴雄偉。
+
+將其獻給獻祭石吧。"
+item_trophy_dragonqueen_lore,"Scored with ancient scars, this head was the last sight of countless warriors.","這顆刻滿舊傷的頭顱，
+是無數戰士生前最後的
+景象。"
+item_trophy_goblinking,Yagluth trophy,亞古魯斯戰利品
+item_trophy_goblinking_description,The crownless head of a dead king.,死王的未加冕之首級。
+item_trophy_goblinking_lore,"Sometimes, the eyes still move and the lips mutter silently...","有時，它的眼睛會動，
+還會喃喃自語……"
+item_trophy_boar,Boar trophy,野豬戰利品
+item_trophy_boar_description,This boar head would make for a nice decoration in any house.,這顆野豬頭顱掛在任何房子裡，都會是個不錯的裝飾。
+item_trophy_boar_lore,This boar head would make for a nice decoration in any house.,"這顆野豬頭顱掛在任何
+房子裡，都會是個不錯
+的裝飾。"
+item_trophy_neck,Neck trophy,水蜥戰利品
+item_trophy_neck_description,The beady eyes and razorsharp teeth belies the ostensibly calm nature of this small lizard.,如珠的雙眼和鋒利的牙齒，暴露了這種小蜥蜴沒有表面上的溫順。
+item_trophy_neck_lore,The beady eyes and razorsharp teeth belies the ostensibly calm nature of this small lizard.,"如珠的雙眼和鋒利的牙
+齒，暴露了這種小蜥蜴
+沒有表面上的溫順。"
+item_trophy_deer,Deer trophy,鹿戰利品
+item_trophy_deer_description,A fine specimen but you'll need to kill more than deer to enter Valhalla.,很不錯的標本，但要進入英靈殿，僅僅殺鹿是不夠的。
+item_trophy_deer_lore,A fine specimen but you'll need to kill more than deer to enter Valhalla.,"很不錯的標本，但要進
+入英靈殿，僅僅殺鹿是
+不夠的。"
+item_trophy_greydwarf,Greydwarf trophy,矮灰妖戰利品
+item_trophy_greydwarf_description,"The mossy, severed head of a Greydwarf.",矮灰妖被割下的頭顱，覆滿苔蘚。
+item_trophy_greydwarf_lore,"The mossy, severed head of a Greydwarf.","矮灰妖被割下的頭顱，
+覆滿苔蘚。"
+item_trophy_greydwarfbrute,Greydwarf Brute trophy,矮灰妖蠻兵戰利品
+item_trophy_greydwarfbrute_description,It took seven blows to hack this gnarled head from its body.,足足砍了七下，才將這顆疙瘩的頭顱從其身上割下。
+item_trophy_greydwarfbrute_lore,It took seven blows to hack this gnarled head from its body.,"足足砍了七下，才將這
+顆疙瘩的頭顱從其身上
+割下。"
+item_trophy_greydwarfshaman,Greydwarf Shaman trophy,矮灰妖薩滿戰利品
+item_trophy_greydwarfshaman_description,It may try to come back so be sure to prune any new shoots...,它可能會復活，所以務必要修剪新枝……
+item_trophy_greydwarfshaman_lore,It may try to come back so be sure to prune any new shoots...,"它可能會復活，所以務
+必要修剪新枝……"
+item_trophy_foresttroll,Forest Troll trophy,森林巨魔戰利品
+item_trophy_foresttroll_description,The leathery skin bears the faded tracery of ancient symbols.,皮革般的皮膚上隱約可見古老符號的痕跡。
+item_trophy_foresttroll_lore,The leathery skin bears the faded tracery of ancient symbols.,"皮革般的皮膚上隱約可
+見古老符號的痕跡。"
+item_trophy_frosttroll,Frost Troll trophy,冰霜巨魔戰利品
+item_trophy_frosttroll_description,The eyes still glitter and swirl with silvery flecks. Don't look into them for too long...,雙眼仍然閃爍旋轉著銀色的斑點。不要盯著看太久……
+item_trophy_frosttroll_lore,The eyes still glitter and swirl with silvery flecks. Don't look into them for too long...,"雙眼仍然閃爍旋轉著銀
+色的斑點。不要盯著看
+太久……"
+item_trophy_troll,Troll trophy,巨魔戰利品
+item_trophy_troll_description,The leathery skin bears the faded tracery of ancient symbols.,皮革般的皮膚上隱約可見古老符號的痕跡。
+item_trophy_troll_lore,The leathery skin bears the faded tracery of ancient symbols.,"皮革般的皮膚上隱約可
+見古老符號的痕跡。"
+item_trophy_skeleton,Skeleton trophy,骷髏戰利品
+item_trophy_skeleton_description,The expressionless grin of this skull reminds you of the inevitability of death.,這顆顱骨面無表情的笑容，提醒著你：人終有一死。
+item_trophy_skeleton_lore,The expressionless grin of this skull reminds you of the inevitability of death.,"這顆顱骨面無表情的
+笑容，提醒著你：
+人終有一死。"
+item_trophy_skeletonpoison,Rancid remains trophy,腐臭遺骸戰利品
+item_trophy_skeletonpoison_description,A rank and rotten skull. You're not sure why you kept it...,散發惡臭的腐爛顱骨。你並不清楚為什麼會留著它……
+item_trophy_skeletonpoison_lore,A rank and rotten skull. You're not sure why you kept it...,"散發惡臭的腐爛顱骨。
+你並不清楚為什麼會留
+著它……"
+item_trophy_wraith,Wraith trophy,怨魂戰利品
+item_trophy_wraith_description,"The shed skin of a wraith, a flowing robe only visible by moonlight.",怨魂脫落的皮，只有在月光下才能看到飄逸的罩袍。
+item_trophy_wraith_lore,"The shed skin of a wraith, a flowing robe only visible by moonlight.","怨魂脫落的皮，只有在
+月光下才能看到飄逸的
+罩袍。"
+item_trophy_blob,Blob trophy,泥怪戰利品
+item_trophy_blob_description,A smelly lump of sticky matter.,一團發臭的黏稠物。
+item_trophy_blob_lore,A smelly lump of sticky matter.,一團發臭的黏稠物。
+item_trophy_draugr,Draugr trophy,屍鬼戰利品
+item_trophy_draugr_description,Bind up the mouth if it starts to whisper in the night...,它要是在半夜開始竊竊私語，就把它的嘴縫上吧……
+item_trophy_draugr_lore,Bind up the mouth if it starts to whisper in the night...,"它要是在半夜開始竊竊
+私語，就把它的嘴縫上
+吧……"
+item_trophy_draugrelite,Draugr Elite trophy,精英屍鬼戰利品
+item_trophy_draugrelite_description,The dead stare of the glowing red eyes sends a shiver through your bones.,那雙發光紅眼的凝視，使你背脊發涼。
+item_trophy_draugrelite_lore,The dead stare of the glowing red eyes sends a shiver through your bones.,"那雙發光紅眼的凝視，
+使你背脊發涼。"
+item_trophy_leech,Leech trophy,水蛭戰利品
+item_trophy_leech_description,"Although slimy, the skin is beautifully patterned in red and black.",雖然滑溜溜的，但皮膚上有紅黑相間的美麗花紋。
+item_trophy_leech_lore,"Although slimy, the skin is beautifully patterned in red and black.","雖然滑溜溜的，但皮膚
+上有紅黑相間的美麗花
+紋。"
+item_trophy_wolf,Wolf trophy,狼戰利品
+item_trophy_wolf_description,"Frozen in death, the hair matted with blood and a silent howl lodged in its throat.",被凍僵了，毛皮沾滿鮮血，喉嚨裡哽著無聲的狼嚎。
+item_trophy_wolf_lore,"Frozen in death, the hair matted with blood and a silent howl lodged in its throat.","被凍僵了，毛皮沾滿鮮
+血，喉嚨裡哽著無聲的
+狼嚎。"
+item_trophy_hatchling,Drake trophy,亞龍戰利品
+item_trophy_hatchling_description,Still cold to the touch.,摸起來依然冰冷。
+item_trophy_hatchling_lore,Still cold to the touch.,摸起來依然冰冷。
+item_trophy_sgolem,Stone Golem trophy,石魔像戰利品
+item_trophy_sgolem_description,This crystalline rock formation would make for an impressive floor decoration.,這種結晶岩層可以作為令人驚嘆的地板裝飾。
+item_trophy_sgolem_lore,This crystalline rock formation would make for an impressive floor decoration.,"這種結晶岩層可以作為
+令人驚嘆的地板裝飾。"
+item_trophy_fenring,Fenring trophy,狼人戰利品
+item_trophy_fenring_description,"Half-way between wolf and man, its face frozen in a snarl of pain.",半狼半人，牠的臉被凍結在痛苦的嚎叫中。
+item_trophy_fenring_lore,"Half-way between wolf and man, its face frozen in a snarl of pain.","半狼半人，牠的臉被凍
+結在痛苦的嚎叫中。"
+item_trophy_goblin,Fuling trophy,惡精戰利品
+item_trophy_goblin_description,Loose folds of greenish skin gathered in around a pair of dark and hateful eyes.,一雙漆黑憎恨的眼睛，周圍堆積著皺巴巴的綠色皮膚。
+item_trophy_goblin_lore,Loose folds of greenish skin gathered in around a pair of dark and hateful eyes.,"一雙漆黑憎恨的眼睛，
+周圍堆積著皺巴巴的綠
+色皮膚。"
+item_trophy_goblinbrute,Fuling berserker trophy,惡精狂戰士戰利品
+item_trophy_goblinbrute_description,The huge grizzled head is as heavy as a boulder.,巨大斑駁的頭顱如巨石般沉重。
+item_trophy_goblinbrute_lore,The huge grizzled head is as heavy as a boulder.,"巨大斑駁的頭顱如巨石
+般沉重。"
+item_trophy_surtling,Surtling trophy,火精戰利品
+item_trophy_surtling_description,"Wreathed in pale flame, it still smolders like an ember.",裹著淡淡的火焰，持續地如餘燼般悶燒。
+item_trophy_surtling_lore,"Wreathed in pale flame, it still smolders like an ember.","裹著淡淡的火焰，持續
+地如餘燼般悶燒。"
+item_trophy_serpent,Serpent trophy,海蟒戰利品
+item_trophy_serpent_description,The scales have dulled but the eyes are still bright.,鱗片雖已黯淡，但眼睛依舊明亮。
+item_trophy_serpent_lore,The scales have dulled but the eyes are still bright.,"鱗片雖已黯淡，但眼睛
+依舊明亮。"
+item_trophy_lox,Lox trophy,氂獸戰利品
+item_trophy_lox_description,"A giant beast's head, thatched with thick fur.",巨獸的頭，覆蓋著厚實的毛皮。
+item_trophy_lox_lore,"A giant beast's head, thatched with thick fur.","巨獸的頭，覆蓋著厚實
+的毛皮。"
+item_trophy_deathsquito,Deathsquito trophy,死神蚊戰利品
+item_trophy_deathsquito_description,You don't like touching this thing even when it's dead.,就算牠死了，你也不會想碰。
+item_trophy_deathsquito_lore,You don't like touching this thing even when it's dead.,"就算牠死了，你也不會
+想碰。"
+item_trophy_goblinshaman,Fuling shaman trophy,惡精薩滿戰利品
+item_trophy_goblinshaman_description,Even killing it couldn't wipe the knowing smile from its crooked lips...,即使殺了牠，也抹不掉牠詭譎的微笑……
+item_trophy_goblinshaman_lore,Even killing it couldn't wipe the knowing smile from its crooked lips...,"即使殺了牠，也抹不掉
+牠詭譎的微笑……"
+,,
+,,
+item_club,Club,棍棒
+item_club_description,A crude but useful weapon.,粗糙但有用的武器。 
+item_stagbreaker,Stagbreaker,鹿角戰鎚
+item_stagbreaker_description,"A weapon worthy of the gods! If you get hit with this, you'll know it...",配得上諸神的武器！被它搥到，你就知道厲害了……
+item_arrow_fire,Fire arrow,火焰箭
+item_arrow_fire_description,This arrow burns whatever it pierces.,這種箭會點燃射中的任何東西。
+item_arrow_flint,Flinthead arrow,燧石箭
+item_arrow_flint_description,A hide-breaker with a head of flint.,燧石箭頭能刺穿獸皮。
+item_arrow_iron,Ironhead arrow,鐵箭
+item_arrow_iron_description,Capped with iron and flighted with dark feathers.,以鐵包頭，用黑羽作尾。
+item_arrow_bronze,Bronzehead arrow,青銅箭
+item_arrow_bronze_description,"Sharper than flint, a sleek messenger of death.",比燧石箭更鋒利，優美的死亡信使。
+item_arrow_wood,Wood arrow,木箭
+item_arrow_wood_description,An arrow of sharpened wood.,削尖木頭製成的箭。
+item_arrow_silver,Silver arrow,銀箭
+item_arrow_silver_description,A needle to calm restless spirits.,平息躁動靈魂的尖刺。
+item_arrow_poison,Poison arrow,毒箭
+item_arrow_poison_description,A bitter sting from afar.,遠方襲來的刺痛。
+item_arrow_frost,Frost arrow,冰霜箭
+item_arrow_frost_description,A shard of piercing ice.,刺骨的冰碎片。
+item_arrow_needle,Needle arrow,針箭
+item_arrow_needle_description,The final stitch.,最後一針。
+item_arrow_obsidian,Obsidian arrow,黑曜石箭
+item_arrow_obsidian_description,A sliver of darkness.,一絲零星的黑暗。
+item_atgeir_bronze,Bronze atgeir,青銅戟
+item_atgeir_bronze_description,A true warrior's tool.,真正的戰士武器。
+item_atgeir_iron,Iron atgeir,鐵戟
+item_atgeir_iron_description,"Blood-drinker, skull-cracker, death-bringer.",嗜血、碎顱、致死之物。
+item_axe_flint,Flint axe,燧石斧
+item_axe_flint_description,Sharper than stone.,比石斧更鋒利。
+item_axe_stone,Stone axe,石斧
+item_axe_stone_description,A crude axe for tree-felling.,伐木用的粗製斧頭。
+item_axe_iron,Iron axe,鐵斧
+item_axe_iron_description,"Sharp and strong, a woodcutter's friend.",鋒利堅固，是樵夫的好幫手。
+item_axe_bronze,Bronze axe,青銅斧
+item_axe_bronze_description,"A bright and burnished blade, curved like a smile.",亮錚錚的斧刃，彎彎的似微笑。
+item_axe_blackmetal,Blackmetal axe,黑鋼斧
+item_axe_blackmetal_description,A perfectly-balanced axe forged from dark metal with an emerald sheen.,用黑鋼鍛造而成的完美斧頭，泛著翡翠般的光澤。
+item_sword_blackmetal,Blackmetal sword,黑鋼劍
+item_sword_blackmetal_description,"A thing of death and beauty, it catches the light with a greenish glow.",死與美的結合體，在光的照射下泛著綠光。
+item_atgeir_blackmetal,Blackmetal atgeir,黑鋼戟
+item_atgeir_blackmetal_description,A vicious hewing-axe of almost unbreakable black metal.,用幾乎堅不可摧的黑鋼製成的殘暴砍削斧。
+item_knife_blackmetal,Blackmetal knife,黑鋼短刀
+item_knife_blackmetal_description,"A darkling blade, strong and sharp.",漆黑的刀刃，堅固又鋒利。
+item_bow,Crude bow,粗製弓
+item_bow_description,A crude but functional bow.,粗糙但實用的弓。
+item_bow_finewood,Finewood bow,優質木弓
+item_bow_finewood_description,A simple bow of strong and supple wood.,用結實柔韌的木材製成的簡易弓。
+item_bow_huntsman,Huntsman bow,獵人弓
+item_bow_huntsman_description,"Finely worked and strung, a huntsman's joy.",作工精細，是獵人的最愛。
+item_bow_draugrfang,Draugr fang,屍鬼之牙
+item_bow_draugrfang_description,"Dark wood strung with glistening sinew, a vicious thing.",漆黑的木頭上繃著亮澤的腱弦，是個狠毒的武器。
+item_knife_copper,Copper knife,銅短刀
+item_knife_copper_description,A glittering copper knife.,閃閃發光的銅短刀。
+item_knife_flint,Flint knife,燧石短刀
+item_knife_flint_description,"Sharpened flint, a reliable tool.",磨尖的燧石，是個可靠的工具。
+item_knife_chitin,Abyssal razor,深淵剃刀
+item_knife_chitin_description,A knife from the deep.,來自深淵的短刀。
+item_pickaxe_iron,Iron pickaxe,鐵鎬
+item_pickaxe_iron_description,A sturdy tool of hardened iron.,用淬火的鐵製成的堅固工具。
+item_pickaxe_bronze,Bronze pickaxe,青銅鎬
+item_pickaxe_bronze_description,A good bronze pick. Can break very hard rocks.,上等青銅鎬。可以敲碎非常堅硬的岩石。
+item_pickaxe_stone,Stone pickaxe,石鎬
+item_pickaxe_stone_description,A rock-breaker made of stone.,用石頭製成的碎岩工具。
+item_pickaxe_antler,Antler pickaxe,鹿角鎬
+item_pickaxe_antler_description,This tool is hard enough to crack even the most stubborn rocks.,這個工具非常堅硬，連最頑固的岩石也能敲碎。
+item_sword_bronze,Bronze sword,青銅劍
+item_sword_bronze_description,"Blood-drinker, a thirsty friend.",嗜血之物，渴望鮮血的利器。
+item_sword_iron,Iron sword,鐵劍
+item_sword_iron_description,The straight line between life and death runs along the edge of this blade.,生與死的分界線，沿著劍鋒劃過。
+item_sword_silver,Silver sword,銀劍
+item_sword_silver_description,"Purest of metals, nothing unclean can abide its touch.",最純淨的金屬，任何不潔之物都難以承受它的觸碰。
+item_sword_fire,Dyrnwyn,白柄劍
+item_sword_fire_description,"Unsheathed, it sizzles and spits with deathless fire, an impossible blade.",出鞘後會噴出不滅之火，簡直難以置信。
+item_spear_flint,Flint spear,燧石矛
+item_spear_flint_description,"If your eye marks a thing for death, let your arm send the messenger.",如果你的眼睛鎖定了獵物，就讓你的手送其上路。
+item_spear_wolffang,Fang spear,狼牙矛
+item_spear_wolffang_description,"Even in death, the wolf's tooth aches for flesh.",即使死了，狼的獠牙仍渴望著血肉。
+item_spear_chitin,Abyssal harpoon,深淵魚叉
+item_spear_chitin_description,The ocean's wrath.,海洋的憤怒。
+item_spear_bronze,Bronze spear,青銅矛
+item_spear_bronze_description,A sturdy spear with a head of burnished bronze.,尖端為青銅打磨的堅固長矛。
+item_spear_ancientbark,Ancient bark spear,古樹皮矛
+item_spear_ancientbark_description,"Despite its gnarled look, this spear is strong and perfectly balanced.",儘管看起來粗糙，但它堅固又完美。
+item_torch,Torch,火把
+item_torch_description,"It brings light and warmth, drives back the darkness.",它能帶來光亮和溫暖，驅散黑暗。
+item_oozebomb,Ooze bomb,沼泥炸彈
+item_oozebomb_description,The stench is unbearable...,惡臭難聞……
+item_axe_rusty,Rusty iron axe UNUSED,生鏽鐵斧 未使用
+item_axe_rusty_description,UNUSED,未使用
+item_battleaxe,Battleaxe,戰斧
+item_battleaxe_description,"Skull-splitter, a warrior's joy.",劈顱之物，是戰士的最愛。
+item_mace_bronze,Bronze mace,青銅釘頭錘
+item_mace_bronze_description,A headache on a stick.,棒子上鑲著頭疼之物。
+item_mace_iron,Iron mace,鐵釘頭錘
+item_mace_iron_description,A fist-sized lump of iron on a wooden shaft.,木棒上鑲著拳頭大小的鐵塊。
+item_mace_silver,Frostner,冰霜鎚
+item_mace_silver_description,The dead fear silver. Remind them why.,死者害怕銀製品。幫它們想起原因吧。
+item_sledge_iron,Iron sledge,鐵巨鎚
+item_sledge_iron_description,"A mighty hammer, worthy of a champion.",配得上王者的強大鐵鎚。
+item_mace_needle,Porcupine,豪豬錘
+item_mace_needle_description,"A deadly weapon, bristling with fiendish spikes.",插滿了殘酷尖刺的致命武器。
+,,
+,,
+item_hoe,Hoe,鋤頭
+item_hoe_description,A farmer's tool for working the earth.,整地用的農具。
+item_hammer,Hammer,工匠槌
+item_hammer_description,"With this to your hand, you can raise high halls and mighty fortifications.",有它在手，就可以搭起高大的殿堂和堅固的堡壘。
+item_tankard,Tankard,大酒杯
+item_tankard_description,Skål!,乾杯！
+item_cultivator,Cultivator,犁耙
+item_cultivator_description,A farming tool for tilling soil.,耕種用的農具。
+,,
+,,
+item_shield_wood,Wood shield,木盾
+item_shield_wood_description,A simple wooden shield.,簡單的木盾。
+item_shield_woodtower,Wood tower shield,木塔盾
+item_shield_woodtower_description,A rough but heavy wooden shield.,粗糙且沉重的木盾。
+item_shield_banded,Banded shield,鑲邊盾
+item_shield_banded_description,"Banded with hoops of iron, a true warrior's companion.",鑲有鐵箍，是真正戰士的伙伴。
+item_shield_bronzebuckler,Bronze buckler,青銅圓盾
+item_shield_bronzebuckler_description,"A shield of burnished bronze, good to turn a blade or two.",青銅打磨的盾，對擋開刀刃很有幫助。
+item_shield_knight,Knight shield UNUSED,騎士盾 未使用
+item_shield_knight_description,A wooden shield reinforced with iron. UNUSED,用鐵加固的木盾。 未使用
+item_shield_serpentscale,Serpent scale shield,海蟒鱗盾
+item_shield_serpentscale_description,A sturdy shield of overlapping scales.,用鱗片搭疊而成的堅固盾牌。
+item_shield_silver,Silver shield,銀盾
+item_shield_silver_description,A shield of radiant silver.,銀光閃閃的盾。
+item_shield_blackmetal,Black metal shield,黑鋼盾
+item_shield_blackmetal_description,"Fashioned from the strongest metal, able to turn even the deadliest blades.",用最堅固的金屬製成，連最致命的刀刃也能擋開。
+item_shield_blackmetal_tower,Black metal tower shield,黑鋼塔盾
+item_shield_blackmetal_tower_description,A tower shield of gleaming dark metal.,用熠熠生輝的黑鋼製成的塔盾。
+item_shield_iron_square,Iron shield,鐵盾
+item_shield_iron_square_description,"An iron sword-breaker, tile of the battle-wall.",鐵製的斷劍之盾，猶如銅牆鐵壁。
+item_shield_iron_tower,Iron tower shield,鐵塔盾
+item_shield_iron_tower_description,A tall shield of strong iron.,用堅固的鐵製成的高大盾牌。
+,,
+,,
+item_helmet_leather,Leather helmet,皮盔
+item_helmet_leather_description,A hood of toughened leather.,用韌化皮革製成的兜帽。
+item_helmet_trollleather,Troll leather helmet,巨魔皮盔
+item_helmet_trollleather_description,Trollskin is hard to work but makes exceptional armor.,雖然巨魔皮很難加工，但可以製成優異的防具。
+item_helmet_bronze,Bronze helmet,青銅盔
+item_helmet_bronze_description,This will help to keep your brains inside your skull.,這有助於讓你不會頭破腦溢。
+item_helmet_iron,Iron helmet,鐵盔
+item_helmet_iron_description,"A helm of polished iron, fit for a hero.",用鐵拋光製成的頭盔，適合英雄穿戴。
+item_helmet_yule,Yule hat,耶魯帽
+item_helmet_yule_description,A red cap in the style of house gnomes.,小矮人風格的紅帽。
+item_helmet_bronzehorned,Horned bronze helmet,青銅角盔
+item_helmet_bronzehorned_description,Bronze helmet with attached horns for extra awesome.,有角的青銅盔，格外威武。
+item_helmet_dverger,Dverger circlet,矮人頭箍
+item_helmet_dverger_description,A portable perpetual lightsource for the dungeon explorer.,地城探險家專用的便攜式永久光源。
+item_helmet_padded,Padded helmet,內襯盔
+item_helmet_padded_description,"A snug fit, finely made.",舒適貼頭，作工精細的頭盔。
+,,
+,,
+item_helmet_odin,Hood of Odin,奧丁的兜帽
+item_helmet_odin_description,Odin's finest warriors deserve the finest cloth.,奧丁最優秀的戰士值得最好的服飾。
+item_tankard_odin,Mead horn of Odin,奧丁的角杯
+item_tankard_odin_description,Odin's finest warriors deserve the finest drinks.,奧丁最優秀的戰士值得最好的飲品。
+item_cape_odin,Cape of Odin,奧丁的披風
+item_cape_odin_description,Odin's finest warriors deserve the finest cloth.,奧丁最優秀的戰士值得最好的服飾。
+,,
+,,
+item_blueberries,Blueberries,藍莓
+item_blueberries_description,Tiny but tasty.,小小的，卻很美味。
+item_raspberries,Raspberries,覆盆子
+item_raspberries_description,Sweet and delicious.,香甜又可口。
+item_cloudberries,Cloudberries,雲莓
+item_cloudberries_description,The gold of the forest.,森林的黃金。
+item_queensjam,Queens jam,皇后果醬
+item_queensjam_description,That classic tasty blend of raspberries and blueberries.,覆盆子和藍莓融合的經典美味。
+item_meat_raw,Raw meat,生肉
+item_meat_raw_description,"A raw piece of meat, cook it for a tasty treat.",生的肉塊，煮熟後就是美味佳餚。
+item_meat_cooked,Cooked meat,熟肉
+item_meat_cooked_description,"Roasted on the bone, fit for a feast.",帶骨炙烤，宴會佳餚。
+item_loxmeat,Lox meat,氂獸肉
+item_loxmeat_description,A raw slab of marbled meat.,生的厚切雪花肉。
+item_loxmeat_cooked,Cooked lox meat,熟氂獸肉
+item_loxmeat_cooked_description,"A great hunk of tender meat, food fit for Valhalla!",大塊嫩肉，英靈殿的絕品美食！
+item_fish_raw,Raw fish,生魚肉
+item_fish_raw_description,A good catch.,釣到大魚囉。
+item_fish_cooked,Cooked fish,熟魚肉
+item_fish_cooked_description,A tasty side of smoked fish.,美味的煙燻魚排。
+item_mushroomcommon,Mushroom,蘑菇
+item_mushroomcommon_description,Bounty of the forest.,森林的恩賜。
+item_mushroomblue,Blue mushroom,藍蘑菇
+item_mushroomblue_description,Glows with a soft blue hue.,泛著柔和的藍色光澤。
+item_mushroomyellow,Yellow mushroom,黃蘑菇
+item_mushroomyellow_description,An energetic glowing mushroom.,活力滿滿的發光蘑菇。
+item_meadbasetasty,Mead base: Tasty,蜂蜜酒成分：美味
+item_meadbasehealth,Mead base: Minor healing,蜂蜜酒成分：初級治療
+item_meadbasehealth_medium,Mead base: Medium healing,蜂蜜酒成分：中級治療
+item_meadbasestamina,Mead base: Minor stamina,蜂蜜酒成分：初級耐力
+item_meadbasestamina_medium,Mead base: Medium stamina,蜂蜜酒成分：中級耐力
+item_meadbasepoisonresist,Mead base: Poison resistance,蜂蜜酒成分：抗中毒
+item_meadbasefrostresist,Mead base: Frost resistance,蜂蜜酒成分：抗冰霜
+item_meadbase_description,Needs to be fermented.,需要發酵。
+item_mead_hp_minor,Minor healing mead,初級治療蜂蜜酒
+item_mead_hp_minor_description,Restores health.,能回復生命。
+item_mead_hp_medium,Medium healing mead,中級治療蜂蜜酒
+item_mead_hp_medium_description,Restores health.,能回復生命。
+item_mead_stamina_minor,Minor stamina mead,初級耐力蜂蜜酒
+item_mead_stamina_minor_description,Restores stamina.,能回復耐力。
+item_mead_stamina_medium,Medium stamina mead,中級耐力蜂蜜酒
+item_mead_stamina_medium_description,Restores stamina.,能回復耐力。
+item_mead_tasty,Tasty mead,美味蜂蜜酒
+item_mead_tasty_description,"The nectar of the gods, divine mead.",諸神的甘露，神聖的蜂蜜酒。
+item_barleywinebase,Barley wine base: Fire resistance,大麥酒成分：抗火焰
+item_barleywine,Fire resistance barley wine,抗火焰大麥酒
+item_barleywine_description,Fortifies you against fire.,能讓你抵禦火焰。
+item_turnipstew,Turnip stew,蕪菁燉湯
+item_turnipstew_description,Nutritious and restorative.,營養又滋補。
+item_carrotsoup,Carrot soup,胡蘿蔔湯
+item_carrotsoup_description,A warm tasty soup made of mostly carrots.,主要以胡蘿蔔為成分製成的美味熱湯。
+item_serpentstew,Serpent stew,海蟒燉湯
+item_serpentstew_description,Smells of honey and serpent...,有股蜂蜜和海蟒的味道……
+item_loxpie,Lox meat pie,氂獸肉派
+item_loxpie_description,Break the crust to release a cloud of fragrant steam. Delicious!,破開派皮，蒸騰出香味濃郁的熱氣。美味至極！
+item_fishwraps,Fish wraps,魚肉捲餅
+item_fishwraps_description,"Bread and fish, what more to wish?",麵餅配魚，夫復何求？
+item_bloodpudding,Blood pudding,血布丁
+item_bloodpudding_description,It's bloody tasty.,好吃到爆！
+item_bread,Bread,麵包
+item_bread_description,A tasty loaf of bread.,一塊美味的麵包。
+item_necktail,Neck tail,水蜥尾巴
+item_necktail_description,"Inedible when raw, but proves to be quite a tasty snack if cooked.",雖然不能生吃，但煮熟後可是相當美味的小吃。
+item_necktailgrilled,Grilled Neck tail,烤水蜥尾巴
+item_necktailgrilled_description,"This savoury, charcoal-grilled meat has a slight aroma of seaweed and grass.",這道鮮美的炭烤肉，帶有淡淡的海藻和青草香。
+item_mead_poisonres,Poison resistance mead,抗中毒蜂蜜酒
+item_mead_poisonres_description,Fortifies you against poison.,能讓你抵禦中毒。
+item_mead_frostres,Frost resistance mead,抗冰霜蜂蜜酒
+item_mead_frostres_description,Protects against the cold.,能讓你抵禦寒冷。
+,,
+,,
+item_chest_leather,Leather tunic,皮衣
+item_chest_leather_description,A tunic made from animal hide.,用獸皮製成的外衣。
+item_legs_leather,Leather pants,皮褲
+item_legs_leather_description,They squeak a little when you walk.,行走時會吱吱作響。
+item_chest_rags,Rag tunic,破布衣
+item_chest_rags_description,Better than nothing.,有穿總比沒穿好。
+item_legs_rags,Rag pants,破布褲
+item_legs_rags_description,A simple remedy for nudity.,避免全裸的簡易解法。
+item_chest_trollleather,Troll leather tunic,巨魔皮衣
+item_chest_trollleather_description,Trolls are hard to skin but their leather is tough and warm.,巨魔的皮很難剝，但牠們的皮強韌又保暖。
+item_legs_trollleather,Troll leather pants,巨魔皮褲
+item_legs_trollleather_description,Leggings of tough troll hide.,用強韌的巨魔皮製成的褲子。
+item_chest_bronze,Bronze plate cuirass,青銅胸甲
+item_chest_bronze_description,A breastplate of hammered bronze.,用青銅鍛敲製成的胸甲。
+item_legs_bronze,Bronze plate leggings,青銅護脛
+item_legs_bronze_description,Bronze greaves to shield your legs.,保護雙腿的青銅護脛。
+item_chest_iron,Iron scale mail,鐵鱗甲
+item_chest_iron_description,"An iron scale mail, this will turn all but the strongest of blows.",鐵鱗甲幾乎能擋開所有強力的攻擊。
+item_legs_iron,Iron greaves,鐵脛甲
+item_legs_iron_description,Iron greaves to protect your legs.,保護雙腿的鐵脛甲。
+item_chest_pcuirass,Padded cuirass,內襯胸甲
+item_chest_pcuirass_description,Finely wrought and strong enough to turn even the sharpest blades.,作工精細、堅固耐用，連最鋒利的刀刃也能擋開。
+item_legs_pgreaves,Padded greaves,內襯脛甲
+item_legs_pgreaves_description,Expertly crafted leg protection.,巧奪天工的腿部防具。
+item_cape_deerhide,Deer hide cape,鹿皮披風
+item_cape_deerhide_description,Rustic chic.,樸素別緻。
+item_cape_trollhide,Troll hide cape,巨魔皮披風
+item_cape_trollhide_description,Trollskin is tough and supple.,巨魔皮強韌又柔軟。
+item_chest_wolf,Wolf armor chest,狼護胸
+item_chest_wolf_description,"A wolfskin jerkin, warm and wild-looking. It protects against the cold.",狼皮夾克衫，保暖又野性十足。能讓你抵禦寒冷。
+item_cape_linen,Linen cape,亞麻披風
+item_cape_linen_description,A simple traveler's cape.,簡單的旅行者披風。
+item_legs_wolf,Wolf armor legs,狼護腿
+item_legs_wolf_description,Shaggy breeches of wolfskin.,毛茸茸的狼皮褲。
+item_cape_wolf,Wolf fur cape,狼毛披風
+item_cape_wolf_description,Wolves are natural survivors. This one was just unlucky. Now its pelt will warm you in the snow.,狼是天生的生存者。這一匹只是運氣不好。現在牠的毛皮將在雪中為你取暖。
+item_cape_lox,Lox cape,氂獸披風
+item_cape_lox_description,"A pelt from one of the great beasts, thick and warm.",取自巨獸的毛皮，厚實又保暖。
+item_helmet_drake,Drake helmet,亞龍盔
+item_helmet_drake_description,An elaborate and finely-crafted helm.,匠心製作的精緻頭盔。
+,,
+,,
+item_ancientseed,Ancient seed,古老種子
+item_ancientseed_description,"Held against your ear, you hear tiny whisperings within...",貼近耳朵，會聽到裡面輕微的細語……
+item_chain,Chain,鎖鏈
+item_chain_description,A link of iron chain.,一節鐵鏈。
+item_coal,Coal,煤炭
+item_coal_description,A lump of coal.,一塊煤炭。
+item_coin,Coin,錢幣
+item_coin_description,A golden coin.,一枚金幣。
+item_copper,Copper,銅錠
+item_copper_description,A bar of pure copper ready to be worked.,可供加工的純銅錠。
+item_copperore,Copper ore,銅礦石
+item_bronze,Bronze,青銅錠
+item_bronze_description,A strong alloy of copper and tin.,用銅和錫製成的堅固合金。
+item_copperore_description,Unrefined copper. Needs to be refined in a smelter.,未精煉的銅。需要放進冶煉爐中精煉。
+item_dandelion,Dandelion,蒲公英
+item_dandelion_description,A dandelion.,一株蒲公英。
+item_thistle,Thistle,薊花
+item_thistle_description,Beautiful but prickly.,美麗但有刺。
+item_elderbark,Ancient bark,古樹皮
+item_elderbark_description,An ancient and sturdy material.,古老而堅固的材料。
+item_entrails,Entrails,內臟
+item_entrails_description,A slimy length of something's insides.,一段黏滑的某東西的內臟。
+item_bloodbag,Bloodbag,血囊
+item_bloodbag_description,The contents of a leech. Ick!,水蛭的內臟。噁！
+item_feathers,Feathers,羽毛
+item_feathers_description,A small pile of feathers.,一小堆羽毛。 
+item_fircone,Fir cone,冷杉毬果
+item_fircone_description,Plant it to grow a fir tree.,種下這個就能長出冷杉。
+item_pinecone,Pine cone,松樹毬果
+item_pinecone_description,Plant it to grow a pine tree.,種下這個就能長出松樹。
+item_beechseeds,Beech seeds,櫸樹種子
+item_beechseeds_description,Plant them to grow a beech tree.,種下這個就能長出櫸樹。
+item_flint,Flint,燧石
+item_flint_description,Can be shaped into sharp blades.,可以打磨成利刃。
+item_greydwarfeye,Greydwarf eye,矮灰妖之眼
+item_greydwarfeye_description,The milky eyeball of a Greydwarf.,矮灰妖的混濁眼珠。
+item_guck,Guck,樹膿
+item_guck_description,It smells like fermented fish.,聞起來像發酵過的魚。
+item_leatherscraps,Leather scraps,碎皮料
+item_leatherscraps_description,A small pile of leather scraps.,一小堆碎皮料。
+item_hide,Hide,毛皮
+item_hide_description,An animal hide.,動物的毛皮。
+item_deerhide,Deer hide,鹿皮
+item_deerhide_description,A cleaned hide from a deer.,清理乾淨的鹿皮。
+item_wolfpelt,Wolf pelt,狼皮
+item_wolfpelt_description,A pelt of shaggy fur.,毛茸茸的毛皮。
+item_loxpelt,Lox pelt,氂獸皮
+item_loxpelt_description,"A heavy pelt of thick, musty fur.",有霉味的厚重毛皮。
+item_iron,Iron,鐵錠
+item_iron_description,A bar of pure iron ready to be worked.,可供加工的純鐵錠。
+item_ironore,Iron ore,鐵礦石
+item_ironore_description,Unrefined iron. Needs to be refined in a smelter.,未精煉的鐵。需要放進冶煉爐中精煉。
+item_ironscrap,Scrap iron,鐵碎屑
+item_ironscrap_description,It's old and rusty but can be smelted and used again.,雖然老舊生鏽，但可以冶煉再利用。
+item_ironnails,Iron nails,鐵釘
+item_ironnails_description,Needed for advanced construction projects.,高級的建造項目會需要。
+item_bronzenails,Bronze nails,青銅釘
+item_bronzenails_description,Used in construction of ships and furniture.,用於造船和製作家具。
+item_resin,Resin,樹脂
+item_resin_description,Sticky tree resin that insulates well. If put to the flame it burns slow and steady.,隔熱良好的黏性樹脂。如果點燃，它會緩慢而穩定地燃燒。
+item_sharpeningstone,Sharpening stone,磨刀石
+item_sharpeningstone_description,A whetstone wheel ready to spin.,可供旋轉的磨刀石輪。
+item_stone,Stone,石頭
+item_stone_description,It's a rock.,一塊石頭。
+item_surtlingcore,Surtling core,火精之核
+item_surtlingcore_description,It throbs with inner heat.,脈動著內部的高溫。
+item_tin,Tin,錫錠
+item_tin_description,A bar of pure tin ready to be worked.,可供加工的純錫錠。
+item_tinore,Tin ore,錫礦石
+item_tinore_description,Unrefined tin. Needs to be refined in a smelter.,未精煉的錫。需要放進冶煉爐中精煉。
+item_silver,Silver,銀錠
+item_silver_description,A bar of pure silver ready to be worked.,可供加工的純銀錠。
+item_silverore,Silver ore,銀礦石
+item_silverore_description,Unrefined silver. Needs to be refined in a smelter.,未精煉的銀。需要放進冶煉爐中精煉。
+item_crystal,Crystal,水晶
+item_crystal_description,A shard of crystal from deep within the earth.,來自地底深處的水晶碎片。
+item_trollhide,Troll hide,巨魔皮
+item_trollhide_description,A thick and sturdy hide. This is why trolls are so hard to kill.,厚實堅固的皮。這也是巨魔這麼難殺的原因。
+item_turnip,Turnip,蕪菁
+item_turnip_description,A turnip.,一顆蕪菁。
+item_turnipseeds,Turnip seeds,蕪菁種子
+item_turnipseeds_description,These can be planted in cultivated soil.,可以種植在翻耕過的土壤上。
+item_carrot,Carrot,胡蘿蔔
+item_carrot_description,An orange treat.,橙色佳餚。
+item_carrotseeds,Carrot seeds,胡蘿蔔種子
+item_carrotseeds_description,Plant these if you like carrots...,如果喜歡胡蘿蔔的話，就種吧……
+item_witheredbone,Withered bone,枯骨
+item_witheredbone_description,"A giant bone, knotted like old wood.",巨大的骸骨，骨節突得像棵老樹。
+item_wood,Wood,木材
+item_wood_description,Good strong wood to build with.,適用於建造的堅固木材。
+item_finewood,Fine wood,優質木材
+item_finewood_description,High quality wood for fine carpentry.,用於精細木工的高品質木材。
+item_roundlog,Core wood,樹芯木材
+item_roundlog_description,Perfect for building log cabins.,建造小木屋的完美選擇。
+item_flametal,Flametal,焰金錠
+item_flametal_description,"The pure, shimmering core of a meteorite.",純粹、閃爍的隕石核心。
+item_flametalore,Flametal ore,焰金礦石
+item_flametalore_description,Warm to the touch with glowing veins of strange metal. Needs to be refined in a smelter.,觸感溫熱，閃耀著奇特金屬的紋理。需要放進冶煉爐中精煉。
+item_ooze,Ooze,沼泥
+item_ooze_description,Rotten and putrid-smelling. Why do you want this?,腐敗發臭。你為什麼想要這個？
+item_honey,Honey,蜂蜜
+item_honey_description,Sweet and tasty.,香甜味甘。
+item_barley,Barley,大麥
+item_barley_description,A bundle of barley.,一捆大麥。
+item_barleyflour,Barley flour,大麥麵粉
+item_barleyflour_description,Great for baking bread.,烤麵包的最佳原料。
+item_flax,Flax,亞麻
+item_flax_description,Unspun fibers from a flax plant.,取自亞麻植物的未紡纖維。
+item_linenthread,Linen thread,亞麻線
+item_linenthread_description,A fine linen thread made out of strong flax filament.,用強韌的亞麻纖維製成的優質亞麻線。
+item_bonefragments,Bone fragments,骸骨碎片
+item_bonefragments_description,A pile of shattered bones.,一堆破碎的骸骨。
+item_wolffang,Wolf fang,狼牙
+item_wolffang_description,Still sharp.,依舊尖銳。
+item_hardantler,Hard antler,堅硬鹿角
+item_hardantler_description,A piece of very hard antler.,一節非常堅硬的鹿角。
+item_queenbee,Queen bee,蜂后
+item_queenbee_description,The queen of the bees!,蜜蜂的女王！
+item_cryptkey,Swamp key,沼澤鑰匙
+item_cryptkey_description,"Partly covered in caked mud, it smells foetid.",有的地方沾著結塊的泥巴，聞起來很臭。
+item_sausages,Sausages,香腸
+item_sausages_description,"Links of savory, smoked meat.",一串飄香的煙燻肉品。
+item_wishbone,Wishbone,許願骨
+item_wishbone_description,This ancient bone remembers the location of many forgotten things.,這塊古老的骨頭記得許多被遺忘之物的位置。
+item_beltstrength,Megingjord,力量腰帶
+item_beltstrength_description,Gives the wearer superhuman strength.,能賦予穿戴者超凡的力量。
+item_freezegland,Freeze gland,凍結腺體
+item_freezegland_description,This mysterious organ keeps a perfect temperature.,這神祕的器官能保持完美的溫度。
+item_dragonegg,Dragon egg,龍蛋
+item_dragonegg_description,"Far heavier than it looks, with a faint humming sound from within.",比看起來要重得多，裡面還傳出微弱的轟鳴聲。
+item_obsidian,Obsidian,黑曜石
+item_obsidian_description,Dark volcanic glass.,漆黑的火山玻璃。
+item_serpentscale,Serpent scale,海蟒鱗
+item_serpentscale_description,The shiny metal-like scale from a sea serpent.,取自海蟒的閃亮金屬狀鱗片。
+item_serpentmeat,Serpent meat,海蟒肉
+item_serpentmeat_description,"A slice of sea serpent, smells fishy.",一片海蟒肉，有股魚腥味。
+item_serpentmeatcooked,Cooked serpent meat,熟海蟒肉
+item_serpentmeatcooked_description,"A cooked slice of sea serpent, smells good.",一片煮熟的海蟒肉，香味四溢。
+item_chitin,Chitin,甲殼素
+item_chitin_description,A shard of crustacean shell.,甲殼類動物的外殼碎片。
+item_dragontear,Dragon tear,龍之淚
+item_dragontear_description,"The last frozen tears of a dragon, pulsating with mysterious energy.",龍的最後一滴凍結的眼淚，脈動著神祕的能量。
+item_ymirremains,Ymir flesh,尤彌爾的肉
+item_ymirremains_description,The earthy remains of the giant Ymir.,巨人尤彌爾的泥土般遺骸。
+item_goblintotem,Fuling totem,惡精圖騰
+item_goblintotem_description,Channels the ancient power of Yagluth.,能傳導亞古魯斯的古老力量。
+item_blackmetal,Black metal,黑鋼錠
+item_blackmetal_description,A heavy bar of dark metal.,沉重的漆黑金屬錠。
+item_blackmetalscrap,Black metal scrap,黑鋼碎屑
+item_blackmetalscrap_description,A twisted hunk of dark metal.,扭曲的漆黑金屬塊。
+item_fishingbait,Fishing bait,魚餌
+item_fishingbait_description,Common dvergr fishing bait. Fishing rod sold separately.,普通的矮人魚餌。釣竿另售。
+item_fishingrod,Fishing rod,釣竿
+item_fishingrod_description,Standard issue dvergr fishing rod.,標準的矮人釣竿。
+item_needle,Needle,針
+item_needle_description,The pointy end of a Deathsquito.,死神蚊的尖喙。
+,,
+,,
+item_coins,Coins,錢幣
+item_coins_description,<color=yellow>Valuable</color>,<color=yellow>貴重物品</color>
+item_ruby,Ruby,紅寶石
+item_ruby_description,<color=yellow>Valuable</color>,<color=yellow>貴重物品</color>
+item_amber,Amber,琥珀
+item_amber_description,<color=yellow>Valuable</color>,<color=yellow>貴重物品</color>
+item_amberpearl,Amber pearl,琥珀珍珠
+item_amberpearl_description,<color=yellow>Valuable</color>,<color=yellow>貴重物品</color>
+item_silvernecklace,Silver Necklace,銀項鏈
+item_silvernecklace_description,<color=yellow>Valuable</color>,<color=yellow>貴重物品</color>
+,,
+,,
+item_pickable_barley,Barley,大麥
+item_pickable_bogiron,Bog iron,沼鐵礦
+item_pickable_branch,Branch,樹枝
+item_pickable_meteorite,Meteorite,隕石
+item_pickable_skeletalremains,Skeletal remains,骷髏遺骸
+item_destructible_gucksack,Guck sack,樹膿包
+item_pickable_obsidian,Obsidian,黑曜石
+,,
+,,
+customization_beard01,Long 1,長鬚1
+customization_beard02,Long 2,長鬚2
+customization_beard03,Short 1,短鬚1
+customization_beard04,Short 2,短鬚2
+customization_beard05,Braided 1,辮鬚1
+customization_beard06,Braided 2,辮鬚2
+customization_beard07,Short 3,短鬚3
+customization_beard08,Thick 1,濃鬚1
+customization_beard09,Braided 3,辮鬚3
+customization_beard10,Braided 4,辮鬚4
+customization_nobeard,No beard,無
+,,
+,,
+customization_hair01,Ponytail 1,馬尾1
+customization_hair02,Ponytail 2,馬尾2
+customization_hair03,Braided 1,辮髮1
+customization_hair04,Ponytail 3,馬尾3
+customization_hair05,Short 1,短髮1
+customization_hair06,Long 1,長髮1
+customization_hair07,Ponytail 4,馬尾4
+customization_hair08,Short 2,短髮2
+customization_hair09,Side Swept 1,側分1
+customization_hair10,Side Swept 2,側分2
+customization_hair11,Braided 2,辮髮2
+customization_hair12,Braided 3,辮髮3
+customization_hair13,Braided 4,辮髮4
+customization_hair14,Side Swept 3,側分3
+customization_nohair,No hair,光頭
+,,
+,,
+se_burning_start,You are burning,你燒起來了
+se_burning_tooltip,You are on fire!,你著火了！
+se_smoked_start,You can't breathe in the smoke,你無法在濃煙中呼吸
+se_cold_start,You feel cold,你覺得很冷
+se_cold_stop,You are getting warmer,你漸漸暖和了
+se_cold_repeat,You are cold,你很冷
+se_freezing_start,You are freezing,你快凍僵了
+se_freezing_stop,You are getting warmer,你漸漸暖和了
+se_freezing_repeat,You are freezing,你快凍僵了
+se_healthupgrade_stop,You feel stronger,你覺得更強壯了
+se_staminaupgrade_stop,You feel stronger,你覺得更強壯了
+se_potion_start,You drink the potion,你喝了藥水
+se_shelter_start,You are sheltered,你有遮蔽了
+se_shelter_stop,You are exposed,你沒有遮蔽了
+se_warm_start,You feel warm,你覺得暖和
+se_wet_start,You are wet,你身上濕了
+se_wet_stop,You are dry again,你身上乾了
+se_wet_repeat,You are wet,你身上濕了
+se_encumbered_start,You are carrying too much,你帶得太多了
+se_encumbered_repeat,You are carrying too much,你帶得太多了
+se_encumbered_tooltip,You are encumbered and cannot run.,你超重了，跑不動。
+se_cozy_start,You feel cozy,你覺得舒適
+se_resting_start,Resting,休息中
+se_rested_start,You feel rested,你覺得精力充沛
+se_rested_stop,You don't feel rested anymore,你不再覺得精力充沛
+se_rested_comfort,Comfort,舒適度
+se_wishbone_start,You can sense hidden objects,你可以探測到隱藏之物
+se_beltstrength_start,You feel stronger,你覺得更強壯了
+se_beltstrength_tooltip,Increase max carry weight.,負重上限增加。
+se_poisonres_name,Poison resistance,抗中毒
+se_frostres_name,Frost resistance,抗冰霜
+se_frostres_tooltip,You are protected against the cold.,你受到保護，免於寒冷。
+se_burning_name,Burning,著火
+se_smoked_name,Smoked,濃煙
+se_smoked_tooltip,Breathing smoke is unhealthy.,吸入濃煙是不健康的。
+se_fire_name,Fire,熱源
+se_fire_tooltip,Warm from a cozy fire.,舒適的火溫暖著你。
+se_cold_name,Cold,寒冷
+se_cold_tooltip,Lower health and stamina regeneration.,生命和耐力回復量降低。
+se_coldres_name,Cold resistance,抗寒冷
+se_cozy_name,Cozy,舒適
+se_encumbered_name,Encumbered,超重
+se_freezing_name,Freezing,凍僵
+se_freezing_tooltip,"You are freezing, no health regeneration and significant lowered stamina regeneration.",你快凍僵了，生命不會回復，耐力回復量也大幅降低。
+se_frost_name,Frost,冰霜
+se_frost_tooltip,You suffer from hypothermia.,你遭受失溫之苦。
+se_lightning_name,Lightning,閃電
+se_lightning_tooltip,Lightning damage.,閃電造成的傷害。
+se_healthupgrade_name,Health upgrade,生命升級
+se_mead_name,Mead,蜂蜜酒
+se_poison_name,Poison,中毒
+se_poison_start,You have been poisoned,你中毒了
+se_poison_tooltip,Poison damage.,中毒造成的傷害。
+se_potion_frostresist_tooltip,You are protected against the cold.,你受到保護，免於寒冷。
+se_potion_healthmedium_tooltip,Health over time.,生命會隨時間回復。
+se_potion_healthminor_tooltip,Health over time.,生命會隨時間回復。
+se_potion_poisonresist_tooltip,You take less damage from poison.,你受到中毒的傷害減少。
+se_potion_staminaminor_tooltip,Regenerate stamina fast.,耐力回復速度加快。
+se_potion_staminamedium_tooltip,Regenerate stamina fast.,耐力回復速度加快。
+se_potion_barleywine_tooltip,You take less damage from burning.,你受到火焰的傷害減少。
+se_potion_tasty_tooltip,Lower health and stamina regeneration.,生命和耐力回復量降低。
+se_healthpotionmedium_name,Health potion,治療藥水
+se_healthpotionminor_name,Minor health potion,初級治療藥水
+se_staminapotion_name,Stamina potion,耐力藥水
+se_rested_name,Rested,精力充沛
+se_rested_tooltip,"You feel rested, health and stamina regeneration is higher.",你覺得精力充沛，生命和耐力回復量提高。
+se_resting_name,Resting,休息
+se_resting_tooltip,"You are currently resting, health and stamina regeneration is significantly higher.",你目前正在休息，生命和耐力回復量大幅提高。
+se_shelter_name,Shelter,遮蔽
+se_shelter_tooltip,You are sheltered from the weather.,你有地方遮風蔽雨。
+se_spirit_name,Spirit,靈能
+se_spirit_tooltip,Extra damage vs undead.,對不死生物有額外傷害。
+se_staminaupgrade_name,Stamina upgrade,耐力升級
+se_trollseteffect_name,Sneaky,潛匿
+se_trollseteffect_tooltip,Makes you more sneaky.,讓你更加隱蔽。
+se_warm_name,Warm,溫暖
+se_warm_tooltip,You are warm.,你很暖和。
+se_wet_name,Wet,濕透
+se_wet_tooltip,Lowering your health and stamina regeneration.,生命和耐力回復量降低。
+se_wishbone_name,Wishbone,許願骨
+se_wishbone_tooltip,Helps you find hidden things. Move in the direction the pings get more intense.,能幫助你找到隱藏之物。向探測訊號更強烈的方向移動吧。
+se_softdeath_name,No skill drain,無技能流失
+se_softdeath_tooltip,If you die you won't lose any skill points.,如果你死了，你不會損失任何技能點。
+se_eikthyr_name,Eikthyr,櫟神鹿
+se_eikthyr_start,You activate the power of Eikthyr.,你發動了櫟神鹿的力量。
+se_eikthyr_tooltip,Your ability to run and jump is improved.,你奔跑和跳躍的能力提升。
+se_theelder_name,The Elder,古老樹妖
+se_theelder_start,The Elder's power surges through you.,古老樹妖的力量在你全身奔流。
+se_theelder_tooltip,Faster wood cutting.,伐木速度加快。
+se_bonemass_name,Bonemass,骨泥聚合體
+se_bonemass_start,Bonemass spirit lives in you now.,骨泥聚合體的靈魂附在你身上了。
+se_bonemass_tooltip,Resistance VS physical damage.,對物理傷害有抗性。
+se_moder_name,Moder,亞龍之母
+se_moder_start,Even in death Moder still cries.,即使死了，亞龍之母仍哀吼著。
+se_moder_tooltip,Always tailwind when sailing.,航行時永遠順風。
+se_yagluth_name,Yagluth,亞古魯斯
+se_yagluth_start,The cosmic powers of Yagluth.,亞古魯斯的宇宙之力。
+se_yagluth_tooltip,Resistance VS magic damage and lightning damage.,對魔法傷害和閃電傷害有抗性。
+se_health,Health,生命
+se_stamina,Stamina,耐力
+se_healthregen,Health regen,生命回復量
+se_staminaregen,Stamina regen,耐力回復量
+se_max_carryweight,Max carry weight,負重上限
+se_jumpstamina,Jump stamina usage,跳躍耐力消耗
+se_runstamina,Run stamina usage,奔跑耐力消耗
+se_harpooned_name,Harpooned,魚叉
+se_harpooned_tooltip,You have been harpooned.,你被魚叉刺中了。
+se_noisemod,Noise,聲響
+se_sneakmod,Sneak,潛行
+se_corpserun_name,Corpse run,屍奔
+se_corpserun_tooltip,You can run longer and take significantly less damage from physical attacks.,你可以跑得更久，受到物理攻擊的傷害也大幅減少。
+,,
+,,
+event_wolves_start,You are being hunted...,你正在被獵殺……
+event_wolves_end,The hunt is over,獵殺結束了
+event_foresttrolls_start,The ground is shaking,地面正在震動
+event_foresttrolls_end,The shakes starts to fade,震動開始減弱了
+event_surtlings_start,There's a smell of sulfur in the air...,空氣中瀰漫著硫磺味……
+event_surtlings_end,The smell is fading,硫磺味正在散去
+event_eikthyrarmy_start,Eikthyr rallies the creatures of the forest,櫟神鹿召集了林中生物
+event_eikthyrarmy_end,The creatures are calming down,生物漸趨平靜
+event_gdkingarmy_start,The forest is moving...,森林正在移動……
+event_gdkingarmy_end,The forest rests again,森林恢復平靜了
+event_bonemassarmy_start,A foul smell from the swamp,沼澤飄來一股惡臭
+event_bonemassarmy_end,The smell is gone,惡臭消散了
+event_moderarmy_start,A cold wind blows from the mountains,山上吹來一陣寒風
+event_moderarmy_end,The cold wind is gone,寒風停息了
+event_skeletons_start,Skeleton surprise,骷髏突然冒出
+event_skeletons_end,Skeletons are tired of fighting,骷髏們戰得筋疲力盡了
+event_goblinarmy_start,The horde is attacking,部落正在進攻
+event_goblinarmy_end,The horde is retreating,部落正在撤退
+event_boss01_start,Eikthyr is awakened,櫟神鹿被喚醒了
+event_boss01_end,Eikthyr defeated,櫟神鹿被擊敗了
+event_boss02_start,The Elder is awakened,古老樹妖被喚醒了
+event_boss02_end,The Elder defeated,古老樹妖被擊敗了
+event_boss03_start,Bonemass is awakened,骨泥聚合體被喚醒了
+event_boss03_end,Bonemass defeated,骨泥聚合體被擊敗了
+event_boss04_start,Moder is awakened,亞龍之母被喚醒了
+event_boss04_end,Moder defeated,亞龍之母被擊敗了
+event_boss05_start,King Yagluth is awakened,亞古魯斯王被喚醒了
+event_boss05_end,King Yagluth defeated,亞古魯斯王被擊敗了
+,,
+,,
+skill_swords,Swords,劍
+skill_knives,Knives,短刀
+skill_clubs,Clubs,棍棒
+skill_polearms,Polearms,長柄武器
+skill_spears,Spears,矛
+skill_shields,Shields,盾
+skill_blocking,Blocking,格擋
+skill_axes,Axes,斧
+skill_woodcutting,Wood cutting,伐木
+skill_bows,Bows,弓
+skill_firemagic,Fire magic,火焰魔法
+skill_frostmagic,Frost magic,冰霜魔法
+skill_unarmed,Unarmed,徒手
+skill_pickaxes,Pickaxes,鎬
+skill_jump,Jump,跳躍
+skill_run,Run,奔跑
+skill_sneak,Sneak,潛行
+skill_swim,Swim,游泳
+skill_woodworking,Woodworking,木工
+skill_blacksmithing,Blacksmithing,鍛造
+skill_cooking,Cooking,烹飪
+,,
+,,
+skill_swords_description,Damage with swords.,劍的傷害。
+skill_knives_description,Damage with knives.,短刀的傷害。
+skill_clubs_description,Damage with clubs.,棍棒的傷害。
+skill_polearms_description,Damage with polearms.,長柄武器的傷害。
+skill_spears_description,Damage with spears.,矛的傷害。
+skill_shields_description,not used.,未使用。 
+skill_blocking_description,Damage absorbed when blocking with a weapon or shield.,用武器或盾格擋時所吸收的傷害。
+skill_axes_description,Damage with axes.,斧的傷害。
+skill_woodcutting_description,Axe damage when hitting trees.,伐木時斧的傷害。
+skill_bows_description,Damage with bows.,弓的傷害。
+skill_firemagic_description,Write something,寫點什麼吧
+skill_frostmagic_description,Write something,寫點什麼吧
+skill_unarmed_description,Damage when unarmed.,徒手的傷害。
+skill_pickaxes_description,Damage with pickaxes.,鎬的傷害。
+skill_jump_description,Jump height.,跳躍高度。
+skill_run_description,Speed and stamina drain when running.,奔跑時的速度和耐力消耗。
+skill_sneak_description,Stamina drain and stealthiness when sneaking.,潛行時的耐力消耗和隱蔽性。
+skill_swim_description,Stamina drain when swimming.,游泳時的耐力消耗。
+,,
+,,
+ship_holdfast,Hold fast,穩住
+,,
+,,
+raven_interact,Talk,交談
+tutorial_start_topic,Welcome to Valheim,歡迎來到英靈界
+tutorial_start_label,Hugin: Tip,胡金：提示
+tutorial_start_text,"Start tips: try to interact with things in the environment. Some items like stones, branches and pieces of flint can be collected and used for crafting. 
+
+To open your inventory and crafting screen press $KEY_Inventory.","入門提示：請試著與環境中的物體互動。
+某些物品，例如石頭、樹枝、燧石等，
+可以採集並用於工藝製作。
+
+要打開背包和製作介面，請按$KEY_Inventory。"
+tutorial_stemple1_label,Hugin: Welcome,胡金：歡迎
+tutorial_stemple1_topic,"Welcome to the 10th World, warrior",歡迎來到第十世界，戰士
+tutorial_stemple1_text,"I am Hugin, sent here to guide you in your travels.
+
+The megaliths surrounding you are the Sacrificial Stones. They represent the Forsaken, which you must slay in order to ascend to Valhalla.","我是胡金，被派來做你旅途的嚮導。
+
+你周圍的這些巨石是獻祭石。
+它們代表著放逐者們，
+你必須殺了他們才能晉升到英靈殿。"
+tutorial_stemple2_label,Hugin: Vegvisirs,胡金：羅盤石
+tutorial_stemple2_topic,This stone is a Vegvisir,這塊石頭是羅盤石
+tutorial_stemple2_text,"These magical stones were scattered throughout the lands by Odin as signposts pointing toward the ritual grounds of the Forsaken.
+
+If inspected closer, this one will reveal the summoning place of Eikthyr, your <color=yellow>first prey</color>. He is a mighty beast, so you need to properly arm yourself before even attempting to defeat him.","這些魔法石是被奧丁散落在各地的，
+作為指向放逐者們儀式場地的路標。
+
+如果仔細觀察，這塊石頭會透露你的<color=yellow>第一個獵物</color>
+櫟神鹿的召喚地點。他是一頭強大的野獸，
+所以在嘗試擊敗他之前，你必須好好武裝自己。"
+NOT USED tutorial_stemple3_label,,
+NOT USED tutorial_stemple3_text,,
+tutorial_stemple4_label,Hugin: Eikthyr defeated,胡金：櫟神鹿已被擊敗
+tutorial_stemple4_topic,Odin is pleased,奧丁很高興
+tutorial_stemple4_text,"You have been granted the power of Eikthyr, use it in times of need.
+
+Your next target dwells in the Black forest. Go there, explore the lands, and uncover their lost treasures and resources.
+
+The Elder awaits!","你被賜予了櫟神鹿的力量，請在需要的時候使用。
+
+下一個目標棲身在黑森林。去那裡探索一番，
+揭開它們失落的寶藏和資源吧。
+
+古老樹妖在等著你！"
+tutorial_death_label,Hugin: Death,胡金：死亡
+tutorial_death_topic,You suffered a mortal blow!,你受到了致命一擊！
+tutorial_death_text,"Each time you are struck down, you will <color=yellow"">forget a small part of your abilities and drop your belongings</color> at the site of the accident.
+
+If you wish you were home by now I'd recommend <color=yellow"">building a bed</color>, wherever home may be.","每次被擊倒後，你會<color=yellow"">忘記一小部分能力，
+並將財物遺留</color>在出事現場。
+
+如果你希望重生在家裡的話，
+我建議你在作為家的地方<color=yellow"">建造一張床</color>。"
+tutorial_inventory_label,Hugin: Inventory,胡金：背包
+tutorial_inventory_topic,Take stock of your inventory,清點你的背包
+tutorial_inventory_text,"Most items must be crafted. However, due to your recent departure from Midgard, you will have to recall the true shape of objects. Just pick things up and it will all come back to you, I'm sure.
+
+My lesser brother, Munin, tells me one can fashion a Stone Axe out of <color=yellow>Wood and Stone</color>.","大多數物品都需要手工製作。但由於你剛離開中土界，
+導致你必須回想世間萬物的真實樣貌。
+我相信只要拾取各種東西，所有記憶都會回來的。
+
+我的弟弟穆寧告訴我，人們可以用<color=yellow>木材和石頭</color>製作石斧。"
+tutorial_weight_label,Hugin: Encumberance,胡金：超重
+tutorial_weight_topic,You need to lighten your load!,你需要減輕負擔！
+tutorial_weight_text,"If you carry too much luggage you will become encumbered, slowing you down and preventing you from regaining your stamina.","如果你帶太多東西就會超重，
+拖慢你的腳步，並阻礙你回復耐力。"
+tutorial_cold_label,Hugin: Cold,胡金：寒冷
+tutorial_cold_topic,Be wary of the weather,注意天氣變化
+tutorial_cold_text,"When the temperature drops at night, or if you are wet, you will suffer from being cold. This reduces your stamina regeneration.
+
+Seeking shelter by an open flame is your best option when this happens.","當夜晚溫度下降或濕透時，你會感到寒冷。
+這會降低你的耐力回復量。
+
+在這種情況下，在熱源旁避難是你最好的選擇。"
+tutorial_hunger_label,Hugin: Hunger,胡金：飢餓
+tutorial_hunger_topic,You need sustenance,你需要食物
+tutorial_hunger_text,"Consuming food is of <color=yellow>utmost importance</color> to a viking warrior, even in the afterlife. Having a full belly both fortifies your health and improves your stamina.
+
+Food can be found everywhere in the world, and a great deal of it can be prepared at a <color=yellow>Cooking station</color>.","進食對維京戰士來說是<color=yellow>最重要的</color>，即使在死後也是。
+填飽肚子既能提高生命，還能改善耐力。
+
+食物遍布在世界各地，而且大多可以用<color=yellow>烹飪架</color>料理。"
+tutorial_food_label,Hugin: Food,胡金：食物
+tutorial_food_topic,A tasty morsel!,美味佳餚！
+tutorial_food_text,"You have found a snack, consume it to improve your health and stamina.
+
+Be aware that before long you will grow hungry again, so try to always have at least a couple of different meals ready.","你找到了少量食物，吃下它來提高你的生命和耐力吧。
+
+請注意，不久後你又會逐漸飢餓，
+所以請盡量攜帶至少兩三種不同的食物。"
+tutorial_hammer_label,Hugin: Hammer,胡金：工匠槌
+tutorial_hammer_topic,You have crafted a Hammer,你製作了工匠槌
+tutorial_hammer_text,"With this tool you will raise mighty halls and towering fortifications.
+
+Start by building a <color=yellow>Workbench</color>, this in turn will enable you to construct other things.","有了這個工具，就可以搭起雄偉的殿堂和高聳的堡壘。
+
+首先，請先建造<color=yellow>工作檯</color>，這將使你能夠建造其它東西。"
+tutorial_hoe_label,Hugin: Hoe,胡金：鋤頭
+tutorial_hoe_topic,You have crafted a Hoe,你製作了鋤頭
+tutorial_hoe_text,"This tool is used for landscaping, you could say it is the perfect complement to the Hammer.
+
+Use it to clear the ground and manipulate the terrain. It is easier to create buildings on level ground!","這個工具是用於景觀改造的，可以說是工匠槌的好搭檔。
+
+用它來清理地面和調整地形吧。
+在平地上建造房屋會比較容易喔！"
+tutorial_ore_label,Hugin: Ore,胡金：礦石
+tutorial_ore_topic,You have found some ore,你發現了一些礦石
+tutorial_ore_text,"Raw ore needs to be refined in the <color=yellow>Smelter</color> before you can work it at the <color=yellow>Forge</color>.
+
+To build a Smelter you will need <color=yellow>Surtling Cores</color>. Search for them in the dark places beneath the earth.","礦石必須先在<color=yellow>冶煉爐</color>中精煉，才能在<color=yellow>鍛爐</color>進行加工。
+
+要建造冶煉爐，你需要<color=yellow>火精之核</color>。
+去地下漆黑的地方尋找它們吧。"
+tutorial_workbench_label,Hugin: Workbench,胡金：工作檯
+tutorial_workbench_topic,You have built a Workbench,你建造了工作檯
+tutorial_workbench_text,The Workbench allows you to craft <color=yellow>complex Items</color> as well as giving you access to lots of more <color=yellow>Building Pieces</color> to construct with the Hammer.,"工作檯能讓你製作<color=yellow>複雜的物品</color>，還能讓你在用工匠槌時，
+建造許許多多的<color=yellow>建築部件</color>。"
+tutorial_portal_label,Hugin: Portals,胡金：傳送門
+tutorial_portal_topic,You have built a Portal,你建造了傳送門
+tutorial_portal_text,"Portals are great for fast travel between different parts of the world.
+
+Of course, you need to build one on the other end as well, then give the pair the same name and they will be automatically connected!","傳送門是世界各地之間快速旅行的好東西。
+
+當然，你需要在另一端也建造傳送門，
+然後給雙方設置相同的標籤，它們就會自動連接！"
+tutorial_altar_label,Hugin: Forsaken altars,胡金：放逐者祭壇
+tutorial_altar_topic,Calling forth the beast,召喚野獸
+tutorial_altar_text,"You have found the summoning place of one of the Forsaken. Make the correct offering at their altar and they will come.
+
+Be wary though, the Forsaken are not easy prey. So craft a wicked weapon, don your finest armor, and eat a hearty meal before engaging them in combat.","你找到了一處放逐者的召喚之地。
+在祭壇獻上正確的祭品，他們就會出現。
+
+但要小心，放逐者可不是好欺負的。
+所以在與他們交戰前，請先製作超強的武器，
+穿上最好的防具，並吃一頓豐盛的大餐吧。"
+tutorial_crypt_label,Hugin: Dungeons,胡金：地城
+tutorial_crypt_topic,Treasures lie below,寶藏長眠在地下
+tutorial_crypt_text,"Delves and dungeons can be found across the 10th World. They are monuments of the past, and most often filled with the riches of civilizations long lost.
+
+Remember to bring a light source!","洞穴和地城遍布在第十世界各地。它們是昔日的
+遺蹟，往往還留下了許多失落已久的文明財富。
+
+記得要帶照明用品喔！"
+tutorial_pickaxe_label,Hugin: Pickaxe,胡金：鎬
+tutorial_pickaxe_topic,You have crafted a Pickaxe,你製作了鎬
+tutorial_pickaxe_text,"Black forest is rich in minerals, there you can find copper in the ground and tin lining the ocean shore.
+
+Now go forth and strike the earth!","黑森林蘊藏著豐富的礦產，在那裡，
+你可以在地面上找到銅，在海岸邊找到錫。
+
+好了，快去挖礦吧！"
+tutorial_bosstrophy_label,Hugin: Forsaken trophy,胡金：放逐者戰利品
+tutorial_bosstrophy_topic,"Congratulations, warrior!",恭喜，戰士！
+tutorial_bosstrophy_text,Return to the Sacrificial Stones with your Forsaken trophy and offer it as a sacrifice to make the Gods smile upon you.,"帶著你的放逐者戰利品回到獻祭石那裡，
+並將其作為祭品獻上，讓諸神對你微笑吧。"
+tutorial_wishbone_label,Hugin: Wishbone,胡金：許願骨
+tutorial_wishbone_topic,Bonemass left you a parting gift,骨泥聚合體給你留了臨別禮
+tutorial_wishbone_text,"It seems one of the many bones this living ossuary hid in his belly was a Wishbone.
+
+This bone contains powerful magic that guides you to things hidden in the earth. It can locate Silver veins, but may also lead you to buried treasure...","看來這個活骨甕藏在肚子裡的許多骨頭中，有一塊是許願骨。
+
+這塊骨頭蘊含強大的魔法，能指引你找到隱藏在地底的東西。
+它可以探測銀礦脈的位置，但也可能帶你找到埋藏的寶藏……"
+tutorial_blackforest_label,Hugin: Black forest,胡金：黑森林
+tutorial_blackforest_topic,Turn back! This is a dangerous place,快回去！這是個危險的地方。
+tutorial_blackforest_text,You have wandered into Black forest. This place can be very dangerous for those unprepared for it. Prove your worth by slaying Eikthyr.,"你誤入了黑森林。
+這個地方對沒有準備好的人來說，是非常危險的。
+殺了櫟神鹿，證明你的實力吧。"
+tutorial_guardstone_label,Hugin: Ward,胡金：結界石
+tutorial_guardstone_topic,You have built a Ward,你建造了結界石
+tutorial_guardstone_text,The Ward emits a strong aura that prevents other vikings from building things. It also locks all doors within its influence.,"結界石能散發強烈的氣場，以阻止其他維京戰士
+建造東西。它也能鎖住影響範圍內的所有門。"
+tutorial_smelter_label,Hugin: Smelter,胡金：冶煉爐
+tutorial_smelter_topic,You have built a Smelter,你建造了冶煉爐
+tutorial_smelter_text,"Deposit your raw ore in this furnace and it will melt away all impurities, leaving you with a bar of refined metal to work at the Forge.
+
+You will need <color=yellow>Coal</color> to fuel the Smelter, this can be produced by building a Kiln and loading it with Wood.","將礦石放進這個爐中，它會融掉所有雜質，
+留下精煉的金屬錠，以供你在鍛爐進行加工。
+
+你需要<color=yellow>煤炭</color>作為冶煉爐的燃料，這可以透過
+建造煤炭窯，並在其中添加木材來生產。"
+tutorial_bed_label,Hugin: Settling in,胡金：定居
+tutorial_bed_topic,A headrest for the weary!,消除疲勞的良方！
+tutorial_bed_text,"Sleep the night away in your bed and awaken feeling refreshed and full of energy.
+
+Another improvement to your home would be some chests where you can store items. <color=yellow>It is good practice to always have some spare equipment</color>, if something unfortunate should happen to you while exploring...","在床上好好睡上一晚，睡醒後會神清氣爽、精力充沛。
+
+此外，放置一些可以存放物品的箱子，家就會變得更好。
+<color=yellow>最好隨時備著一些裝備</color>，以防萬一在探險時遭遇不幸……"
+tutorial_randomevent_label,Hugin: Invasions,胡金：侵略
+tutorial_randomevent_topic,You have been invaded,你被侵略了
+tutorial_randomevent_text,"Monsters will lay siege to your camp from time to time. Strength of arms does not guarantee you victory in these situations, build a strong defence to weather out the storm!","怪物不時會圍攻你的營地。在這種情況下，武力並不能
+保證你的勝利，建立強大的防線來度過難關吧！"
+tutorial_randomimp1,Hail warrior.,你好，戰士。
+tutorial_randomimp2,Well met.,幸會。
+tutorial_randomimp3,I bring tidings.,我帶來了消息。
+tutorial_random1,Kraa!,嘎啊啊！
+tutorial_random2,Was that a vole...,那是田鼠嗎……
+tutorial_random3,Fair weather...,天氣不錯……
+,,
+,,
+piece_lorestone,Runestone,符文石
+lore_gdking,BURN THEIR YOUNG,焚其幼種
+lore_bonemass,COOK THEIR REMAINS,烹其遺骸
+lore_eikthyr,HUNT HIS KIN,獵其眷族
+lore_dragonqueen,SACRIFICE HER SPAWN,祭其雛蛋
+lore_goblinking,AND HIS DYING SOUL WAS SPLIT AND SHARED AMONG ALL HIS KIN,其奄息的靈魂由族眾共分
+lore_intro,"Long ago, the Allfather Odin united the worlds. He threw down his foes and cast them into the tenth world, then split the boughs that held their prison to the World-Tree, and left it to drift unanchored, a place of exile…
+
+
+
+For centuries, this world slumbered uneasily. But it did not die... As glacial ages passed, kingdoms rose and fell out of sight of the gods.
+
+
+
+When Odin heard his enemies were growing once again in strength, he looked to Midgard and sent his Valkyries to scour the battlefields for the greatest of their warriors. Dead to the world, they would be born again…
+
+
+
+…in VALHEIM!","很久以前，諸神之父奧丁統一了世界。
+他打倒了敵人，把他們關進了第十世界，
+然後劈開了支撐此監獄的世界樹的枝幹，
+任其漂流，成為流放之地……
+
+
+
+幾個世紀以來，這個世界不安地沉睡著。
+但它並沒有死……歷經多次冰河時期，
+歷經無數王國在諸神眼中興衰。
+
+
+
+當奧丁聽聞他的敵人又再次壯大時，
+他把希望寄託於了中土界，並派了女武神
+搜索戰場，以尋找最偉大的戰士們。
+他們在人間死後，將重生在……
+
+
+
+英靈界！"
+lore_intro_OLD,"To prove that you are worthy of entering Valhalla you have been sent to Valheim, the 10th Norse world. Only by defeating the mighty beasts of these lands will you win the favor of the gods.","為了證明你有資格進入英靈殿，
+你被送到了第十北歐世界──英靈界。
+只有擊敗這片土地上的強大野獸，
+你才能贏得諸神的垂青。"
+lore_greydwarfs_label,Lore: Greydwarfs,傳說：矮灰妖
+lore_greydwarfs,"Let all who read me beware of the Greydwarfs, the skulkers in darkness, the soulless ones. They are born from rot and rainfall, they spring like mushrooms from the smoking soil. There is nothing on their tongues or behind their eyes, those who fear nothing should still fear them.
+
+When the soul of a murderer or a great sinner rots under the ground, it makes a hollow cyst which draws rock and wood and moss to it. It gathers up the peat into flesh, braids reeds into bone and takes rags for skin.
+
+It should not walk but when the night comes it walks. Should you who read this see one with a sword to your hand, lance it and let it out. Or put it to the torch, for it fears the flame.","凡聞吾者，當謹防矮灰妖，暗之伏者、無魂之輩也。
+其生於腐朽、雨水，如菇般冒自燻土。
+其舌上眼後空無深邃，令無畏之人也當畏之。
+
+殺人犯或大罪者之魂，朽腐於地底時，
+能形空囊，吸引岩石、木頭及苔蘚。
+其聚泥炭為肉，編蘆葦成骨，以破布作皮。
+
+此妖雖不能行，然夜幕降臨時，便能。
+今聞此者，汝若執劍見之，當斬之除之。
+或以火把燒之，因其懼火也。"
+lore_surtlings_label,Lore: Surtlings,傳說：火精
+lore_surtlings,"Let you who read me know of the Surtlings, that you might not fall prey to their wickedness.
+
+Long ago the great demon Surtr was brought down and destroyed by the First Men, giant warriors of whom you are but a dwindling echo. They smote long upon the body of this Surtr with swords and hammers so that his fiery substance was shattered into many small pieces.
+
+He who was made of the fire was fire in every part of him. You could not say ‘Here is the brain of Surtr’ or ‘Here is Surtr’s liver’ because every part was Surtr. So all the fragments of him were Surtr still, only much weaker in power and in thought and in memory, with no way to become whole once again.
+
+Now we call these fragments Surtlings and when they are found they should be stamped out like the last embers of a fire or doused with water to choke off their flames at the root. They will throw fire from afar and joy in causing terror and destruction. Even in his scattered dotage, the demon seeks revenge on the children of the First Men.","凡聞吾者，當悉知火精之事，以免遭其惡害。
+
+上古之初，惡魔蘇爾特爾被先民一族所伏，
+此族皆巨人戰士，汝乃其縮影也。其執劍執錘，
+曠日擊之，故火軀崩解，碎成諸多小塊。
+
+惡魔乃由火所造，全身皆火。汝不可說
+「此為腦」或「此為肝」，因皆是蘇爾特爾。
+故其碎塊仍是，惟其力量、意志、記憶，
+大不如前，難再融為一體。
+
+此碎塊，今以火精稱之，汝若尋見，
+當如餘火般踩之，或用水澆之，以滅其根。
+其能遠處投火，喜於製造恐怖、破壞。
+縱然支離破碎，惡魔仍不忘尋仇，
+獵先民之子。"
+lore_wraith_label,Lore: Wraiths,傳說：怨魂
+lore_wraith,"Rest, wanderer, and consider the wraiths.
+
+We know that when a warrior dies, their soul cracks open and seeps into the earth around them, thereby to nourish new life and strengthen those who follow after.
+
+Yet if a warrior should die with no great deeds to their name, their soul will be too thin and airy. It will flow upwards instead, like smoke from a hearth. These wisps of souls sometimes catch in the branches of trees long enough to form wraiths, wretched shadows with nothing but bitterness and jealousy to drive them. Blown about the land in despair, they remain only to prey on those who are still living.
+
+Should you see one, kill it and count it a mercy.","稍作歇息，流浪者，再論怨靈。
+
+眾所周知，戰士死後，靈魂便裂開滲入周土，
+從而滋養新生，壯大後繼。
+
+然戰士死時，若無大功在身，靈魂則稀薄空蕩。
+反如爐中之煙，冉冉上飄。
+此等魂絲，偶而纏樹，久而久之，便成怨靈、
+悲影，惟苦痛妒忌，一無所有。
+於絕望中遊蕩，其存只為折磨生者。
+
+汝若見之，當殺之，乃慈悲也。"
+lore_draugr_label,Lore: Draugr,傳說：屍鬼
+lore_draugr,"Long ages ago, the world of Valheim was home to a race of proud and noble people. They built great towers that touched the clouds and delved deep into the earth for precious metals. But their pride was their undoing. They challenged the very gods and went to war against the Aesir and the Vanir, destroying themselves completely. Great Odin levelled their cities and Loki consumed their mines in fire. Mighty Thor broke down their towers and Freya sowed their fields with salt tears.
+
+Now they are sunk many hundreds of years deep. No songs sing of their stories, and the earth has claimed their cities. But pride cannot be killed entirely and the warriors who fought in that final battle will not surrender until their bodies are dust and the dust long gone. They return as Draugr, unholy walkers in ancient armour, creatures of rust and despair.
+
+Break them, bury them, let them know they are dead.","上古之初，英靈界曾居驕貴之族。
+此族建起高塔，高可觸雲，深可入地掘金。
+然其傲慢，乃其敗因。此輩挑戰諸神，
+開戰阿薩、華納神族，徹底自毀。
+偉大奧丁夷其都城，洛基以火焚其礦井。
+強大索爾潰其高塔，芙蕾雅以淚溉其田地。
+
+而今此族沉陷百年。無人頌其跡，土石覆其城。
+然傲慢滅不絕，其終戰之將士，非灰飛煙滅，
+至死不降。此族以屍鬼之姿歸來，
+身披古甲之行屍、鏽蝕絕望之邪物也。
+
+毀之，葬之，使之知其已死。"
+lore_drake_label,Lore: Drake,傳說：亞龍
+lore_drake,"Let you who read me be aware of the Frost wyrms, one of the most ancient kins sprung from Ymir's body.
+
+The most common form of the wyrm are the Drakes, the small males that cares for the offspring. Most often they can be seen poised by rocky nests guarding the eggs. In contrast, the females are much larger and a rare sight to behold, but once angered they provide a vicious foe.","凡聞吾者，當知曉冰霜龍族，
+自尤彌爾之軀而生，上古一族也。
+
+龍族之中，亞龍最為常見，雄性體小，
+專司顧幼。常立於岩巢旁，護其龍蛋。
+相較之下，雌性體大，甚是罕見，
+然一旦激怒，必成凶猛之敵。"
+lore_meadows_random01,"Where the grass grows underfoot
+
+And the sky is blue overhead
+
+There will always be a hearth and a home
+","腳下芳草萋萋
+
+頭頂天空湛藍
+
+有爐有家好所在"
+lore_meadows_random02,"Long ages past, when the Allfather Odin united the worlds, he threw down the Vanir, the giants and those creatures older than any others. The greatest of them could not be killed but were instead Forsaken, exiled here to Valheim for eternity.
+
+When they tread the earth, the lesser creatures jump like crumbs on a drumskin. You will know them when you see them.
+","很久以前，諸神之父奧丁統一了世界，
+他打倒了華納神族、巨人族，
+以及那些古老的生物們。
+其中最古老的那群無法被殺死，成了放逐者，
+永遠地被流放到英靈界。
+
+當他們踩踏大地時，弱小的生物們
+會像鼓皮上的碎屑一樣被震起。
+等你看到就會知道了。"
+lore_meadows_random03,"Give thanks to Frey for the rain and sun
+
+For the shoots that break the earth's skin
+
+And the fruits of the vine
+
+Give thanks to Odin for the flesh and bone
+
+The smoke from the cooking fire, the warm pelt
+
+And the strength of your arm
+","感恩弗雷的雨露和陽光
+
+帶來破土而出的嫩芽
+
+以及藤蔓上的果實
+
+感恩奧丁的血肉和骨頭
+
+裊裊炊煙、暖暖毛皮
+
+以及您臂膀的力量"
+lore_meadows_random04,"Hold, traveller, and bear witness to my warning. We are many who have come before you, carried here by Odin's will to do his work. The path ahead is hard and the dangers great. If you hold your life dear, keep to these meadows and make your dwelling away from the trees. Fear the Horned One and spare his kin.
+","等等，旅行者，請聽從我的忠告。
+我們是在你之前來的一群人，
+被奧丁的意志帶到了這裡，為他效命。
+前方的道路艱難，危險重重。
+如果你珍惜生命的話，
+就待在這片草原，遠離樹林安居。
+敬畏有角的，不傷害其眷族。"
+lore_meadows_random05,"Heed these words of Ulf, a poor settler in a strange land. You will find here good stone and wood, all you need to build a house. You will need to craft a roof to keep out the rain. Then you will need walls to stop the roof from falling down. Finally, you must have a door or it will be much harder to go in and out.
+
+These things Ulf has learned for himself. Now he writes them on this stone to help others. Pray to Odin for his soul.","請留意可憐的異鄉人，沃夫的這些話。
+你會發現這裡有上好的石頭和木材，
+所有建造房屋所需的一切。
+你需要搭建屋頂來遮風蔽雨。
+然後你需要修建牆壁來防止屋頂塌落。
+最後，你必須裝一扇門，
+否則進出會很麻煩。
+
+這些都是沃夫自己領悟到的。
+現在，他將其刻在這塊石碑上來幫助他人。
+祈求奧丁，保佑他的靈魂。"
+lore_meadows_random06,"I was Astrid, a shieldmaiden of the forest. I know nothing of my life before I came here but my arm remembers the sword and my eyes see the course of the arrow. Now the raven guides me and I fight the great beasts in Odin's name.","我曾叫阿絲翠德，是一名森林盾女。
+我對來到這裡前的生活一無所知，
+但我的手記得怎麼用劍，眼睛也能看到箭的軌跡。
+現在，在渡鴉的指引下，
+我以奧丁之名，與巨獸作戰。"
+lore_meadows_boartaming,"This land is hard and wild but we who are brought here are harder still. Take comfort, traveller, in the gifts before you, the good wood and stone, the fruits and flowers of the forest.
+
+Look also to the wild boar who roam these lands. They fear fire and the hand of man but they can be taught to obey it. Go quietly to them and let them eat of your stock. Roots of the ground are their pleasure.","這片土地雖然嚴峻，
+但被帶來這裡的我們都是頑強的。
+安心吧，旅行者，眼前都是大自然的恩賜：
+上好的木材和石頭、森林的果實和花朵。
+
+再看看那些遊蕩的野豬。
+牠們雖然怕火和人類的手，但你可以馴服牠們。
+悄悄地接近，然後餵牠們吃你的食物。
+根莖類蔬菜是牠們的最愛。"
+lore_blackforest_random01,"Beware the deep trees, beware the true dark. When the night comes, keep close to your fire.","小心幽深樹林，小心漆黑至暗。
+當夜幕降臨時，不要遠離火源。"
+lore_blackforest_random02,"Beneath the ground, the roots of the forest twine together on a great loom. Pluck one thread and the whole weave will move. Chop down one tree and all the wood will know. Make yourself known to the One Who Walks, and he will seek you out.","地面之下，森林的樹根纏繞交錯，
+仿佛在一臺巨大的紡織機上。
+拉一根線，整個織物都會牽動。
+砍一顆樹，所有樹木都會知道。
+讓行走之物發現你的存在，
+那他就會找到你。"
+lore_blackforest_random03,"I was Harald, a man from the coast. I remember nothing more of my life in Midgard except that I was a warrior. In my dreams I see the faces of those I killed. I leave this stone that at least my name will remain.","我曾叫哈拉爾，是一名來自海灣的男人。
+我不記得我在中土界的生活，只記得我是個戰士。
+在夢中，我能看到那些被我殺死的人的面孔。
+我留下這塊石碑，這樣至少我的名字會被銘記。"
+lore_blackforest_random04,"Rest awhile and remember Ulf, who carved this stone with his own hand but could think of nothing to say.","休息一會，想想沃夫，
+他親手刻了這塊石碑，
+卻想不到要說什麼。"
+lore_blackforest_random05,Beware the Old One. The ravens say that in ages past he was a shoot of great Yggdrasil itself and a force of wisdom in the days when men and trees were friends. Now he scorns the axe and sets himself against the works of the Gods themselves. Odin banished him here for his pride but his roots are deep.,"小心古老者。
+據渡鴉們說，很久以前，
+在人類和樹木還是朋友的時候，
+他是偉大世界樹的嫩芽，也是智慧的力量。
+如今他鄙視斧頭，與諸神的造物對立。
+由於他的傲慢，奧丁將他流放到這裡，
+他卻在此深深扎根。"
+lore_blackforest_random06,We who were carried here by the Valkyrie are not the first men in this land. I have seen with my own eyes the halls they made beneath the ground and the ruins of their cities. Will the same fate await us?,"我們這些被女武神帶到這裡的人，
+並不是這片土地上的第一批人。
+我親眼見過他們在地下建造的宮殿，
+以及城市的廢墟。
+我們也會落得同樣的下場嗎？"
+lore_blackforest_random07,Seven were the creatures banished to this world by mighty Odin in the first days of his kingship. Seven gods and monsters too proud to bear his yoke. I have heard the tread of the Old Ones in the forest and have crouched in the shadow of the Mountain Mother when she flies. Of the others I know little. I will add to this stone when I have seen more.,"在奧丁稱王的最初幾天，有七個生物
+被他流放到這個世界。
+七個非常傲慢，不願意受他統治的神和怪物。
+我曾聽過森林裡古老者的腳步聲，
+也曾蹲在雪山之母飛翔時的影子底下。
+其他的我就不清楚了。
+等我見過更多，會再刻到這塊石碑上。"
+lore_swamp_random01,Heed the words of poor Ulf and do not build your house beside the murky waters. Bad dreams and a soggy bed are all you will find. I leave this stone as a warning and go now to make my dwelling on higher ground.,"請留意可憐沃夫的這些話，
+不要把房屋蓋在污濁的水域旁。
+這樣你只會得到噩夢和潮濕的床。
+我留下這塊石碑作為告誡，
+現在我要去高地蓋我的家了。"
+lore_swamp_random02,"Linger not, traveller. The air is pestilent and the water poison. The Draugr walk here and the thing I will not name stirs below the surface, a bitter mass of bone and sin. Tread carefully and quickly until you feel the sun on your face once more.","不要逗留，旅行者。空氣有害，水也有毒。
+這裡有屍鬼出沒，還有我叫不出名字的東西
+在水下攪動，一團骨頭和罪惡的結合物。
+請小心快速前進，直到感受到
+陽光再次照在你的臉上。"
+lore_swamp_random03,"In this gloomy region you may yet find something which shines. War-flesh, warrior's gold, bread of the forge... Bright iron is here for those who will take it!","在這片陰鬱的地區，你也許會找到閃閃發亮的東西。
+戰爭的肉、戰士的金、鍛爐的糧……光亮的鐵
+就在這裡，等著人來帶走它！"
+lore_swamp_random04,"You who pass, remember me. I am a man whose home was once in the mountains of Midgard, carried here when I thought to earn my rest, to find a life after life in Valheim. There were seven of us before the Greydwarves came. Now Odin will not hear me and the seas refuse me. Soon this stone will be all that remains.","路過的人啊，請記住我。
+我是人類，曾在中土界的山上安居，
+就當我以為可以長眠時，被帶到了這裡，
+在英靈界過著死後的生活。
+在矮灰妖來襲之前，我們原本有七個人。
+如今奧丁對我充耳不聞，
+大海也將我拒之門外。
+很快，這塊石碑將成為僅存的殘餘。"
+lore_swamp_random05,"Beware the surtlings, embers of a great fire long ago stamped to ashes. They are drawn to the swamp in numbers but their lights can be seen from afar. Keep to the high ground.","小心火精，
+那是昔日被踩成灰的大火餘燼。
+它們雖然被大量吸引到沼澤，
+但它們的火光從遠處就能看到。
+請待在高處。"
+lore_swamp_random06,"In centuries past, the Draugr walked these lands just as you do now. Pity them, caught between the living and the dead in a shadow of the world they once knew. To destroy them is a mercy.","在過去幾個世紀裡，屍鬼也和現在的
+你一樣，在這片土地上行走。
+可憐啊，在他們曾經熟悉的
+世界的陰影中，陷入生死的夾縫。
+消滅它們就是慈悲。"
+lore_swamp_random07,"Below the mist and murk
+
+Bone speaks to bone
+
+Remembering flesh.","朦朧霧氣之下
+
+骸骨竊竊私語
+
+念念不忘血肉軀"
+lore_mountains_random01,"Few of us found our way to these mountains. We were twenty and now we are two. Agda is dying, a Draugr arrow lies near her heart. I will bid her farewell beside this stone and give her ashes to the wind. Then I will turn my face to the highest peak and seek out the Winged One. May Odin give me death or glory.","我們幾個成功來到了這座雪山。
+起初有二十個人，現在只剩兩個人了。
+但艾格妲快死了，一支屍鬼的箭插在她的心臟附近。
+我將在這塊石碑旁與她告別，讓她的骨灰隨風而逝。
+然後，我會將臉朝向最高的山峰，去尋找有翼者。
+願奧丁賜予我死亡或榮耀。"
+lore_mountains_random02,"This marks the spot where the great drake was first seen by me, Ulf, in the third summer of my life in Valheim. She stopped here to leave a pile of dung holding the bones of deer, boar and the skull of a greydwarf. I will never come near this place again.","這個標記點，是我沃夫第一次看到
+巨大亞龍的地方，那時是我在英靈界的第三個夏天。
+她停在這裡，留下了一堆糞便，
+裡面參雜著鹿骨、野豬骨和矮灰妖的顱骨。
+我再也不會靠近這個地方了。"
+lore_mountains_random03,"Halt and listen, traveller. On the highest peaks of Valheim, the air is thin and fragile. From here you can sometimes catch sounds from other places, the ring of battle on Midgard, the roar of a feast in Valhalla or the shriek of a Valkyrie as she crosses the space between the worlds.","停下來仔細聽，旅行者。
+在英靈界最高的山峰上，空氣稀薄。
+在這裡你有時可以聽到其它地方的聲音：
+中土界戰爭的響喊，英靈殿宴會的喧嘩，
+或者女武神穿梭各個世界的呼嘯。"
+lore_mountains_random04,Where this stands I once saw the great drake flying above me and I hid in a bush until she passed. Ulf the Brave carved this stone.,"在這裡，我曾看到巨大亞龍從我頭頂飛過，
+而我躲在樹叢裡，直到她離開。
+勇者沃夫刻了這塊石碑。"
+lore_mountains_random05,"Let those who read me know not to tarry on these slopes, far from their hearth and the safety of the greenwood. The beasts of the mountains are fell and fierce, hungry for meat, and the worst of these beasts is the cold wind itself. Wear thick furs, build strong fires and be sure not to disturb the eggs of the great drake if you value your life.","讓我提醒你，不要在山坡上逗留，
+這裡離家和安全的綠林很遠了。
+山裡的野獸凶猛殘暴，渴望食肉，
+而最可怕的野獸就是寒風本身。
+如果你珍惜生命的話，
+請穿上厚毛皮，生起火堆，
+並千萬別驚動巨大亞龍的蛋。"
+lore_mountains_random06,"Great cities do not rise of themselves
+
+Harden your heart, settler in a strange land
+
+Build from the ground upwards","天無自興之城
+
+居異鄉，心要堅
+
+萬丈高樓平地起"
+lore_mountains_random07,"This stone was placed by me, Astrid, in my seventh year in Valheim. At this spot, the Allfather spoke to me. I awoke from a deep sleep to find his words scattered around me on the ground, frozen to pebbles by the deep cold. When I warmed them in my hands they thawed and spoke his message to me, one word after another.
+
+Slay the Forsaken. Chain their heads. I will come.","這塊石碑是我，阿絲翠德，待在英靈界的
+第七年所立的。在這裡，諸神之父曾對我說話。
+當時我從熟睡中醒來，發現他的話語
+被嚴寒凍得像卵石，散落在周圍的地面上。
+當我用手溫暖它們時，它們就融化了，
+一字一句向我傳達他的訊息。
+
+殺放逐者。拴其頭顱。吾必到來。"
+lore_mountains_fenring,"Watch for him in moonlight
+
+Haunter of the night.
+
+Soft of foot
+
+Sharp of tooth
+
+Slow to stalk
+
+Quick to bite.","月下當留心
+
+夜暗魑魅現
+
+步履輕
+
+齒牙利
+
+躡逐徐
+
+齧咬疾"
+lore_plains_random01,"Where no rain falls
+
+And no crops will grow
+
+Still the ground can give up treasures.","全年滴雨不落
+
+終年作物不生
+
+掘地三尺有寶藏"
+lore_plains_random02,"This place was too hot for Ulf, a man used to brushing snow from his beard. He carved this stone and moved on.","對習慣拂去鬍上雪花的沃夫來說，
+這個地方太熱了。
+他刻了這塊石碑後，就離開了。"
+lore_plains_random03,"Still your mind, traveller. Odin speaks to those who listen. Here in this barren land, one of the Forsaken Ones dwells. He is an ancient sorcerer twisted by bitterness, dragging what remains of his broken body across the sands. Surely Odin will smile upon the warrior who can vanquish this abhorrence.","靜下心來，旅行者。奧丁會對傾聽之人說話。
+在這片荒蕪的土地上，棲息著其中一位放逐者。
+他是被痛苦扭曲的古老巫師，拖著殘軀在沙地上遊走。
+奧丁肯定會對能戰勝這個憎惡之物的戰士微笑。"
+lore_plains_random04,"Near this spot I saw a star come unfastened from the great curtain of night and fall into the sand. It glowed red when I approached but by morning was cool. Blessed sword-flesh, furnace-food, a gift of iron from the Gods!","在這個地方附近，我看到一顆星從夜幕中劃落，
+掉進了沙地。當我走近時，它還發著紅光，
+但到了早上，它就冷卻了。
+刀劍的肉、熔爐的糧，諸神賜予的金屬啊！"
+lore_plains_random05,"Good friend, lay your hand on this stone and remember Harald, who carved it. In Midgard I lost my life on the battlefield but in Valheim it was restored to me. Yet still my battles continued.
+
+In the green meadows I fought Eikthyr the Great Stag and lost an eye to his horns.
+
+In the deep woods I gave my shield hand to the Old Man of the Forest, and took a draugr arrow below my ribs that my fingers can still feel.
+
+On the mountainside I fought the Mother Drake and she bit off my leg at the knee so that I must walk always with a staff.
+
+Now my last battle must be at hand. When I sleep this time, where will I wake?","摯友，把你的手放在這塊石碑上，
+銘記刻了這塊石碑的哈拉爾。
+我在中土界的戰場上喪命，但在英靈界重獲新生。
+然而我的戰鬥仍在繼續。
+
+在綠色草原，我與櫟神鹿搏鬥，
+被他的角戳瞎了一隻眼睛。
+
+在密林深處，我被森林的古老者扯斷了
+拿盾的手臂，肋下還中了屍鬼的箭，
+至今手指還摸得到。
+
+在雪山山坡，我與亞龍之母奮戰，
+她咬斷了我的一條小腿，
+以致我必須拄著拐杖才能走路。
+
+現在，我的最後一戰即將到來。
+這次我睡去後，會在哪裡醒來呢？"
+lore_plains_random06,"In my dream, Odin came to me as an old man leaning on a stick, a wide-brimmed traveller’s hat on his head. He told me to trust the ravens who carry his words under their tongues and to carve this stone that others might know his will. We must kill the Forsaken to find our places in his hall at Valhalla.","在我夢中，奧丁像個老人一樣拄著拐杖，
+頭上戴著一頂寬邊旅行帽，來到我的身邊。
+他告訴我要相信替他傳話的渡鴉，
+還要刻這塊石碑，讓其他人知道他的意志。
+我們必須殺了放逐者們，
+才能在他的英靈殿找到一席之地。"
+,,
+,,
+prop_ancienttree,Ancient tree,古樹
+prop_ancienttreeroot,Ancient root,古老樹根
+prop_treelog,Log,原木
+prop_treestump,Stump,樹墩
+prop_beech,Beech,櫸樹
+prop_beech_sapling,Beech sapling,櫸樹苗
+prop_birch,Birch,樺樹
+prop_fir,Fir,冷杉
+prop_fir_sapling,Fir sapling,冷杉苗
+prop_pine,Pine,松樹
+prop_pine_sapling,Pine sapling,松樹苗
+prop_oak,Oak,櫟樹
+,,
+,,
+enemy_troll,Troll,巨魔
+enemy_stonegolem,Stone Golem,石魔像
+enemy_drake,Drake,亞龍
+enemy_goblin,Fuling,惡精
+enemy_goblinbrute,Fuling Berserker,惡精狂戰士
+enemy_eikthyr,Eikthyr,櫟神鹿
+enemy_gdking,The Elder,古老樹妖
+enemy_bonemass,Bonemass,骨泥聚合體
+enemy_dragon,Moder,亞龍之母
+enemy_goblinking,Yagluth,亞古魯斯
+enemy_deathsquito,Deathsquito,死神蚊
+,,
+,,
+prop_eldersummoningbowl_name,Ancient bowl,古老祭盆
+prop_eldersummoningbowl_use,Burn item,燃燒物品
+prop_dragonsummoningbowl_name,Sacrificial altar,獻祭壇
+prop_eggcup,Offering bowl,祭品缽
+prop_offerbowl_makeoffer,Offer sacrifice,獻祭
+,,
+,,
+menu_server_warning,Warning,警告
+menu_server_info,Beware that joining any online server will put your game character at risk. It might be a good idea to create a separate character when playing online to reduce the risk of losing precious possessions. Also be aware that there is always a risk of encountering cheaters and griefers when playing online. Good luck!,"請注意，加入任何線上伺服器都可能
+會讓你的角色面臨風險。最好是建立
+單獨的角色進行連線，以降低失去寶
+貴財物的風險。另外要注意，連線時
+有可能會遇到作弊和搗亂的人。祝您
+好運！"
+,,
+,,
+loadscreen_tip01,"Don't forget to upgrade your crafting stations, weapons and armor.",別忘了升級你的製作檯、武器和防具。
+loadscreen_tip02,Eating food increases your health and stamina pools. Try to balance your three food slots accordingly.,進食能提高你的生命和耐力。請盡量照著三個食物槽均衡飲食。
+loadscreen_tip03,Upgraded stations enable various crafting options and lets you improve your equipment.,升級的製作檯能提供更多工藝選項，讓你改良裝備。
+loadscreen_tip04,"There are four principal crafting types: woodworking, masonry, smithing, and cooking.",主要的製作類型有四種：木工、石工、鍛造、烹飪。
+loadscreen_tip05,"Enemies won't spawn near player built structures (e.g., crafting tables, camp fires, etc.)",敵人不會在玩家建造的建築物附近生成（例如：製作檯、營火等）。
+loadscreen_tip06,Sitting is the safest way to travel while on a boat.,坐著是乘船時最安全的姿勢。
+loadscreen_tip07,"Upon your arrival in Valheim, try to find stones and branches on the ground to build your first weapon.",當你到達英靈界後，試著尋找地上的石頭和樹枝，以製作你的第一把武器。
+loadscreen_tip08,It is generally a bad idea to venture outside at night...,基本上，夜晚外出冒險是個壞主意……
+loadscreen_tip09,Hunting deer with a ranged weapon provides a good source of meat and skin.,用遠程武器獵鹿是個不錯的肉和皮的來源。
+loadscreen_tip10,Build a rudimentary shelter as soon as possible!,儘早建造一個基本的安身之所吧！
+loadscreen_tip11,"Different enemies are weak to different damage types. For instance, Greydwarfs don't like fire.",不同的敵人有不同的傷害類型弱點。例如：矮灰妖就怕火。
+loadscreen_tip12,"When you have built a bed, do not forget to claim it.",當你建造了床後，別忘了認領。
+loadscreen_tip13,Attacking with knives and bows while sneaking confers a large damage bonus.,潛行時用短刀或弓箭攻擊能造成大量額外傷害。
+loadscreen_tip14,Birds are a good source of feathers. They will stay close to the ground while the weather is bad.,鳥類是羽毛的良好來源。天氣不好的時候，牠們會待在地面。
+loadscreen_tip15,Hugin the raven offers helpful hints.,渡鴉胡金會提供有用的提示。
+loadscreen_tip16,Some resources require better gear to harvest them.,某些資源需要更好的工具才能採集。
+loadscreen_tip17,Being rested helps to regenerate stamina and health faster.,充分休息有助於更快地回復生命和耐力。
+loadscreen_tip18,"Yellow damage numbers indicate a weakness, grey numbers indicate a resistance.",黃色傷害數字表示弱點，灰色數字則表示抗性。
+loadscreen_tip19,"The hoe can flatten the ground, which makes it much easier to construct buildings.",鋤頭可以鋤平地面，這樣建造房屋就更容易了。
+loadscreen_tip20,Build a cart to haul heavy goods over longer distances.,建造手推車來長途搬運重物吧。
+loadscreen_tip21,Boats are controlled by interacting with the steering oar.,船可以透過船舵來控制。
+loadscreen_tip22,Tin and copper can be found in the Black Forest.,錫和銅可以在黑森林裡找到。
+loadscreen_tip23,"Look for berries and mushrooms. They help to keep your stomach full.
+",尋找莓果和蘑菇。它們有助於填飽肚子。
+,,
+,,
+guardianstone_eikthyr_desc,"His antlers are branches of iron
+They crack the rocks and bring down mountains
+His hooves are the sound of thunder
+His voice a howling gale","其角，硬如鐵枝
+可以開山劈石
+其蹄，響如雷鳴
+其聲，號如狂風"
+guardianstone_theelder_desc,"First of the Forest, King-in-the-Wood
+Lord over those who dwell at his feet
+His roots will grow where cities once stood
+Their blood his wine, their flesh his meat","森之初，林中王
+君臨足下萬萬民
+古城佇，盤根生
+敵輩血肉是酒糧"
+guardianstone_bonemass_desc,"Wanderer, look to your feet
+That tread upon our tomb
+One thousand bones without their meat
+Will drag you to your doom","流浪者，足下留神
+莫踏於吾墓之上
+無肉骨，成千上萬
+必使汝引致毀滅"
+guardianstone_moder_desc,"Black wings across the moon and sun
+Down from the mountain our mother comes
+Her weeping tears will fall like rain
+Her voice will call us home again","黑翼劃日月
+吾母下山來
+泣涕零如雨
+聲聲喚吾回"
+guardianstone_yagluth_desc,"Long ages past, he wore a crown
+Beneath a blood-red sky
+Now naught is left of all he was
+But his spirit cannot die","古昔戴冠加冕
+君臨血穹之下
+而今一無所有
+然其靈魂不滅"
+guardianstone_name,Sacrificial stone,獻祭石
+guardianstone_hook_name,Trophy hook,戰利品掛鉤
+guardianstone_hook_activate,Activate power,啟動放逐者之力
+guardianstone_hook_deactivate,Release power,解除放逐者之力
+guardianstone_hook_power_activate,Activated,已啟動
+guardianstone_hook_power_deactivate,Released,已解除
+guardianstone_trophyplaced,Forsaken sacrificed,放逐者已獻祭
+,,
+,,
+npc_haldor_greeting01,Humph! Another scrap of flesh from the Valkyries...,哼！又一個女武神帶來的碎肉……
+npc_haldor_greeting02,Well?,嗯？
+npc_haldor_greeting03,What do you want?,有何貴幹？
+npc_haldor_goodbye01,Try not to wander too far. I want your things when you get killed.,"盡量別走太遠喔。
+等你被殺了，我要你身上的東西。"
+npc_haldor_goodbye02,Away with you. I have things to do.,快走。我還有事要做。
+npc_haldor_goodbye03,Off you go then.,慢走不送啦。
+npc_haldor_trade01,"I'm interested in trade, not chatter. Do you want to buy something or not?","我想做的是生意，不是聊天。
+你到底買不買東西？"
+npc_haldor_trade02,"Come, let us make a deal.",來來來，咱們做個交易吧。
+npc_haldor_trade03,You're fortunate to have caught me in a good mood. Let us trade.,你運氣不錯，我心情正好。來交易吧。
+npc_haldor_buy01,"These are fine items, not the sort of things you can just pick up","這些都是上等貨，
+可不是你隨便可以撿到的。"
+npc_haldor_buy02,Don't touch anything unless you're prepared to pay for it.,除非你要買，否則請勿觸摸。
+npc_haldor_buy03,Cast your eyes over my goods but keep your hands to yourself.,可以用眼睛看，但不要用手摸。
+npc_haldor_buy04,Something here might keep you alive a little longer. Though I don't know why you'd bother.,"這裡的東西也許能讓你活得久一點。
+雖然我不知道你為什麼要自找麻煩。"
+npc_haldor_sell01,Let's see what scraps you've picked up...,讓我看看你都撿了什麼破爛……
+npc_haldor_sell02,"Hmm, what have we here?",嗯，這是什麼？
+npc_haldor_sell03,I wonder if anything sparkles amongst all this muck you carry...,"我很好奇，在你這堆破爛中
+有沒有閃閃發光的東西……"
+npc_haldor_sell04,Show me what you have.,讓我看看你有什麼。
+npc_haldor_smalltalk01,We're all lost here. The gods turned their eyes from Valheim a long time ago.,"我們都迷失在這裡了。
+諸神早就不關注英靈界了。"
+npc_haldor_smalltalk02,I suppose you're here to hunt the Forsaken Ones? I don't bother them and they don't bother me.,"我想你是來獵殺放逐者的吧？
+我不犯他，他不犯我。"
+npc_haldor_smalltalk03,"Fight, build, explore. It all ends in the grave.","戰鬥、建造、探索。
+一切都會在墳墓告終。"
+npc_haldor_smalltalk04,"You're no different to all the others that came before you, warrior. And you'll end the same way.","你和之前來的人沒什麼不同，戰士。
+你也會落得同樣的下場。"
+npc_haldor_smalltalk05,Commerce is the only thing that separates us from the beasts.,貿易是我們與野獸們唯一的區別。
+,,
+,,
+dream_random01,"You dream of a river running uphill, of green shoots turning downward into the earth…",你夢見河往高處流，芽往地下冒……
+dream_random02,"Once again, you run at the head of your warriors, the weight of your father's axe in your hand.
+
+You wake with the war-cry on your lips…","你又夢見手握父親的斧頭，率領著戰士們進攻。
+
+你醒來時，嘴裡還喊著戰爭的口號……"
+dream_random03,"In your dream, you sit beside a fire in a great hall, surrounded by the chatter of familiar voices.
+
+Their faces blur like smoke and their names slip your mind, but the warmth of their memory lingers…","在夢中，你坐在大殿的火爐旁，
+周圍都是熟悉的笑談聲。
+
+他們的容貌像煙霧般模糊，
+他們的名字從你腦海中淡去，
+但那溫暖的回憶，久久不能忘懷……"
+dream_random04,"You stand at the prow of a leaping ship, the salt spray before you and the joyful shriek of gulls above.
+
+Folded within a dream, you remember what it was like to be alive in the land of your birth.","你站在波濤洶湧的船頭，鹹鹹的浪花
+迎面而來，海鷗在天上喜悅鳴叫。
+
+在夢中，你回憶起在故鄉生活的感覺。"
+dream_random05,"You dream of a great tree reaching out through the night. One half of its branches crackle with flames, the others are green with leaves.","你夢見一棵巨樹徹夜求援。
+它的一半枝條被燒得劈啪作響，
+另一半則綠葉成蔭。"
+dream_eikthyr01,"You dream of running through a meadow, the sky alight with pale fire. There is a thunder of hoofbeats behind you but when you turn, nothing is there.
+
+You awaken with your heart pounding in your chest.","你夢見自己在草原上奔跑，天空燃燒著微暗的火。
+身後傳來如雷的蹄聲，你轉身回頭，卻什麼也沒看到。
+
+你醒來時，心臟在胸口還劇烈跳動著。"
+dream_elder01,"In your dream, the forest rises before you, dragging the trees upward like a cloak, its dark mass hiding the stars. At the mountain's peak, vast antlers frame the moon...","在夢中，森林在你面前聳然而立，
+把樹木像斗篷般掀起，漆黑一片，遮住了星辰。
+在山頂上，巨大的鹿角勾勒著月亮的輪廓……"
+dream_bonemass01,"You dream of a hundred ghosts crowding thickly around your bedside, seeking warmth and life until something thumps deep below the ground and they jump like crumbs on a drumskin and are gone.","你夢見數以百計的鬼魂擠在床邊，尋求溫暖和生命。
+直到地下砰的一聲，它們才像鼓皮上的碎屑一樣
+跳了起來，然後消失了。"
+dream_moder01,"You dream that you are flying over mountaintops, all of Valheim spread out below you.
+
+As you wheel and dive in the cold air, a great shape soars up past you to block the sun. In the darkness, it speaks. ""Seek me.""","你夢見自己在山峰上飛翔，俯瞰整個英靈界。
+
+當你轉身飛入寒風時，一個巨大的形體飛到你的上方，
+擋住了太陽。在黑暗中，它說：「來找我。」"
+dream_yagluth01,"In a chamber hung with golden drapes, you kneel before the throne of a veiled king. ""Sleep is but a mask,"" he tells you, lifting the veil slowly.
+
+You wake screaming.","在掛滿金色簾幔的大廳裡，你跪在蒙著面紗的國王座前。
+「長眠不過是個偽裝，」他說道，同時緩緩地揭開面紗。
+
+你尖叫著醒來。"
+,,
+,,
+deadspeak_eikthyr,So you were my death? You look so small and soft… Tell Odin he may have broken this form but the wilderness will never submit to his rules...,"哦，就是你殺了我嗎？看起來這麼小又柔弱……
+告訴奧丁，他也許摧毀了這具肉體，但荒野永遠
+不會屈服於他的統治……"
+deadspeak_elder,"Little thing of blood and bone, I should have snapped you like a twig! Now I wither and die, let the great tree have me...","血肉之軀的小傢伙啊，我真該把你像樹枝一樣折斷！
+現在我正在枯萎死去，願世界樹將我……"
+deadspeak_bonemass,"Thank you, warrior. We who lived on in this shape were denied the peace of death for too long. We go now...","感謝你，戰士。以這種姿態存在的我們，
+被剝奪死亡的安寧太久了。我們要走了……"
+deadspeak_moder,"Sheathe your pride, creature of Odin! My long reign is at an end but those who come after me are greater still...","收起你的驕傲吧，奧丁的走狗！我的長久統治
+即將終結，但我的追隨者會更勝於我……"
+deadspeak_yagluth,"Do you come to gloat, little thing? Do you know how many times I have been killed, broken, banished, burned and buried? You are not the first and you will not be the last.","你得意了嗎，小傢伙？你知道我被殺死、
+被摧毀、被放逐、被焚燒、被埋葬了多少次嗎？
+你不是第一個，也不會是最後一個。"
+,,
+,,
+npc_munin_general01,"Kraa! Well met, wanderer… I am Munin, brother to Hugin. I bring greetings from the Allfather. His eye sees through mine, I carry his words beneath my tongue. Keep his ways and I will come to you again…","嘎啊！幸會，流浪者……我是穆寧，
+胡金的弟弟。我代諸神之父問候你。
+他能透過我的眼睛觀察，藉由我的嘴傳話。
+遵循他的道路，我會再來找你的……"
+npc_munin_general02,"Kraa! All eyes are on this one. Big eyes, little eyes, eyes from above and eyes from below. Even the trees have eyes…","嘎啊！所有的眼睛都盯著這個人。
+大眼睛、小眼睛、上面的眼睛、下面的眼睛。
+連樹木都有眼睛……"
+npc_munin_general03,"Still you live, warrior? I had hoped for some little snack from your corpse, some morsel of carrion… Still, the Allfather will be pleased.","你還活著啊，戰士？我本來還
+期望能從你的屍體上得到點吃的，
+叼上幾口腐肉……算了，
+諸神之父會很高興的。"
+npc_munin_general04,"Are you lost in the fog, warrior? I see things your eyes once knew, paths you trod and faces you loved. Poor warrior…","你迷失在霧中了嗎，戰士？我能看到你曾經的
+所見所識，你走過的道路，你愛過的容顏。
+可憐的戰士……"
+npc_munin_general05,"Kraa! Do not forget your quest, wanderer! Remember why the Allfather sent you here. The Forsaken Ones must be destroyed. Remember!","嘎啊！別忘了你的使命，流浪者！
+記住諸神之父送你來的原因。
+放逐者必須被消滅。切記！"
+npc_munin_general06,"Ah, you have grown into a fine warrior! As a courtesy, I should tell you that when you die, we have agreed that Hugin will have your left eye as a treat and I will have your right. But we wish you well!","啊，你成長為一名出色的戰士了！
+出於禮貌，我應該告訴你，我和胡金說好了，
+等你死後，他吃你的左眼，而我吃右眼。
+但我們還是祝你一切安好！"
+npc_munin_general07,Kraa! Serve the Allfather well and he has given me leave to restore your memories. Do you remember the life you had before this one? It yet remembers you...,"嘎啊！你做得很好，諸神之父允許我恢復你的記憶。
+你還記得前世的生活嗎？它還記得你……"
+npc_munin_general08,"I had not thought you would survive so long… But guard against pride, friend. Battlefields are banquets to me, I know how all great warriors end...","沒想到你能活這麼久……但別驕傲，朋友。
+戰場對我來說就是場宴會，我知道所有
+偉大戰士們的下場會如何……"
+npc_munin_general09,"Kraa! Hear me now, I'll riddle you no longer. I am great Munin, the treasure-house of memory. I sit on the left shoulder of the Allfather and do his bidding in the ten worlds. I have seen many great warriors rise and fall but you are among the greatest. Know that Odin himself is watching you...","嘎啊！聽著，我不會再幫你解惑了。
+我是偉大的穆寧，記憶的寶庫。我棲於諸神之父
+的左肩，在第十世界遵從他的命令行事。
+我見過許多偉大的戰士興衰，但你是最偉大的
+戰士之一。要知道，奧丁正在看著你……"
+npc_munin_general10,Kraa! The Allfather sends tidings! He waits on your word to send the great bridge. Kill the Forsaken Ones and clear the way!,"嘎啊！諸神之父傳來了消息！
+他等著你的喜訊，以送你去彩虹橋。
+殺了放逐者們，掃除障礙吧！"
+,,
+,,
+lore_meadows_boartaming_label,Lore: Boars,傳說：野豬
+lore_mountains_fenring_label,Lore: Fenring,傳說：狼人
+,,
+settings_veryhigh,Very High,極高
+settings_sfxvol,Effect Volume,音效音量
+,,
+,,
+//NEW STUFF BELOW,,
+lore_plains_random07,"Beneath the ground are the halls of men and women long since gone, ancient tribes who lived in Valheim even before the Allfather turned his eye upon this place. Delve deep to find their treasures but beware, some amongst them do not yet know they are dead.","地面之下是亡故已久的死者廳堂，
+早在諸神之父關注這片土地前，
+他們已是居住在英靈界的古老部落。
+深入挖尋他們的寶藏吧，但請你小心，
+他們有些人還不知道自己已經死了。"
+settings_langchange_notice,Game restart is required when changing language.,變更語言後需要重新啟動遊戲。
+settings_langchange_community,*Community Translation,*社群翻譯
+enemy_fenring,Fenring,狼人
+enemy_greydwarf,Greydwarf,矮灰妖
+enemy_greydwarfbrute,Greydwarf brute,矮灰妖蠻兵
+enemy_greydwarfshaman,Greydwarf shaman,矮灰妖薩滿
+enemy_greyling,Greyling,小灰妖
+animal_fish,Fish,魚
+enemy_boar,Boar,野豬
+enemy_boarpiggy,Piggy,小野豬
+enemy_deer,Deer,鹿
+enemy_draugr,Draugr,屍鬼
+enemy_draugrelite,Draugr elite,屍鬼精英
+enemy_ghost,Ghost,鬼魂
+enemy_leech,Leech,水蛭
+enemy_lox,Lox,氂獸
+npc_halstein,Halstein,哈爾斯坦
+enemy_neck,Neck,水蜥
+npc_hugin,Hugin,胡金
+enemy_serpent,Serpent,海蟒
+enemy_skeleton,Skeleton,骷髏
+enemy_skeletonpoison,Rancid remains,腐臭遺骸
+enemy_surtling,Surtling,火精
+npc_haldor,Haldor,哈爾多
+enemy_wolf,Wolf,狼
+enemy_wolfcub,Wolf cub,幼狼
+enemy_wraith,Wraith,怨魂
+enemy_goblinshaman,Fuling shaman,惡精薩滿
+menu_feedback,"Do you have any bugs, cool ideas or general feedback you want to give us? Send us a message using this fancy mail button.","您是否有任何錯誤、點子或建議要告訴我們呢？
+請使用這個郵件按鈕給我們發消息吧！"
+tool_cart,Cart,手推車
+ship_karve,Karve,卡維船
+ship_raft,Raft,木筏
+ship_longship,Longship,維京長船
+,,
+menu_joinip,Join IP,加入IP
+,,
+enemy_blob,Blob,泥怪
+enemy_blobelite,Oozer,沼泥怪
+,,
+piece_deposit_silvervein,Silver vein,銀礦脈
+piece_offerbowl_bonemass,Boiling death,死亡鼎鑊
+piece_offerbowl_eikthyr,Mystical altar,神祕祭壇
+piece_offerbowl_yagluth,Mystical altar,神祕祭壇
+language_croatian,Croatian*,
+language_georgian,ქართული*,
+language_serbian,Serbian*,
+language_hindi,हिन्दी*,
+menu_connecting,Connecting,連線中
