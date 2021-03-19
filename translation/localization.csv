@@ -296,7 +296,7 @@ msg_nobuildzone,A mystical force in this area stops you,這片區域有股神祕
 msg_privatezone,The ward stops you,結界石阻止了你
 msg_noteleportarea,Can only be built inside a stone circle,只能在圈內建造
 msg_notindungeon,Can't be placed in a dungeon,無法放置在地城
-msg_blocked,Blocked,格擋
+msg_blocked,Blocked,擋住
 msg_invalidplacement,Invalid placement,無效的放置
 msg_needspace,Needs more space,需要更多空間
 msg_extensionmissingstation,Needs to be placed near the appropriate crafting station,需要放置在相應的製作檯附近
@@ -313,12 +313,12 @@ msg_nomore,You can't eat more $1,你不能再吃$1
 msg_added,Added,已添加
 msg_removed,Removed,已移除
 msg_broke_OLD,broke,損壞了
-msg_outof,You are out of,你缺少了
-msg_cantpickup,You can't pick that up,你無法拾取該物品
+msg_outof,You are out of,缺少
+msg_cantpickup,You can't pick that up,無法拾取該物品
 msg_noroom,No room in inventory,背包沒有空間
-msg_cantdrop,You can't drop that,你無法丟棄該物品
+msg_cantdrop,You can't drop that,無法丟棄該物品
 msg_dropped,Dropped,已丟棄
-msg_cantuseon,You can't use $1 on $2,你無法在$2上使用$1
+msg_cantuseon,You can't use $1 on $2,無法在$2上使用$1
 msg_useonwhat,Use $1 on what?,要把$1用在哪裡？
 msg_stationneedroof,Crafting station needs a roof,製作檯需要屋頂
 msg_stationtooexposed,Station is too exposed,製作檯的遮蔽太少
@@ -328,18 +328,18 @@ msg_bednofire,Bed needs a nearby fire,床需要靠近熱源
 msg_bedwet,You are wet,你身上濕了
 msg_bedenemiesnearby,There are enemies nearby,附近有敵人
 msg_spawnpointset,Spawn point set,復活點已設置
-msg_cantopen,You can't open it,你無法打開它
-msg_nocookitems,You don't have any cookable items,你沒有任何可烹飪的食材
-msg_needfire,You need to have a lit fire under the cooking station,你需要在烹飪架下方生火
+msg_cantopen,You can't open it,無法打開
+msg_nocookitems,You don't have any cookable items,沒有任何可烹飪的食材
+msg_needfire,You need to have a lit fire under the cooking station,需要在烹飪架下方生火
 msg_nocookroom,There is no room,沒有空間
-msg_cantaddmore,You can't add more $1,你無法再添加$1
+msg_cantaddmore,You can't add more $1,無法再添加$1
 msg_fireadding,Adding $1 to the fire,往火裡添加了$1
 msg_firenotburning,It's not burning,未燃燒
 msg_toofew,Too few,太少了
 msg_wrongitem,Wrong item,錯誤的物品
 msg_fireportalalready,Portal already activated,傳送門已啟動
 msg_throwinfire,You throw some $1 into the fire,你把一些$1扔進了火裡
-msg_noprocessableitems,You don't have any processable items,你沒有任何可加工的物品
+msg_noprocessableitems,You don't have any processable items,沒有任何可加工的物品
 msg_wontwork,That won't work,不管用
 msg_itsfull,It's full,滿了
 msg_wrongitem,Wrong item,錯誤的物品
@@ -353,12 +353,12 @@ msg_level,level,等級
 msg_newpiece,New build piece,新建造部件
 msg_newrecipe,New crafting recipe,新製作配方
 msg_cantoffer,Your offering is not answered,你的祭品沒有反應
-msg_cantsleep,You can't sleep at this time,你此刻不能睡覺
+msg_cantsleep,You can't sleep at this time,此刻不能睡覺
 msg_goodnight,Good night,晚安
 msg_goodmorning,Good morning,早安
-msg_food_done,You could eat another bite,你可以再吃一點
+msg_food_done,You could eat another bite,你可以多吃一點
 msg_toohard,Too hard,太硬了
-msg_blocked,Blocked,格擋
+msg_blocked,Blocked,擋住
 msg_skillup,Skill improved,技能已提升
 msg_noteleport,An item prevents you from teleporting,有物品阻礙傳送
 msg_pin_exist,Map location already added,地圖標記已添加過了
@@ -415,7 +415,7 @@ piece_toofar,Too far,太遠了
 piece_itemstand,Item stand,物品架
 piece_itemstand_take,Take item,拿取物品
 piece_itemstand_attach,Attach item,安放物品
-piece_itemstand_cantattach,You can't attach this item,你無法安放此物品
+piece_itemstand_cantattach,You can't attach this item,無法安放此物品
 piece_itemstand_missingitem,Missing required item,缺少需要的物品
 piece_door_open,Open,打開
 piece_door_close,Close,關閉
@@ -469,7 +469,7 @@ piece_vegvisir,Vegvisir,羅盤石
 piece_register_location,Register location,標記位置
 piece_ship_rudder,Use rudder,使用船舵
 piece_sign,Sign,看板
-piece_charcoalkiln,Charcoal kiln,煤炭窯
+piece_charcoalkiln,Charcoal kiln,木炭窯
 piece_cultivate,Cultivate,翻耕
 piece_firepit,Campfire,營火
 piece_bonfire,Bonfire,篝火
@@ -540,8 +540,8 @@ piece_stonestair,Stone stair,石階梯
 piece_stonewall1x1,Stone wall 1x1,石牆1x1
 piece_stonewall2x1,Stone wall 2x1,石牆2x1
 piece_stonewall4x2,Stone wall 4x2,石牆4x2
-piece_woodbeam1,Wood beam 1m,木梁1公尺
-piece_woodbeam2,Wood beam 2m,木梁2公尺
+piece_woodbeam1,Wood beam 1m,木梁1m
+piece_woodbeam2,Wood beam 2m,木梁2m
 piece_woodbeam26,Wood beam 26°,木梁26°
 piece_woodbeam45,Wood beam 45°,木梁45°
 piece_wooddoor,Wood door,木門
@@ -551,8 +551,8 @@ piece_woodfloor2x2,Wood floor 2x2,木地板2x2
 piece_woodfloor1x1,Wood floor 1x1,木地板1x1
 piece_woodgate,Wood gate,木製大門
 piece_woodledge,Wood ledge,木架
-piece_woodpole,Wood pole 1m,木柱1公尺
-piece_woodpole2,Wood pole 2m,木柱2公尺
+piece_woodpole,Wood pole 1m,木柱1m
+piece_woodpole2,Wood pole 2m,木柱2m
 piece_woodroof26,Thatch roof 26°,茅草屋頂26°
 piece_woodroof45,Thatch roof 45°,茅草屋頂45°
 piece_woodrooficorner,Thatch roof i-corner 26°,茅草內角屋脊26°
@@ -572,10 +572,10 @@ piece_woodwallrooftop45,Wood roof cross 45°,十字木梁45°
 piece_woodironbeam,Wood iron beam,鐵固木梁
 piece_woodironpole,Wood iron pole,鐵固木柱
 piece_woodwall,Wood wall,木牆
-piece_logbeam2,Log beam 2m,原木梁2公尺
-piece_logbeam4,Log beam 4m,原木梁4公尺
-piece_logpole2,Log pole 2m,原木柱2公尺
-piece_logpole4,Log pole 4m,原木柱4公尺
+piece_logbeam2,Log beam 2m,原木梁2m
+piece_logbeam4,Log beam 4m,原木梁4m
+piece_logpole2,Log pole 2m,原木柱2m
+piece_logpole4,Log pole 4m,原木柱4m
 piece_stonepile,Stone pile,石堆
 piece_chair,Chair,椅子
 piece_bed02,Dragon bed,龍床
@@ -651,7 +651,7 @@ Offer it to the Sacrificial Stones.","骸骨和黏稠物，被某種無形的力
 將其獻給獻祭石吧。"
 item_trophy_bonemass_lore,"A mess of black soil and old bone, thankfully quiet now.","整團沼泥和古老骸骨的
 混合物，幸好現在安靜
-了。"
+不動了。"
 item_trophy_dragonqueen,Moder trophy,亞龍之母戰利品
 item_trophy_dragonqueen_description,"The head of a dragon, majestic even in the rigor of death.
 
@@ -716,9 +716,9 @@ item_trophy_skeletonpoison_description,A rank and rotten skull. You're not sure 
 item_trophy_skeletonpoison_lore,A rank and rotten skull. You're not sure why you kept it...,"散發惡臭的腐爛顱骨。
 你並不清楚為什麼會留
 著它……"
-item_trophy_wraith,Wraith trophy,怨魂戰利品
-item_trophy_wraith_description,"The shed skin of a wraith, a flowing robe only visible by moonlight.",怨魂脫落的皮，只有在月光下才能看到飄逸的罩袍。
-item_trophy_wraith_lore,"The shed skin of a wraith, a flowing robe only visible by moonlight.","怨魂脫落的皮，只有在
+item_trophy_wraith,Wraith trophy,怨靈戰利品
+item_trophy_wraith_description,"The shed skin of a wraith, a flowing robe only visible by moonlight.",怨靈脫落的皮，只有在月光下才能看到飄逸的罩袍。
+item_trophy_wraith_lore,"The shed skin of a wraith, a flowing robe only visible by moonlight.","怨靈脫落的皮，只有在
 月光下才能看到飄逸的
 罩袍。"
 item_trophy_blob,Blob trophy,泥怪戰利品
@@ -775,7 +775,7 @@ item_trophy_lox,Lox trophy,氂獸戰利品
 item_trophy_lox_description,"A giant beast's head, thatched with thick fur.",巨獸的頭，覆蓋著厚實的毛皮。
 item_trophy_lox_lore,"A giant beast's head, thatched with thick fur.","巨獸的頭，覆蓋著厚實
 的毛皮。"
-item_trophy_deathsquito,Deathsquito trophy,死神蚊戰利品
+item_trophy_deathsquito,Deathsquito trophy,殺人蚊戰利品
 item_trophy_deathsquito_description,You don't like touching this thing even when it's dead.,就算牠死了，你也不會想碰。
 item_trophy_deathsquito_lore,You don't like touching this thing even when it's dead.,"就算牠死了，你也不會
 想碰。"
@@ -829,7 +829,7 @@ item_atgeir_blackmetal,Blackmetal atgeir,黑鋼戟
 item_atgeir_blackmetal_description,A vicious hewing-axe of almost unbreakable black metal.,用幾乎堅不可摧的黑鋼製成的殘暴砍削斧。
 item_knife_blackmetal,Blackmetal knife,黑鋼短刀
 item_knife_blackmetal_description,"A darkling blade, strong and sharp.",漆黑的刀刃，堅固又鋒利。
-item_bow,Crude bow,粗製弓
+item_bow,Crude bow,粗製木弓
 item_bow_description,A crude but functional bow.,粗糙但實用的弓。
 item_bow_finewood,Finewood bow,優質木弓
 item_bow_finewood_description,A simple bow of strong and supple wood.,用結實柔韌的木材製成的簡易弓。
@@ -1066,8 +1066,8 @@ item_ancientseed,Ancient seed,古老種子
 item_ancientseed_description,"Held against your ear, you hear tiny whisperings within...",貼近耳朵，會聽到裡面輕微的細語……
 item_chain,Chain,鎖鏈
 item_chain_description,A link of iron chain.,一節鐵鏈。
-item_coal,Coal,煤炭
-item_coal_description,A lump of coal.,一塊煤炭。
+item_coal,Coal,黑炭
+item_coal_description,A lump of coal.,一塊黑炭。
 item_coin,Coin,錢幣
 item_coin_description,A golden coin.,一枚金幣。
 item_copper,Copper,銅錠
@@ -1217,7 +1217,7 @@ item_fishingbait_description,Common dvergr fishing bait. Fishing rod sold separa
 item_fishingrod,Fishing rod,釣竿
 item_fishingrod_description,Standard issue dvergr fishing rod.,標準的矮人釣竿。
 item_needle,Needle,針
-item_needle_description,The pointy end of a Deathsquito.,死神蚊的尖喙。
+item_needle_description,The pointy end of a Deathsquito.,殺人蚊的尖喙。
 ,,
 ,,
 item_coins,Coins,錢幣
@@ -1274,7 +1274,7 @@ customization_nohair,No hair,光頭
 se_burning_start,You are burning,你燒起來了
 se_burning_tooltip,You are on fire!,你著火了！
 se_smoked_start,You can't breathe in the smoke,你無法在濃煙中呼吸
-se_cold_start,You feel cold,你覺得很冷
+se_cold_start,You feel cold,你覺得寒冷
 se_cold_stop,You are getting warmer,你漸漸暖和了
 se_cold_repeat,You are cold,你很冷
 se_freezing_start,You are freezing,你快凍僵了
@@ -1285,7 +1285,7 @@ se_staminaupgrade_stop,You feel stronger,你覺得更強壯了
 se_potion_start,You drink the potion,你喝了藥水
 se_shelter_start,You are sheltered,你有遮蔽了
 se_shelter_stop,You are exposed,你沒有遮蔽了
-se_warm_start,You feel warm,你覺得暖和
+se_warm_start,You feel warm,你覺得溫暖
 se_wet_start,You are wet,你身上濕了
 se_wet_stop,You are dry again,你身上乾了
 se_wet_repeat,You are wet,你身上濕了
@@ -1295,7 +1295,7 @@ se_encumbered_tooltip,You are encumbered and cannot run.,你超重了，跑不�
 se_cozy_start,You feel cozy,你覺得舒適
 se_resting_start,Resting,休息中
 se_rested_start,You feel rested,你覺得精力充沛
-se_rested_stop,You don't feel rested anymore,你不再覺得精力充沛
+se_rested_stop,You don't feel rested anymore,你不再精力充沛
 se_rested_comfort,Comfort,舒適度
 se_wishbone_start,You can sense hidden objects,你可以探測到隱藏之物
 se_beltstrength_start,You feel stronger,你覺得更強壯了
@@ -1353,7 +1353,7 @@ se_wet_tooltip,Lowering your health and stamina regeneration.,生命和耐力回
 se_wishbone_name,Wishbone,許願骨
 se_wishbone_tooltip,Helps you find hidden things. Move in the direction the pings get more intense.,能幫助你找到隱藏之物。向探測訊號更強烈的方向移動吧。
 se_softdeath_name,No skill drain,無技能流失
-se_softdeath_tooltip,If you die you won't lose any skill points.,如果你死了，你不會損失任何技能點。
+se_softdeath_tooltip,If you die you won't lose any skill points.,如果你死了，不會損失任何技能點。
 se_eikthyr_name,Eikthyr,櫟神鹿
 se_eikthyr_start,You activate the power of Eikthyr.,你發動了櫟神鹿的力量。
 se_eikthyr_tooltip,Your ability to run and jump is improved.,你奔跑和跳躍的能力提升。
@@ -1377,7 +1377,7 @@ se_max_carryweight,Max carry weight,負重上限
 se_jumpstamina,Jump stamina usage,跳躍耐力消耗
 se_runstamina,Run stamina usage,奔跑耐力消耗
 se_harpooned_name,Harpooned,魚叉
-se_harpooned_tooltip,You have been harpooned.,你被魚叉刺中了。
+se_harpooned_tooltip,You have been harpooned.,你被魚叉刺中。
 se_noisemod,Noise,聲響
 se_sneakmod,Sneak,潛行
 se_corpserun_name,Corpse run,屍奔
@@ -1638,8 +1638,8 @@ tutorial_smelter_text,"Deposit your raw ore in this furnace and it will melt awa
 You will need <color=yellow>Coal</color> to fuel the Smelter, this can be produced by building a Kiln and loading it with Wood.","將礦石放進這個爐中，它會融掉所有雜質，
 留下精煉的金屬錠，以供你在鍛爐進行加工。
 
-你需要<color=yellow>煤炭</color>作為冶煉爐的燃料，這可以透過
-建造煤炭窯，並在其中添加木材來生產。"
+你需要<color=yellow>黑炭</color>作為冶煉爐的燃料，這可以透過
+建造木炭窯，並在其中添加木材來生產。"
 tutorial_bed_label,Hugin: Settling in,胡金：定居
 tutorial_bed_topic,A headrest for the weary!,消除疲勞的良方！
 tutorial_bed_text,"Sleep the night away in your bed and awaken feeling refreshed and full of energy.
@@ -1679,21 +1679,21 @@ When Odin heard his enemies were growing once again in strength, he looked to Mi
 
 
 …in VALHEIM!","很久以前，諸神之父奧丁統一了世界。
-他打倒了敵人，把他們關進了第十世界，
-然後劈開了支撐此監獄的世界樹的枝幹，
+他打倒敵人，把他們關進了第十世界，
+然後劈開了支撐此牢獄的世界樹的枝幹，
 任其漂流，成為流放之地……
 
 
 
 幾個世紀以來，這個世界不安地沉睡著。
-但它並沒有死……歷經多次冰河時期，
-歷經無數王國在諸神眼中興衰。
+但它並沒有消亡……歷經多次冰河時期，
+歷經無數王國在諸神的視線之外興衰。
 
 
 
 當奧丁聽聞他的敵人又再次壯大時，
-他把希望寄託於了中土界，並派了女武神
-搜索戰場，以尋找最偉大的戰士們。
+他把希望寄託於了中土界，並派出女武神
+搜索戰場，去尋找最偉大的戰士們。
 他們在人間死後，將重生在……
 
 
@@ -1742,7 +1742,7 @@ Now we call these fragments Surtlings and when they are found they should be sta
 其能遠處投火，喜於製造恐怖、破壞。
 縱然支離破碎，惡魔仍不忘尋仇，
 獵先民之子。"
-lore_wraith_label,Lore: Wraiths,傳說：怨魂
+lore_wraith_label,Lore: Wraiths,傳說：怨靈
 lore_wraith,"Rest, wanderer, and consider the wraiths.
 
 We know that when a warrior dies, their soul cracks open and seeps into the earth around them, thereby to nourish new life and strengthen those who follow after.
@@ -2088,7 +2088,7 @@ enemy_gdking,The Elder,古老樹妖
 enemy_bonemass,Bonemass,骨泥聚合體
 enemy_dragon,Moder,亞龍之母
 enemy_goblinking,Yagluth,亞古魯斯
-enemy_deathsquito,Deathsquito,死神蚊
+enemy_deathsquito,Deathsquito,殺人蚊
 ,,
 ,,
 prop_eldersummoningbowl_name,Ancient bowl,古老祭盆
@@ -2348,7 +2348,7 @@ enemy_surtling,Surtling,火精
 npc_haldor,Haldor,哈爾多
 enemy_wolf,Wolf,狼
 enemy_wolfcub,Wolf cub,幼狼
-enemy_wraith,Wraith,怨魂
+enemy_wraith,Wraith,怨靈
 enemy_goblinshaman,Fuling shaman,惡精薩滿
 menu_feedback,"Do you have any bugs, cool ideas or general feedback you want to give us? Send us a message using this fancy mail button.","您是否有任何錯誤、點子或建議要告訴我們呢？
 請使用這個郵件按鈕給我們發消息吧！"
