@@ -86,7 +86,6 @@ menu_removeworld,Remove World?,是否刪除世界？
 menu_ndaaccept,Accept,接受
 menu_ndadecline,Decline,拒絕
 menu_resettutorial,Reset Tutorial,重置教學
-,,
 feedback_topic,Feedback,意見回饋
 feedback_subject,Subject,標題
 feedback_text,Write something,寫點什麼吧
@@ -183,8 +182,6 @@ button_ralt,R-Alt,右Alt
 button_lctrl,L-Ctrl,左Ctrl
 button_rctrl,R-Ctrl,右Ctrl
 button_return,Return,Enter
-,,
-,,
 chat_entertext,Enter text...,輸入文字...
 chat_kill,Kill yourself,自殺
 chat_resetspawn,Reset spawn point,重置復活點
@@ -252,7 +249,7 @@ inventory_new,New item,新物品
 inventory_upgrade,Upgrade $1 quality to $2,將$1品質升級到$2
 OLD inventory_upgrade,Upgrade item,升級物品
 inventory_repairbutton,Repair an item,修理物品
-inventory_pvp,Take damage from other players (PVP),會受到其他玩家傷害（PvP）
+inventory_pvp,Take damage from other players (Friendly Fire),會受到其他玩家傷害（隊友傷害）
 inventory_takeall,Take all,全部拿取
 inventory_use,Use/Equip ,使用/裝備
 inventory_pickup,Pick up,拾取
@@ -376,8 +373,8 @@ msg_offerwrong,Nothing happens,什麼也沒發生
 msg_missingitem,You don't have the correct item,你沒有正確的物品
 msg_newday,Day $1,第$1天
 msg_newtext,$1 added to the compendium,$1已添加到概要
-msg_pvpon,PVP-damage enabled,已啟用PvP傷害
-msg_pvpoff,PVP-damage disabled,已禁用PvP傷害
+msg_pvpon,PVP-damage enabled,已啟用隊友傷害
+msg_pvpoff,PVP-damage disabled,已禁用隊友傷害
 msg_inuse,Someone else is using it,其他人正在使用
 msg_broke,$1 broke,$1損壞了
 msg_fishing_hooked,Hooked,上鉤了
@@ -590,7 +587,7 @@ piece_sharpstakes,Sharp stakes,尖木樁
 piece_spinningwheel,Spinning wheel,紡車
 piece_offerbowl_makeoffer,Make offering,獻祭
 piece_offerbowl_offeritem,Offer item,獻祭物品
-piece_mudpile,Muddy scrap pile,泥濘的碎料堆
+piece_mudpile,Muddy scrap pile,泥濘的廢料堆
 piece_tombstone,Here rests,這裡長眠著
 piece_tombstone_recovered,Items recovered,物品已全部拾取
 piece_deposit_tin,Tin deposit,錫礦床
@@ -729,10 +726,11 @@ item_trophy_draugr_description,Bind up the mouth if it starts to whisper in the 
 item_trophy_draugr_lore,Bind up the mouth if it starts to whisper in the night...,"它要是在半夜開始竊竊
 私語，就把它的嘴縫上
 吧……"
-item_trophy_draugrelite,Draugr Elite trophy,精英屍鬼戰利品
-item_trophy_draugrelite_description,The dead stare of the glowing red eyes sends a shiver through your bones.,那雙發光紅眼的凝視，使你背脊發涼。
-item_trophy_draugrelite_lore,The dead stare of the glowing red eyes sends a shiver through your bones.,"那雙發光紅眼的凝視，
-使你背脊發涼。"
+item_trophy_draugrelite,Draugr Elite trophy,屍鬼精英戰利品
+item_trophy_draugrelite_description,The dead stare of the glowing red eyes sends a shiver through your bones.,那雙發光的紅眼睛死死地盯著你，使你背脊發涼。
+item_trophy_draugrelite_lore,The dead stare of the glowing red eyes sends a shiver through your bones.,"那雙發光的紅眼睛死死
+地盯著你，使你背脊發
+涼。"
 item_trophy_leech,Leech trophy,水蛭戰利品
 item_trophy_leech_description,"Although slimy, the skin is beautifully patterned in red and black.",雖然滑溜溜的，但皮膚上有紅黑相間的美麗花紋。
 item_trophy_leech_lore,"Although slimy, the skin is beautifully patterned in red and black.","雖然滑溜溜的，但皮膚
@@ -937,7 +935,7 @@ item_helmet_bronzehorned,Horned bronze helmet,青銅角盔
 item_helmet_bronzehorned_description,Bronze helmet with attached horns for extra awesome.,有角的青銅盔，格外威武。
 item_helmet_dverger,Dverger circlet,矮人頭箍
 item_helmet_dverger_description,A portable perpetual lightsource for the dungeon explorer.,地城探險家專用的便攜式永久光源。
-item_helmet_padded,Padded helmet,內襯盔
+item_helmet_padded,Padded helmet,襯墊盔
 item_helmet_padded_description,"A snug fit, finely made.",舒適貼頭，作工精細的頭盔。
 ,,
 ,,
@@ -1040,9 +1038,9 @@ item_chest_iron,Iron scale mail,鐵鱗甲
 item_chest_iron_description,"An iron scale mail, this will turn all but the strongest of blows.",鐵鱗甲幾乎能擋開所有強力的攻擊。
 item_legs_iron,Iron greaves,鐵脛甲
 item_legs_iron_description,Iron greaves to protect your legs.,保護雙腿的鐵脛甲。
-item_chest_pcuirass,Padded cuirass,內襯胸甲
+item_chest_pcuirass,Padded cuirass,襯墊胸甲
 item_chest_pcuirass_description,Finely wrought and strong enough to turn even the sharpest blades.,作工精細、堅固耐用，連最鋒利的刀刃也能擋開。
-item_legs_pgreaves,Padded greaves,內襯脛甲
+item_legs_pgreaves,Padded greaves,襯墊脛甲
 item_legs_pgreaves_description,Expertly crafted leg protection.,巧奪天工的腿部防具。
 item_cape_deerhide,Deer hide cape,鹿皮披風
 item_cape_deerhide_description,Rustic chic.,樸素別緻。
@@ -1092,16 +1090,16 @@ item_fircone,Fir cone,冷杉毬果
 item_fircone_description,Plant it to grow a fir tree.,種下這個就能長出冷杉。
 item_pinecone,Pine cone,松樹毬果
 item_pinecone_description,Plant it to grow a pine tree.,種下這個就能長出松樹。
-item_beechseeds,Beech seeds,櫸樹種子
-item_beechseeds_description,Plant them to grow a beech tree.,種下這個就能長出櫸樹。
+item_beechseeds,Beech seeds,山毛櫸種子
+item_beechseeds_description,Plant them to grow a beech tree.,種下這個就能長出山毛櫸。
 item_flint,Flint,燧石
 item_flint_description,Can be shaped into sharp blades.,可以打磨成利刃。
 item_greydwarfeye,Greydwarf eye,矮灰妖之眼
 item_greydwarfeye_description,The milky eyeball of a Greydwarf.,矮灰妖的混濁眼珠。
 item_guck,Guck,樹膿
 item_guck_description,It smells like fermented fish.,聞起來像發酵過的魚。
-item_leatherscraps,Leather scraps,碎皮料
-item_leatherscraps_description,A small pile of leather scraps.,一小堆碎皮料。
+item_leatherscraps,Leather scraps,皮碎料
+item_leatherscraps_description,A small pile of leather scraps.,一小堆皮碎料。
 item_hide,Hide,毛皮
 item_hide_description,An animal hide.,動物的毛皮。
 item_deerhide,Deer hide,鹿皮
@@ -1114,7 +1112,7 @@ item_iron,Iron,鐵錠
 item_iron_description,A bar of pure iron ready to be worked.,可供加工的純鐵錠。
 item_ironore,Iron ore,鐵礦石
 item_ironore_description,Unrefined iron. Needs to be refined in a smelter.,未精煉的鐵。需要放進冶煉爐中精煉。
-item_ironscrap,Scrap iron,鐵碎屑
+item_ironscrap,Scrap iron,鐵廢料
 item_ironscrap_description,It's old and rusty but can be smelted and used again.,雖然老舊生鏽，但可以冶煉再利用。
 item_ironnails,Iron nails,鐵釘
 item_ironnails_description,Needed for advanced construction projects.,高級的建造項目會需要。
@@ -1210,7 +1208,7 @@ item_goblintotem,Fuling totem,惡精圖騰
 item_goblintotem_description,Channels the ancient power of Yagluth.,能傳導亞古魯斯的古老力量。
 item_blackmetal,Black metal,黑鋼錠
 item_blackmetal_description,A heavy bar of dark metal.,沉重的漆黑金屬錠。
-item_blackmetalscrap,Black metal scrap,黑鋼碎屑
+item_blackmetalscrap,Black metal scrap,黑鋼廢料
 item_blackmetalscrap_description,A twisted hunk of dark metal.,扭曲的漆黑金屬塊。
 item_fishingbait,Fishing bait,魚餌
 item_fishingbait_description,Common dvergr fishing bait. Fishing rod sold separately.,普通的矮人魚餌。釣竿另售。
@@ -1356,7 +1354,7 @@ se_softdeath_name,No skill drain,無技能流失
 se_softdeath_tooltip,If you die you won't lose any skill points.,如果你死了，不會損失任何技能點。
 se_eikthyr_name,Eikthyr,櫟神鹿
 se_eikthyr_start,You activate the power of Eikthyr.,你發動了櫟神鹿的力量。
-se_eikthyr_tooltip,Your ability to run and jump is improved.,你奔跑和跳躍的能力提升。
+se_eikthyr_tooltip,Your ability to run and jump is improved.,奔跑和跳躍的能力提升。
 se_theelder_name,The Elder,古老樹妖
 se_theelder_start,The Elder's power surges through you.,古老樹妖的力量在你全身奔流。
 se_theelder_tooltip,Faster wood cutting.,伐木速度加快。
@@ -1686,8 +1684,8 @@ When Odin heard his enemies were growing once again in strength, he looked to Mi
 
 
 幾個世紀以來，這個世界不安地沉睡著。
-但它並沒有消亡……歷經多次冰河時期，
-歷經無數王國在諸神的視線之外興衰。
+但它並沒有死去……隨著冰河時期過去，
+無數王國興起，又在諸神眼中衰落。
 
 
 
@@ -2068,8 +2066,8 @@ prop_ancienttree,Ancient tree,古樹
 prop_ancienttreeroot,Ancient root,古老樹根
 prop_treelog,Log,原木
 prop_treestump,Stump,樹墩
-prop_beech,Beech,櫸樹
-prop_beech_sapling,Beech sapling,櫸樹苗
+prop_beech,Beech,山毛櫸
+prop_beech_sapling,Beech sapling,山毛櫸苗
 prop_birch,Birch,樺樹
 prop_fir,Fir,冷杉
 prop_fir_sapling,Fir sapling,冷杉苗
@@ -2092,7 +2090,7 @@ enemy_deathsquito,Deathsquito,殺人蚊
 ,,
 ,,
 prop_eldersummoningbowl_name,Ancient bowl,古老祭盆
-prop_eldersummoningbowl_use,Burn item,燃燒物品
+prop_eldersummoningbowl_use,Burn item,焚燒物品
 prop_dragonsummoningbowl_name,Sacrificial altar,獻祭壇
 prop_eggcup,Offering bowl,祭品缽
 prop_offerbowl_makeoffer,Offer sacrifice,獻祭
@@ -2371,3 +2369,5 @@ language_georgian,ქართული*,
 language_serbian,Serbian*,
 language_hindi,हिन्दी*,
 menu_connecting,Connecting,連線中
+language_estonian,Estonian*,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+language_abenaki,Alnôbaôdwawôgan*,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
