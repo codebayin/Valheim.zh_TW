@@ -85,7 +85,6 @@ menu_removeworld,Remove World?
 menu_ndaaccept,Accept
 menu_ndadecline,Decline
 menu_resettutorial,Reset Tutorial
-,
 feedback_topic,Feedback
 feedback_subject,Subject
 feedback_text,Write something
@@ -182,8 +181,6 @@ button_ralt,R-Alt
 button_lctrl,L-Ctrl
 button_rctrl,R-Ctrl
 button_return,Return
-,
-,
 chat_entertext,Enter text...
 chat_kill,Kill yourself
 chat_resetspawn,Reset spawn point
@@ -251,7 +248,7 @@ inventory_new,New item
 inventory_upgrade,Upgrade $1 quality to $2
 OLD inventory_upgrade,Upgrade item
 inventory_repairbutton,Repair an item
-inventory_pvp,Take damage from other players (PVP)
+inventory_pvp,Take damage from other players (Friendly Fire)
 inventory_takeall,Take all
 inventory_use,Use/Equip 
 inventory_pickup,Pick up
@@ -375,8 +372,8 @@ msg_offerwrong,Nothing happens
 msg_missingitem,You don't have the correct item
 msg_newday,Day $1
 msg_newtext,$1 added to the compendium
-msg_pvpon,PVP-damage enabled
-msg_pvpoff,PVP-damage disabled
+msg_pvpon,Friendly fire enabled
+msg_pvpoff,Friendly fire disabled
 msg_inuse,Someone else is using it
 msg_broke,$1 broke
 msg_fishing_hooked,Hooked
@@ -1895,3 +1892,5 @@ language_georgian,ქართული*
 language_serbian,Serbian*
 language_hindi,हिन्दी*
 menu_connecting,Connecting
+language_estonian,Estonian*
+language_abenaki,Alnôbaôdwawôgan*
