@@ -335,7 +335,7 @@ msg_firenotburning,It's not burning,未燃燒
 msg_toofew,Too few,太少了
 msg_wrongitem,Wrong item,錯誤的物品
 msg_fireportalalready,Portal already activated,傳送門已啟動
-msg_throwinfire,You throw some $1 into the fire,你把一些$1扔進了火裡
+msg_throwinfire,You throw some $1 into the fire,你把$1扔進了火裡
 msg_noprocessableitems,You don't have any processable items,沒有任何可加工的物品
 msg_wontwork,That won't work,不管用
 msg_itsfull,It's full,滿了
@@ -366,7 +366,7 @@ msg_portal_blocked,Blocked,被擋住了
 msg_skills_lowered,Skills lowered,技能已降低
 msg_biome_found,Discovered $1 ,發現了$1
 msg_walk,Walk,行走
-msg_sold,Sold $1 for $2,以$2出售了$1
+msg_sold,Sold $1 for $2,以$2金幣出售了$1
 msg_incompleteoffering,Incomplete offering,不完整的祭品
 msg_offerdone,You make the sacrifice,你進行了獻祭
 msg_offerwrong,Nothing happens,什麼也沒發生
@@ -924,7 +924,7 @@ item_shield_iron_tower_description,A tall shield of strong iron.,用堅固的鐵
 item_helmet_leather,Leather helmet,皮盔
 item_helmet_leather_description,A hood of toughened leather.,用韌化皮革製成的兜帽。
 item_helmet_trollleather,Troll leather helmet,巨魔皮盔
-item_helmet_trollleather_description,Trollskin is hard to work but makes exceptional armor.,雖然巨魔皮很難加工，但可以製成優異的防具。
+item_helmet_trollleather_description,Trollskin is hard to work but makes exceptional armor.,巨魔皮很難加工，但可以製成優異的防具。
 item_helmet_bronze,Bronze helmet,青銅盔
 item_helmet_bronze_description,This will help to keep your brains inside your skull.,這有助於讓你不會頭破腦溢。
 item_helmet_iron,Iron helmet,鐵盔
@@ -1053,7 +1053,8 @@ item_cape_linen_description,A simple traveler's cape.,簡單的旅行者披風�
 item_legs_wolf,Wolf armor legs,狼護腿
 item_legs_wolf_description,Shaggy breeches of wolfskin.,毛茸茸的狼皮褲。
 item_cape_wolf,Wolf fur cape,狼毛披風
-item_cape_wolf_description,Wolves are natural survivors. This one was just unlucky. Now its pelt will warm you in the snow.,狼是天生的生存者。這一匹只是運氣不好。現在牠的毛皮將在雪中為你取暖。
+item_cape_wolf_description,Wolves are natural survivors. This one was just unlucky. Now its pelt will warm you in the snow.,"狼是天生的強者。這一匹只是運氣不好。
+現在牠的毛皮將在雪中為你取暖。"
 item_cape_lox,Lox cape,氂獸披風
 item_cape_lox_description,"A pelt from one of the great beasts, thick and warm.",取自巨獸的毛皮，厚實又保暖。
 item_helmet_drake,Drake helmet,亞龍盔
@@ -2216,21 +2217,18 @@ You wake with the war-cry on your lips…","你又夢見手握父親的斧頭，
 你醒來時，嘴裡還喊著戰爭的口號……"
 dream_random03,"In your dream, you sit beside a fire in a great hall, surrounded by the chatter of familiar voices.
 
-Their faces blur like smoke and their names slip your mind, but the warmth of their memory lingers…","在夢中，你坐在大殿的火爐旁，
-周圍都是熟悉的笑談聲。
+Their faces blur like smoke and their names slip your mind, but the warmth of their memory lingers…","在夢中，你坐在大殿的火爐旁，周圍都是熟悉的笑談聲。
 
-他們的容貌像煙霧般模糊，
-他們的名字從你腦海中淡去，
+他們的容貌像煙霧般模糊，他們的名字從你腦海中淡去，
 但那溫暖的回憶，久久不能忘懷……"
 dream_random04,"You stand at the prow of a leaping ship, the salt spray before you and the joyful shriek of gulls above.
 
-Folded within a dream, you remember what it was like to be alive in the land of your birth.","你站在波濤洶湧的船頭，鹹鹹的浪花
-迎面而來，海鷗在天上喜悅鳴叫。
+Folded within a dream, you remember what it was like to be alive in the land of your birth.","你站在波濤洶湧的船頭，鹹鹹的浪花迎面而來，
+海鷗在天上喜悅鳴叫。
 
 在夢中，你回憶起在故鄉生活的感覺。"
 dream_random05,"You dream of a great tree reaching out through the night. One half of its branches crackle with flames, the others are green with leaves.","你夢見一棵巨樹徹夜求援。
-它的一半枝條被燒得劈啪作響，
-另一半則綠葉成蔭。"
+它的一半枝條被燒得劈啪作響，另一半則綠葉成蔭。"
 dream_eikthyr01,"You dream of running through a meadow, the sky alight with pale fire. There is a thunder of hoofbeats behind you but when you turn, nothing is there.
 
 You awaken with your heart pounding in your chest.","你夢見自己在草原上奔跑，天空燃燒著微暗的火。
