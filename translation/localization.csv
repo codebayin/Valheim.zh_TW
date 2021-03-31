@@ -1351,7 +1351,7 @@ se_wet_name,Wet,濕透
 se_wet_tooltip,Lowering your health and stamina regeneration.,生命和耐力回復量降低。
 se_wishbone_name,Wishbone,許願骨
 se_wishbone_tooltip,Helps you find hidden things. Move in the direction the pings get more intense.,能幫助你找到隱藏之物。向探測訊號更強烈的方向移動吧。
-se_softdeath_name,No skill drain,無技能流失
+se_softdeath_name,No skill drain,技能不會流失
 se_softdeath_tooltip,If you die you won't lose any skill points.,如果你死了，不會損失任何技能點。
 se_eikthyr_name,Eikthyr,櫟神鹿
 se_eikthyr_start,You activate the power of Eikthyr.,你發動了櫟神鹿的力量。
