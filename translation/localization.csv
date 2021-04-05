@@ -714,10 +714,10 @@ item_trophy_skeletonpoison_lore,A rank and rotten skull. You're not sure why you
 你並不清楚為什麼會留
 著它……"
 item_trophy_wraith,Wraith trophy,怨靈戰利品
-item_trophy_wraith_description,"The shed skin of a wraith, a flowing robe only visible by moonlight.",怨靈脫落的皮，只有在月光下才能看到飄逸的罩袍。
-item_trophy_wraith_lore,"The shed skin of a wraith, a flowing robe only visible by moonlight.","怨靈脫落的皮，只有在
-月光下才能看到飄逸的
-罩袍。"
+item_trophy_wraith_description,"The shed skin of a wraith, a flowing robe only visible by moonlight.",怨靈脫落的外衣，那是只在月光下才看得見的飄逸罩袍。
+item_trophy_wraith_lore,"The shed skin of a wraith, a flowing robe only visible by moonlight.","怨靈脫落的外衣，那是
+只在月光下才看得見的
+飄逸罩袍。"
 item_trophy_blob,Blob trophy,泥怪戰利品
 item_trophy_blob_description,A smelly lump of sticky matter.,一團發臭的黏稠物。
 item_trophy_blob_lore,A smelly lump of sticky matter.,一團發臭的黏稠物。
@@ -737,10 +737,10 @@ item_trophy_leech_lore,"Although slimy, the skin is beautifully patterned in red
 上有紅黑相間的美麗花
 紋。"
 item_trophy_wolf,Wolf trophy,狼戰利品
-item_trophy_wolf_description,"Frozen in death, the hair matted with blood and a silent howl lodged in its throat.",被凍僵了，毛皮沾滿鮮血，喉嚨裡哽著無聲的狼嚎。
-item_trophy_wolf_lore,"Frozen in death, the hair matted with blood and a silent howl lodged in its throat.","被凍僵了，毛皮沾滿鮮
-血，喉嚨裡哽著無聲的
-狼嚎。"
+item_trophy_wolf_description,"Frozen in death, the hair matted with blood and a silent howl lodged in its throat.",被凍得死死的，毛皮也沾滿了鮮血，喉嚨裡還哽著無聲的狼嚎。
+item_trophy_wolf_lore,"Frozen in death, the hair matted with blood and a silent howl lodged in its throat.","被凍得死死的，毛皮也
+沾滿了鮮血，喉嚨裡還
+哽著無聲的狼嚎。"
 item_trophy_hatchling,Drake trophy,亞龍戰利品
 item_trophy_hatchling_description,Still cold to the touch.,摸起來依然冰冷。
 item_trophy_hatchling_lore,Still cold to the touch.,摸起來依然冰冷。
