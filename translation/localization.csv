@@ -489,7 +489,7 @@ piece_beehive,Beehive,蜂房
 piece_cauldron,Cauldron,釜鍋
 piece_stool,Stool,凳子
 piece_throne01,Raven throne,渡鴉王座
-piece_chest,Reinforced chest,加固型箱子
+piece_chest,Reinforced chest,鐵固箱子
 piece_chestprivate,Personal chest,個人箱子
 piece_chestwood,Chest,箱子
 piece_cookingstation,Cooking station,烹飪架
@@ -806,7 +806,7 @@ item_arrow_frost_description,A shard of piercing ice.,刺骨的冰碎片。
 item_arrow_needle,Needle arrow,針箭
 item_arrow_needle_description,The final stitch.,最後一針。
 item_arrow_obsidian,Obsidian arrow,黑曜石箭
-item_arrow_obsidian_description,A sliver of darkness.,一絲零星的黑暗。
+item_arrow_obsidian_description,A sliver of darkness.,黑暗的碎片。
 item_atgeir_bronze,Bronze atgeir,青銅戟
 item_atgeir_bronze_description,A true warrior's tool.,真正的戰士武器。
 item_atgeir_iron,Iron atgeir,鐵戟
@@ -1052,7 +1052,7 @@ item_cape_linen,Linen cape,亞麻披風
 item_cape_linen_description,A simple traveler's cape.,簡單的旅行者披風。
 item_legs_wolf,Wolf armor legs,狼護腿
 item_legs_wolf_description,Shaggy breeches of wolfskin.,毛茸茸的狼皮褲。
-item_cape_wolf,Wolf fur cape,狼毛披風
+item_cape_wolf,Wolf fur cape,狼皮披風
 item_cape_wolf_description,Wolves are natural survivors. This one was just unlucky. Now its pelt will warm you in the snow.,"狼是天生的強者。這一匹只是運氣不好。
 現在牠的毛皮將在雪中為你取暖。"
 item_cape_lox,Lox cape,氂獸披風
@@ -1205,7 +1205,7 @@ item_dragontear,Dragon tear,龍之淚
 item_dragontear_description,"The last frozen tears of a dragon, pulsating with mysterious energy.",龍的最後一滴凍結的眼淚，脈動著神祕的能量。
 item_ymirremains,Ymir flesh,尤彌爾的肉
 item_ymirremains_description,The earthy remains of the giant Ymir.,巨人尤彌爾的泥土般遺骸。
-item_goblintotem,Fuling totem,惡精圖騰
+item_goblintotem,Fuling totem,惡精圖騰像
 item_goblintotem_description,Channels the ancient power of Yagluth.,能傳導亞古魯斯的古老力量。
 item_blackmetal,Black metal,黑鋼錠
 item_blackmetal_description,A heavy bar of dark metal.,沉重的漆黑金屬錠。
@@ -1839,16 +1839,15 @@ lore_meadows_random04,"Hold, traveller, and bear witness to my warning. We are m
 前方的道路艱難，危險重重。
 如果你珍惜生命的話，
 就待在這片草原，遠離樹林安居。
-敬畏有角的，不傷害其眷族。"
+敬畏有角者，不傷害其眷族。"
 lore_meadows_random05,"Heed these words of Ulf, a poor settler in a strange land. You will find here good stone and wood, all you need to build a house. You will need to craft a roof to keep out the rain. Then you will need walls to stop the roof from falling down. Finally, you must have a door or it will be much harder to go in and out.
 
 These things Ulf has learned for himself. Now he writes them on this stone to help others. Pray to Odin for his soul.","請留意可憐的異鄉人，沃夫的這些話。
-你會發現這裡有上好的石頭和木材，
-所有建造房屋所需的一切。
+你能在這裡找到上好的石頭和木材，
+建造房屋所需的一切東西。
 你需要搭建屋頂來遮風蔽雨。
-然後你需要修建牆壁來防止屋頂塌落。
-最後，你必須裝一扇門，
-否則進出會很麻煩。
+然後你需要牆壁來防止屋頂塌落。
+最後，你必須裝一扇門，否則進出會很麻煩。
 
 這些都是沃夫自己領悟到的。
 現在，他將其刻在這塊石碑上來幫助他人。
@@ -1908,11 +1907,12 @@ lore_swamp_random01,Heed the words of poor Ulf and do not build your house besid
 這樣你只會得到噩夢和潮濕的床。
 我留下這塊石碑作為告誡，
 現在我要去高地蓋我的家了。"
-lore_swamp_random02,"Linger not, traveller. The air is pestilent and the water poison. The Draugr walk here and the thing I will not name stirs below the surface, a bitter mass of bone and sin. Tread carefully and quickly until you feel the sun on your face once more.","不要逗留，旅行者。空氣有害，水也有毒。
-這裡有屍鬼出沒，還有我叫不出名字的東西
-在水下攪動，一團骨頭和罪惡的結合物。
-請小心快速前進，直到感受到
-陽光再次照在你的臉上。"
+lore_swamp_random02,"Linger not, traveller. The air is pestilent and the water poison. The Draugr walk here and the thing I will not name stirs below the surface, a bitter mass of bone and sin. Tread carefully and quickly until you feel the sun on your face once more.","不要逗留，旅行者。
+這裡的空氣有害，水也有毒。
+屍鬼會在此橫行，水面下還有叫不出名的
+東西騷動著，一團骨頭和罪惡的結合物。
+請小心快速前進，直到再次感受到
+陽光照在你的臉上。"
 lore_swamp_random03,"In this gloomy region you may yet find something which shines. War-flesh, warrior's gold, bread of the forge... Bright iron is here for those who will take it!","在這片陰鬱的地區，你也許會找到閃閃發亮的東西。
 戰爭的肉、戰士的金、鍛爐的糧……光亮的鐵
 就在這裡，等著人來帶走它！"
@@ -1943,11 +1943,11 @@ Remembering flesh.","朦朧霧氣之下
 骸骨竊竊私語
 
 念念不忘血肉軀"
-lore_mountains_random01,"Few of us found our way to these mountains. We were twenty and now we are two. Agda is dying, a Draugr arrow lies near her heart. I will bid her farewell beside this stone and give her ashes to the wind. Then I will turn my face to the highest peak and seek out the Winged One. May Odin give me death or glory.","我們幾個成功來到了這座雪山。
-起初有二十個人，現在只剩兩個人了。
+lore_mountains_random01,"Few of us found our way to these mountains. We were twenty and now we are two. Agda is dying, a Draugr arrow lies near her heart. I will bid her farewell beside this stone and give her ashes to the wind. Then I will turn my face to the highest peak and seek out the Winged One. May Odin give me death or glory.","我們的人幾乎都沒成功爬上這座雪山。
+原本有二十個人，現在只剩下兩個了。
 但艾格妲快死了，一支屍鬼的箭插在她的心臟附近。
 我將在這塊石碑旁與她告別，讓她的骨灰隨風而逝。
-然後，我會將臉朝向最高的山峰，去尋找有翼者。
+然後，我會面向最高峰，去尋找有翼者。
 願奧丁賜予我死亡或榮耀。"
 lore_mountains_random02,"This marks the spot where the great drake was first seen by me, Ulf, in the third summer of my life in Valheim. She stopped here to leave a pile of dung holding the bones of deer, boar and the skull of a greydwarf. I will never come near this place again.","這個標記點，是我沃夫第一次看到
 巨大亞龍的地方，那時是我在英靈界的第三個夏天。
@@ -1955,12 +1955,12 @@ lore_mountains_random02,"This marks the spot where the great drake was first see
 裡面參雜著鹿骨、野豬骨和矮灰妖的顱骨。
 我再也不會靠近這個地方了。"
 lore_mountains_random03,"Halt and listen, traveller. On the highest peaks of Valheim, the air is thin and fragile. From here you can sometimes catch sounds from other places, the ring of battle on Midgard, the roar of a feast in Valhalla or the shriek of a Valkyrie as she crosses the space between the worlds.","停下來仔細聽，旅行者。
-在英靈界最高的山峰上，空氣稀薄。
+在英靈界的最高峰，空氣稀薄。
 在這裡你有時可以聽到其它地方的聲音：
 中土界戰爭的響喊，英靈殿宴會的喧嘩，
 或者女武神穿梭各個世界的呼嘯。"
 lore_mountains_random04,Where this stands I once saw the great drake flying above me and I hid in a bush until she passed. Ulf the Brave carved this stone.,"在這裡，我曾看到巨大亞龍從我頭頂飛過，
-而我躲在樹叢裡，直到她離開。
+而我躲在樹叢裡，一直待到她離開。
 勇者沃夫刻了這塊石碑。"
 lore_mountains_random05,"Let those who read me know not to tarry on these slopes, far from their hearth and the safety of the greenwood. The beasts of the mountains are fell and fierce, hungry for meat, and the worst of these beasts is the cold wind itself. Wear thick furs, build strong fires and be sure not to disturb the eggs of the great drake if you value your life.","讓我提醒你，不要在山坡上逗留，
 這裡離家和安全的綠林很遠了。
