@@ -225,7 +225,7 @@ hud_tameinprogress,Acclimatizing,適應中
 hud_tamedone,has been tamed,被馴服了
 hud_tamehappy,Happy,開心
 hud_ready,Ready,就緒
-hud_powernotready,Power not ready,冷卻中
+hud_powernotready,Power not ready,放逐者之力冷卻中
 hud_equipping,Equipping,正在裝備
 hud_unequipping,Unequipping,正在卸下
 ,,
@@ -749,9 +749,9 @@ item_trophy_sgolem_description,This crystalline rock formation would make for an
 item_trophy_sgolem_lore,This crystalline rock formation would make for an impressive floor decoration.,"這種結晶岩層可以作為
 令人驚嘆的地板裝飾。"
 item_trophy_fenring,Fenring trophy,狼人戰利品
-item_trophy_fenring_description,"Half-way between wolf and man, its face frozen in a snarl of pain.",半狼半人，牠的臉被凍結在痛苦的嚎叫中。
+item_trophy_fenring_description,"Half-way between wolf and man, its face frozen in a snarl of pain.",半狼半人，牠的臉被凍在痛苦的嚎叫中。
 item_trophy_fenring_lore,"Half-way between wolf and man, its face frozen in a snarl of pain.","半狼半人，牠的臉被凍
-結在痛苦的嚎叫中。"
+在痛苦的嚎叫中。"
 item_trophy_goblin,Fuling trophy,惡精戰利品
 item_trophy_goblin_description,Loose folds of greenish skin gathered in around a pair of dark and hateful eyes.,一雙漆黑憎恨的眼睛，周圍堆積著皺巴巴的綠色皮膚。
 item_trophy_goblin_lore,Loose folds of greenish skin gathered in around a pair of dark and hateful eyes.,"一雙漆黑憎恨的眼睛，
@@ -1047,7 +1047,8 @@ item_cape_deerhide_description,Rustic chic.,樸素別緻。
 item_cape_trollhide,Troll hide cape,巨魔皮披風
 item_cape_trollhide_description,Trollskin is tough and supple.,巨魔皮強韌又柔軟。
 item_chest_wolf,Wolf armor chest,狼護胸
-item_chest_wolf_description,"A wolfskin jerkin, warm and wild-looking. It protects against the cold.",狼皮夾克衫，保暖又野性十足。能讓你抵禦寒冷。
+item_chest_wolf_description,"A wolfskin jerkin, warm and wild-looking. It protects against the cold.","狼皮夾克衫，保暖又野性十足。
+能讓你抵禦寒冷。"
 item_cape_linen,Linen cape,亞麻披風
 item_cape_linen_description,A simple traveler's cape.,簡單的旅行者披風。
 item_legs_wolf,Wolf armor legs,狼護腿
