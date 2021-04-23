@@ -315,8 +315,8 @@ msg_cantpickup,You can't pick that up,無法拾取該物品
 msg_noroom,No room in inventory,背包沒有空間
 msg_cantdrop,You can't drop that,無法丟棄該物品
 msg_dropped,Dropped,已丟棄
-msg_cantuseon,You can't use $1 on $2,無法在$2上使用$1
-msg_useonwhat,Use $1 on what?,要把$1用在哪裡？
+msg_cantuseon,You can't use $1 on $2,無法在 $2 上使用$1
+msg_useonwhat,Use $1 on what?,要把 $1 用在哪裡？
 msg_stationneedroof,Crafting station needs a roof,製作檯需要屋頂
 msg_stationtooexposed,Station is too exposed,製作檯的遮蔽太少
 msg_bedneedroof,Bed needs a roof,床需要屋頂
@@ -335,7 +335,7 @@ msg_firenotburning,It's not burning,未燃燒
 msg_toofew,Too few,太少了
 msg_wrongitem,Wrong item,錯誤的物品
 msg_fireportalalready,Portal already activated,傳送門已啟動
-msg_throwinfire,You throw some $1 into the fire,你把$1扔進了火裡
+msg_throwinfire,You throw some $1 into the fire,你把 $1 扔進了火裡
 msg_noprocessableitems,You don't have any processable items,沒有任何可加工的物品
 msg_wontwork,That won't work,不管用
 msg_itsfull,It's full,滿了
@@ -372,11 +372,11 @@ msg_offerdone,You make the sacrifice,你進行了獻祭
 msg_offerwrong,Nothing happens,什麼也沒發生
 msg_missingitem,You don't have the correct item,你沒有正確的物品
 msg_newday,Day $1,第$1天
-msg_newtext,$1 added to the compendium,$1已添加到概要
+msg_newtext,$1 added to the compendium,$1 已添加到概要
 msg_pvpon,PVP-damage enabled,已啟用隊友傷害
 msg_pvpoff,PVP-damage disabled,已禁用隊友傷害
 msg_inuse,Someone else is using it,其他人正在使用
-msg_broke,$1 broke,$1損壞了
+msg_broke,$1 broke,$1 損壞了
 msg_fishing_hooked,Hooked,上鉤了
 msg_fishing_linebroke,Line broke,線斷了
 msg_fishing_catched,Caught,釣到了
@@ -783,7 +783,7 @@ item_trophy_goblinshaman_lore,Even killing it couldn't wipe the knowing smile fr
 牠詭譎的微笑……"
 ,,
 ,,
-item_club,Club,棍棒
+item_club,Club,木棒
 item_club_description,A crude but useful weapon.,粗糙但有用的武器。 
 item_stagbreaker,Stagbreaker,鹿角戰鎚
 item_stagbreaker_description,"A weapon worthy of the gods! If you get hit with this, you'll know it...",配得上諸神的武器！被它搥到，你就知道厲害了……
@@ -1416,7 +1416,7 @@ event_boss05_end,King Yagluth defeated,亞古魯斯王被擊敗了
 ,,
 skill_swords,Swords,劍
 skill_knives,Knives,短刀
-skill_clubs,Clubs,棍棒
+skill_clubs,Clubs,棒錘
 skill_polearms,Polearms,長柄武器
 skill_spears,Spears,矛
 skill_shields,Shields,盾
@@ -1439,7 +1439,7 @@ skill_cooking,Cooking,烹飪
 ,,
 skill_swords_description,Damage with swords.,劍的傷害。
 skill_knives_description,Damage with knives.,短刀的傷害。
-skill_clubs_description,Damage with clubs.,棍棒的傷害。
+skill_clubs_description,Damage with clubs.,棒錘的傷害。
 skill_polearms_description,Damage with polearms.,長柄武器的傷害。
 skill_spears_description,Damage with spears.,矛的傷害。
 skill_shields_description,not used.,未使用。 
@@ -1457,7 +1457,7 @@ skill_sneak_description,Stamina drain and stealthiness when sneaking.,潛行時�
 skill_swim_description,Stamina drain when swimming.,游泳時的耐力消耗。
 ,,
 ,,
-ship_holdfast,Hold fast,穩住
+ship_holdfast,Hold fast,抓穩
 ,,
 ,,
 raven_interact,Talk,交談
