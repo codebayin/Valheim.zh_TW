@@ -822,7 +822,7 @@ item_axe_bronze_description,"A bright and burnished blade, curved like a smile."
 item_axe_blackmetal,Blackmetal axe,黑鋼斧
 item_axe_blackmetal_description,A perfectly-balanced axe forged from dark metal with an emerald sheen.,用黑鋼鍛造而成的完美斧頭，泛著翡翠般的光澤。
 item_sword_blackmetal,Blackmetal sword,黑鋼劍
-item_sword_blackmetal_description,"A thing of death and beauty, it catches the light with a greenish glow.",死與美的結合體，在光的照射下泛著綠光。
+item_sword_blackmetal_description,"A thing of death and beauty, it catches the light with a greenish glow.",死與美的結合，在光的照射下泛著綠光。
 item_atgeir_blackmetal,Blackmetal atgeir,黑鋼戟
 item_atgeir_blackmetal_description,A vicious hewing-axe of almost unbreakable black metal.,用幾乎堅不可摧的黑鋼製成的殘暴砍削斧。
 item_knife_blackmetal,Blackmetal knife,黑鋼短刀
@@ -880,7 +880,7 @@ item_mace_bronze_description,A headache on a stick.,棒子上鑲著頭疼之物�
 item_mace_iron,Iron mace,鐵釘頭錘
 item_mace_iron_description,A fist-sized lump of iron on a wooden shaft.,木棒上鑲著拳頭大小的鐵塊。
 item_mace_silver,Frostner,冰霜鎚
-item_mace_silver_description,The dead fear silver. Remind them why.,死者害怕銀製品。幫它們想起原因吧。
+item_mace_silver_description,The dead fear silver. Remind them why.,亡者害怕銀製品。幫它們想起原因吧。
 item_sledge_iron,Iron sledge,鐵巨鎚
 item_sledge_iron_description,"A mighty hammer, worthy of a champion.",配得上王者的強大鐵鎚。
 item_mace_needle,Porcupine,豪豬錘
@@ -890,7 +890,8 @@ item_mace_needle_description,"A deadly weapon, bristling with fiendish spikes.",
 item_hoe,Hoe,鋤頭
 item_hoe_description,A farmer's tool for working the earth.,整地用的農具。
 item_hammer,Hammer,工匠槌
-item_hammer_description,"With this to your hand, you can raise high halls and mighty fortifications.",有它在手，就可以搭起高大的殿堂和堅固的堡壘。
+item_hammer_description,"With this to your hand, you can raise high halls and mighty fortifications.","有它在手，就可以搭起高大的殿堂和堅固
+的堡壘。"
 item_tankard,Tankard,大酒杯
 item_tankard_description,Skål!,乾杯！
 item_cultivator,Cultivator,犁耙
@@ -1001,7 +1002,7 @@ item_carrotsoup_description,A warm tasty soup made of mostly carrots.,主要以�
 item_serpentstew,Serpent stew,海蟒燉湯
 item_serpentstew_description,Smells of honey and serpent...,有股蜂蜜和海蟒的味道……
 item_loxpie,Lox meat pie,氂獸肉派
-item_loxpie_description,Break the crust to release a cloud of fragrant steam. Delicious!,破開派皮，蒸騰出香味濃郁的熱氣。美味至極！
+item_loxpie_description,Break the crust to release a cloud of fragrant steam. Delicious!,破開派皮，蒸騰出香濃的熱氣。美味啊！
 item_fishwraps,Fish wraps,魚肉捲餅
 item_fishwraps_description,"Bread and fish, what more to wish?",麵餅配魚，夫復何求？
 item_bloodpudding,Blood pudding,血布丁
@@ -1039,7 +1040,8 @@ item_chest_iron_description,"An iron scale mail, this will turn all but the stro
 item_legs_iron,Iron greaves,鐵脛甲
 item_legs_iron_description,Iron greaves to protect your legs.,保護雙腿的鐵脛甲。
 item_chest_pcuirass,Padded cuirass,襯墊胸甲
-item_chest_pcuirass_description,Finely wrought and strong enough to turn even the sharpest blades.,作工精細、堅固耐用，連最鋒利的刀刃也能擋開。
+item_chest_pcuirass_description,Finely wrought and strong enough to turn even the sharpest blades.,"作工精細、堅固耐用，連最鋒利的刀刃也
+能擋開。"
 item_legs_pgreaves,Padded greaves,襯墊脛甲
 item_legs_pgreaves_description,Expertly crafted leg protection.,巧奪天工的腿部防具。
 item_cape_deerhide,Deer hide cape,鹿皮披風
@@ -1399,7 +1401,7 @@ event_bonemassarmy_end,The smell is gone,惡臭消散了
 event_moderarmy_start,A cold wind blows from the mountains,山上吹來一陣寒風
 event_moderarmy_end,The cold wind is gone,寒風停息了
 event_skeletons_start,Skeleton surprise,骷髏突然冒出
-event_skeletons_end,Skeletons are tired of fighting,骷髏們戰得筋疲力盡了
+event_skeletons_end,Skeletons are tired of fighting,骷髏戰得筋疲力盡了
 event_goblinarmy_start,The horde is attacking,部落正在進攻
 event_goblinarmy_end,The horde is retreating,部落正在撤退
 event_boss01_start,Eikthyr is awakened,櫟神鹿被喚醒了
@@ -1915,8 +1917,8 @@ lore_swamp_random02,"Linger not, traveller. The air is pestilent and the water p
 請小心快速前進，直到再次感受到
 陽光照在你的臉上。"
 lore_swamp_random03,"In this gloomy region you may yet find something which shines. War-flesh, warrior's gold, bread of the forge... Bright iron is here for those who will take it!","在這片陰鬱的地區，你也許會找到閃閃發亮的東西。
-戰爭的肉、戰士的金、鍛爐的糧……光亮的鐵
-就在這裡，等著人來帶走它！"
+戰爭的肉、戰士的金、鍛爐的糧……
+光亮的鐵就在這裡，等著人來帶走它！"
 lore_swamp_random04,"You who pass, remember me. I am a man whose home was once in the mountains of Midgard, carried here when I thought to earn my rest, to find a life after life in Valheim. There were seven of us before the Greydwarves came. Now Odin will not hear me and the seas refuse me. Soon this stone will be all that remains.","路過的人啊，請記住我。
 我是人類，曾在中土界的山上安居，
 就當我以為可以長眠時，被帶到了這裡，
@@ -2026,9 +2028,8 @@ lore_plains_random03,"Still your mind, traveller. Odin speaks to those who liste
 在這片荒蕪的土地上，棲息著其中一位放逐者。
 他是被痛苦扭曲的古老巫師，拖著殘軀在沙地上遊走。
 奧丁肯定會對能戰勝這個憎惡之物的戰士微笑。"
-lore_plains_random04,"Near this spot I saw a star come unfastened from the great curtain of night and fall into the sand. It glowed red when I approached but by morning was cool. Blessed sword-flesh, furnace-food, a gift of iron from the Gods!","在這個地方附近，我看到一顆星從夜幕中劃落，
-掉進了沙地。當我走近時，它還發著紅光，
-但到了早上，它就冷卻了。
+lore_plains_random04,"Near this spot I saw a star come unfastened from the great curtain of night and fall into the sand. It glowed red when I approached but by morning was cool. Blessed sword-flesh, furnace-food, a gift of iron from the Gods!","在此地不遠處，我看到一顆星從夜幕中劃落，掉進了沙地。
+當我走近時，它還發著紅光，但到了早上，它就冷卻了。
 刀劍的肉、熔爐的糧，諸神賜予的金屬啊！"
 lore_plains_random05,"Good friend, lay your hand on this stone and remember Harald, who carved it. In Midgard I lost my life on the battlefield but in Valheim it was restored to me. Yet still my battles continued.
 
@@ -2314,7 +2315,7 @@ settings_sfxvol,Effect Volume,音效音量
 ,,
 ,,
 //NEW STUFF BELOW,,
-lore_plains_random07,"Beneath the ground are the halls of men and women long since gone, ancient tribes who lived in Valheim even before the Allfather turned his eye upon this place. Delve deep to find their treasures but beware, some amongst them do not yet know they are dead.","地面之下是亡故已久的死者廳堂，
+lore_plains_random07,"Beneath the ground are the halls of men and women long since gone, ancient tribes who lived in Valheim even before the Allfather turned his eye upon this place. Delve deep to find their treasures but beware, some amongst them do not yet know they are dead.","地面之下是身故已久的亡者廳堂，
 早在諸神之父關注這片土地前，
 他們已是居住在英靈界的古老部落。
 深入挖尋他們的寶藏吧，但請你小心，
@@ -2355,10 +2356,8 @@ ship_raft,Raft,木筏
 ship_longship,Longship,維京長船
 ,,
 menu_joinip,Join IP,加入IP
-,,
 enemy_blob,Blob,泥怪
 enemy_blobelite,Oozer,沼泥怪
-,,
 piece_deposit_silvervein,Silver vein,銀礦脈
 piece_offerbowl_bonemass,Boiling death,死亡鼎鑊
 piece_offerbowl_eikthyr,Mystical altar,神祕祭壇
