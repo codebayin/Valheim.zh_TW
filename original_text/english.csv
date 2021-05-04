@@ -1879,10 +1879,8 @@ ship_raft,Raft
 ship_longship,Longship
 ,
 menu_joinip,Join IP
-,
 enemy_blob,Blob
 enemy_blobelite,Oozer
-,
 piece_deposit_silvervein,Silver vein
 piece_offerbowl_bonemass,Boiling death
 piece_offerbowl_eikthyr,Mystical altar
