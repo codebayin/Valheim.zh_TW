@@ -1,5 +1,4 @@
-﻿Context,English
-// NOTE Language translations should only use the English column. We don't translate the language names since we want them to always display in their native language,
+﻿ ,English
 language_english,English
 language_swedish,Svenska*
 language_french,Français
@@ -21,7 +20,7 @@ language_polish,Polski
 language_dutch,Nederlands
 language_greek,Ελληνικά*
 language_ukrainian,українська
-language_portuguese,Português europeu*
+language_portuguese_european,Português europeu*
 language_portuguese_brazilian,Português (Brasil)
 language_chinese,中文
 language_japanese,日本語
@@ -29,6 +28,12 @@ language_korean,한국어
 language_norwegian,Norsk*
 language_slovak,Slovenčina*
 language_thai,ไทย*
+language_estonian,Estonian*
+language_abenaki,Alnôbaôdwawôgan*
+language_croatian,Croatian*
+language_georgian,ქართული*
+language_serbian,Serbian*
+language_hindi,हिन्दी*
 menu_startgame,Start Game
 menu_joingame,Join Game
 menu_settings,Settings
@@ -390,7 +395,7 @@ biome_mountain,Mountain
 biome_blackforest,Black forest
 biome_heath,Heath
 biome_plains,Plains
-biome_ashlands,Ashlands
+biome_ashland,Ashlands
 biome_deepnorth,Deep North
 biome_edge,Edge of the World
 biome_ocean,Ocean
@@ -1834,15 +1839,11 @@ npc_munin_general08,"I had not thought you would survive so long… But guard ag
 npc_munin_general09,"Kraa! Hear me now, I'll riddle you no longer. I am great Munin, the treasure-house of memory. I sit on the left shoulder of the Allfather and do his bidding in the ten worlds. I have seen many great warriors rise and fall but you are among the greatest. Know that Odin himself is watching you..."
 npc_munin_general10,Kraa! The Allfather sends tidings! He waits on your word to send the great bridge. Kill the Forsaken Ones and clear the way!
 ,
-,
 lore_meadows_boartaming_label,Lore: Boars
 lore_mountains_fenring_label,Lore: Fenring
 ,
 settings_veryhigh,Very High
 settings_sfxvol,Effect Volume
-,
-,
-//NEW STUFF BELOW,
 lore_plains_random07,"Beneath the ground are the halls of men and women long since gone, ancient tribes who lived in Valheim even before the Allfather turned his eye upon this place. Delve deep to find their treasures but beware, some amongst them do not yet know they are dead."
 settings_langchange_notice,Game restart is required when changing language.
 settings_langchange_community,*Community Translation
@@ -1877,7 +1878,6 @@ tool_cart,Cart
 ship_karve,Karve
 ship_raft,Raft
 ship_longship,Longship
-,
 menu_joinip,Join IP
 enemy_blob,Blob
 enemy_blobelite,Oozer
@@ -1885,10 +1885,6 @@ piece_deposit_silvervein,Silver vein
 piece_offerbowl_bonemass,Boiling death
 piece_offerbowl_eikthyr,Mystical altar
 piece_offerbowl_yagluth,Mystical altar
-language_croatian,Croatian*
-language_georgian,ქართული*
-language_serbian,Serbian*
-language_hindi,हिन्दी*
 menu_connecting,Connecting
-language_estonian,Estonian*
-language_abenaki,Alnôbaôdwawôgan*
+enemy_blobtar,Growth
+msg_worldsavewarning,World save in
