@@ -1,5 +1,4 @@
 ﻿Context,English,Traditional_Chinese
-// NOTE Language translations should only use the English column. We don't translate the language names since we want them to always display in their native language,,
 language_english,English,
 language_swedish,Svenska*,
 language_french,Français,
@@ -21,7 +20,7 @@ language_polish,Polski,
 language_dutch,Nederlands,
 language_greek,Ελληνικά*,
 language_ukrainian,українська,
-language_portuguese,Português europeu*,
+language_portuguese_european,Português europeu*,
 language_portuguese_brazilian,Português (Brasil),
 language_chinese,中文,
 language_traditional_chinese,正體中文,
@@ -30,6 +29,12 @@ language_korean,한국어,
 language_norwegian,Norsk*,
 language_slovak,Slovenčina*,
 language_thai,ไทย*,
+language_estonian,Estonian*,
+language_abenaki,Alnôbaôdwawôgan*,
+language_croatian,Croatian*,
+language_georgian,ქართული*,
+language_serbian,Serbian*,
+language_hindi,हिन्दी*,
 menu_startgame,Start Game,開始遊戲
 menu_joingame,Join Game,加入遊戲
 menu_settings,Settings,設定
@@ -391,7 +396,7 @@ biome_mountain,Mountain,雪山
 biome_blackforest,Black forest,黑森林
 biome_heath,Heath,荒原
 biome_plains,Plains,曠野
-biome_ashlands,Ashlands,灰燼之地
+biome_ashland,Ashlands,灰燼之地
 biome_deepnorth,Deep North,北方深境
 biome_edge,Edge of the World,世界盡頭
 biome_ocean,Ocean,海洋
@@ -2306,15 +2311,11 @@ npc_munin_general10,Kraa! The Allfather sends tidings! He waits on your word to 
 他等著你的喜訊，以送你去彩虹橋。
 殺了放逐者們，掃除障礙吧！"
 ,,
-,,
 lore_meadows_boartaming_label,Lore: Boars,傳說：野豬
 lore_mountains_fenring_label,Lore: Fenring,傳說：狼人
 ,,
 settings_veryhigh,Very High,極高
 settings_sfxvol,Effect Volume,音效音量
-,,
-,,
-//NEW STUFF BELOW,,
 lore_plains_random07,"Beneath the ground are the halls of men and women long since gone, ancient tribes who lived in Valheim even before the Allfather turned his eye upon this place. Delve deep to find their treasures but beware, some amongst them do not yet know they are dead.","地面之下是身故已久的亡者廳堂，
 早在諸神之父關注這片土地前，
 他們已是居住在英靈界的古老部落。
@@ -2354,7 +2355,6 @@ tool_cart,Cart,手推車
 ship_karve,Karve,卡維船
 ship_raft,Raft,木筏
 ship_longship,Longship,維京長船
-,,
 menu_joinip,Join IP,加入IP
 enemy_blob,Blob,泥怪
 enemy_blobelite,Oozer,沼泥怪
@@ -2362,10 +2362,6 @@ piece_deposit_silvervein,Silver vein,銀礦脈
 piece_offerbowl_bonemass,Boiling death,死亡鼎鑊
 piece_offerbowl_eikthyr,Mystical altar,神祕祭壇
 piece_offerbowl_yagluth,Mystical altar,神祕祭壇
-language_croatian,Croatian*,
-language_georgian,ქართული*,
-language_serbian,Serbian*,
-language_hindi,हिन्दी*,
 menu_connecting,Connecting,連線中
-language_estonian,Estonian*,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-language_abenaki,Alnôbaôdwawôgan*,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+enemy_blobtar,Growth,贅泥怪
+msg_worldsavewarning,World save in,即將儲存世界：
