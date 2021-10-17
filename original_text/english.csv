@@ -1609,7 +1609,7 @@ The smoke from the cooking fire, the warm pelt
 
 And the strength of your arm
 "
-lore_meadows_random04,"Hold, traveller, and bear witness to my warning. We are many who have come before you, carried here by Odin's will to do his work. The path ahead is hard and the dangers great. If you hold your life dear, keep to these meadows and make your dwelling away from the trees. Fear the Horned One and spare his kin.
+lore_meadows_random04,"Hold, traveller, and bear witness to my warning. We are many who have come before you, carried here by Odin's will to do his work. The path ahead is hard and the dangers great. If you hold your life dear, keep to these meadows and make your dwelling away from the trees. Fear the Horned One and the creatures he will send against you.
 "
 lore_meadows_random05,"Heed these words of Ulf, a poor settler in a strange land. You will find here good stone and wood, all you need to build a house. You will need to craft a roof to keep out the rain. Then you will need walls to stop the roof from falling down. Finally, you must have a door or it will be much harder to go in and out.
 
@@ -1623,7 +1623,7 @@ lore_blackforest_random02,"Beneath the ground, the roots of the forest twine tog
 lore_blackforest_random03,"I was Harald, a man from the coast. I remember nothing more of my life in Midgard except that I was a warrior. In my dreams I see the faces of those I killed. I leave this stone that at least my name will remain."
 lore_blackforest_random04,"Rest awhile and remember Ulf, who carved this stone with his own hand but could think of nothing to say."
 lore_blackforest_random05,Beware the Old One. The ravens say that in ages past he was a shoot of great Yggdrasil itself and a force of wisdom in the days when men and trees were friends. Now he scorns the axe and sets himself against the works of the Gods themselves. Odin banished him here for his pride but his roots are deep.
-lore_blackforest_random06,We who were carried here by the Valkyrie are not the first men in this land. I have seen with my own eyes the halls they made beneath the ground and the ruins of their cities. Will the same fate await us?
+lore_blackforest_random06,We who were carried here by the Valkyrie are not the first men in this land. I have seen with my own eyes the halls they made beneath the ground and the ruins of their towers. Will the same fate await us?
 lore_blackforest_random07,Seven were the creatures banished to this world by mighty Odin in the first days of his kingship. Seven gods and monsters too proud to bear his yoke. I have heard the tread of the Old Ones in the forest and have crouched in the shadow of the Mountain Mother when she flies. Of the others I know little. I will add to this stone when I have seen more.
 lore_swamp_random01,Heed the words of poor Ulf and do not build your house beside the murky waters. Bad dreams and a soggy bed are all you will find. I leave this stone as a warning and go now to make my dwelling on higher ground.
 lore_swamp_random02,"Linger not, traveller. The air is pestilent and the water poison. The Draugr walk here and the thing I will not name stirs below the surface, a bitter mass of bone and sin. Tread carefully and quickly until you feel the sun on your face once more."
@@ -1640,7 +1640,7 @@ lore_mountains_random01,"Few of us found our way to these mountains. We were twe
 lore_mountains_random02,"This marks the spot where the great drake was first seen by me, Ulf, in the third summer of my life in Valheim. She stopped here to leave a pile of dung holding the bones of deer, boar and the skull of a greydwarf. I will never come near this place again."
 lore_mountains_random03,"Halt and listen, traveller. On the highest peaks of Valheim, the air is thin and fragile. From here you can sometimes catch sounds from other places, the ring of battle on Midgard, the roar of a feast in Valhalla or the shriek of a Valkyrie as she crosses the space between the worlds."
 lore_mountains_random04,Where this stands I once saw the great drake flying above me and I hid in a bush until she passed. Ulf the Brave carved this stone.
-lore_mountains_random05,"Let those who read me know not to tarry on these slopes, far from their hearth and the safety of the greenwood. The beasts of the mountains are fell and fierce, hungry for meat, and the worst of these beasts is the cold wind itself. Wear thick furs, build strong fires and be sure not to disturb the eggs of the great drake if you value your life."
+lore_mountains_random05,"Let those who read me know not to tarry on these slopes, far from their hearth and the safety of the greenwood. The beasts of the mountains are fell and fierce, hungry for meat, and the worst of these beasts is the cold wind itself. Wear thick furs, build strong fires and keep your bow close at hand."
 lore_mountains_random06,"Great cities do not rise of themselves
 
 Harden your heart, settler in a strange land
@@ -1667,7 +1667,7 @@ And no crops will grow
 Still the ground can give up treasures."
 lore_plains_random02,"This place was too hot for Ulf, a man used to brushing snow from his beard. He carved this stone and moved on."
 lore_plains_random03,"Still your mind, traveller. Odin speaks to those who listen. Here in this barren land, one of the Forsaken Ones dwells. He is an ancient sorcerer twisted by bitterness, dragging what remains of his broken body across the sands. Surely Odin will smile upon the warrior who can vanquish this abhorrence."
-lore_plains_random04,"Near this spot I saw a star come unfastened from the great curtain of night and fall into the sand. It glowed red when I approached but by morning was cool. Blessed sword-flesh, furnace-food, a gift of iron from the Gods!"
+lore_plains_random04,"In a land far from here I once saw a star come unfastened from the great curtain of night and fall into the sand. It glowed red when I approached but by morning was cool. Blessed sword-flesh, furnace-food, a gift of strong metal from the Gods!"
 lore_plains_random05,"Good friend, lay your hand on this stone and remember Harald, who carved it. In Midgard I lost my life on the battlefield but in Valheim it was restored to me. Yet still my battles continued.
 
 In the green meadows I fought Eikthyr the Great Stag and lost an eye to his horns.
@@ -1888,3 +1888,112 @@ piece_offerbowl_yagluth,Mystical altar
 menu_connecting,Connecting
 enemy_blobtar,Growth
 msg_worldsavewarning,World save in
+lore_meadows_random07,"Blue-eyed shufflers in muck, the neck are small lizards native to Valheim. Surly and mean-spirited, they will attack on sight and must be destroyed like vermin. They stay near water because the creatures of the land loathe and abhor them.
+
+Yet no creature is all bad. Their tails are delicious."
+lore_meadows_random08,"Sisters and brothers of the shield-wall, lift up your hearts! You are the greatest warriors, chosen by the Allfather himself for your courage and valor. Now death has brought you to a land where you can remake yourselves in battle and toil, winning favor and honor from the gods! Leave your memories to rot in Midgard along with your sins, the finest part of you is here!"
+lore_meadows_random09,"On this spot a tree fell on my head and I cursed the gods. So I leave this stone in praise of them, that they might forgive my reckless words."
+lore_meadows_random10,"Pause, traveler. You are well come to the last and most lawless of the Ten Worlds. In Valheim, the air is pure, the water deep and clear and the forests overflowing with bounty. Here is adventure, joy and glory for the taking!"
+lore_meadows_random11,"A full belly
+
+A full sail
+
+The weight of a spear to your hand
+
+And a song on your lips
+
+Let all the mountains crumble
+
+And the seas boil to salt
+
+One day in the sun is a life well-lived."
+lore_blackforest_random08,"The trolls of Midgard may be fading from your memory, as indeed they are from all the race of man. Few and forlorn, they crouch in damp caves and gnaw on the bones of the weak and foolhardy. The will of Odin has pushed them back into the dark places.
+
+But in Valheim they have flourished. It has been centuries since any in Midgard saw the great trolls stamp flat the land and bring down the trees for joy. Look upon this great and noble sight, wanderers in a strange land! Then take to your heels and run..."
+lore_blackforest_random09,"Raised by the Old Man of the Forest from seeds of sin, the greydwarfs clothe themselves in the human forms they once knew, but there is no longer any warmth in their hearts. They live now only to serve the Elder and to protect the wood. Do not let pity for them stay your hand."
+lore_blackforest_random10,"Which among you was a murderer, a kin-slayer, a renegade? Who turned a blade in their brother's back? Who tore babes from their mothers' arms, set fire to the houses of the plundered? Consider it a blessing that you remember nothing. Each among you is a great warrior, and warriors' souls are never clean.
+
+But Odin has gifted you a second chance... Praise the Allfather!"
+lore_blackforest_random11,"Look to the sky where mighty Yggdrasil reaches out, called by the Forsaken Ones to join itself once more with this wayward world. It is a glorious sight but a dreadful one. For as the great tree bends out across the void, it's branches strain and crack, felt in the remaining nine worlds as quakings of the earth, great storms and holy fires. The Forsaken must be slain and balance restored."
+lore_blackforest_random12,"Astrid will not look at me twice. I leave this stone to honour great Freya. O goddess, grant me a beard like Bjorn's that I might win her heart!"
+lore_blackforest_random13,"I have been reborn many times in this world. I have died again and again only to awaken in my own house. Yet still I wonder how many more times I will return like this. Frida was taken by a serpent and her bed lies empty still. Bjarni was bitten in half by a troll and neither half has been seen since...
+
+All around are the ruins of those who came before us but where are the hands that built them?
+
+Perhaps, when a warrior loses the will to remain here, they can no longer return..."
+lore_swamp_random08,"For long ages, Odin's eye was turned from Valheim. Yet while the gods ignored it, other creatures crept or fell through cracks into the forgotten world. Trolls, goblins and men found their way along these secret paths. Kingdoms rose and fell, and are buried deep beneath the ground.
+
+Walker among the dead, you tread a grave with every step."
+lore_swamp_random09,At this place I killed seven of the draugr and ended their long years of fighting and misery. Now who will end mine?
+lore_swamp_random10,"I am Gudrun, no man's wife, no father's daughter. Only my name remains to me. But sometimes when I wake I feel the weight of a babe at my breast and I cry. Great Freya take pity on me."
+lore_swamp_random11,"Fear not that the gods have abandoned you. Valheim drifts from the world tree and the Vanir cannot come in arms to this world but still they watch from afar. Keep them ever in your mind. If your faith is strong, they may send you a sign."
+lore_swamp_random12,"There is no death that does not bring new life. As worms feed on the battlefield, so did the great corpses of Odin's enemies bring new life to Valheim. Lesser creatures fed on their flesh, fattening themselves on the ancient magic that still clung to them. Their spirits trickled into the earth to renew the soil, or sought out new bodies for themselves.
+
+Do not scorn the dead, you who are are dead yourself."
+lore_mountains_random08,"When first I awoke in Valheim, I pleaded with Odin to show himself to me. Where was he? Why had he abandoned me?
+
+For many moons I braved storms and fierce beasts in search of answers. Where were the gods? Was this to be my reward? Where was Odin?
+
+But now I know. When I pulled up the greydwarfs like weeds from a field or stamped out the surtlings like embers, I did Odin's work. And when I matched my strength against a great wyrm and smote off its head with one blow, I felt Odin's joy within me, deep and proud.
+
+We are Odin's hands, each one of us, and our worth in life is to work his will."
+lore_mountains_random09,"Upon this spot, Otho and Bjorn fought a mighty duel to decide who has the finest beard. Now I, Bjorn, must carve this stone to say that the beard of Otho is as bright and beautiful as a corn-field in summer. May almighty Thor tear my own beard from my face if I lie."
+lore_mountains_random10,"In Midgard of old, the armies of man pushed back the drakes from the mountains just as the Vanir threw down their mother and cast her into Valheim. But here they have recovered their strength and their numbers. The beat of their mighty wings echoes among the peaks. 
+
+They are fierce and noble creatures, true foes worthy of battle. If they scorn to meet your blade, send your arrows to greet them."
+lore_mountains_random11,In these mountains I cannot throw a spear without hitting something that wants to kill me. But from the heights I have seen sunny plains where life will be easier. I go now to make my home there. These are the words of Ulf.
+lore_mountains_random12,"There are friends in Valheim but you must seek them amongst your enemies. Old friends, fire-kin, moon-singers. For centuries they have hunted alongside you, now you must remind them of the old covenant between your people and theirs. Flesh is their delight and must be your offering."
+lore_plains_random08,"From the mountaintop, this plain looked peaceful and pleasant. But I have found it worse than anywhere else. I always hear the buzzing of those thrice-damned insects. My beard has turned as white as snow. I will build a boat."
+lore_plains_random09,"What joy it is to roam abroad
+
+With the wind in your hair
+
+And a blue sky before you.
+
+
+And what joy it is
+
+To stand tall against your foes
+
+And speak plainly to the world.
+
+
+And then, what joy it is
+
+To come home from your travels
+
+And find the fire still bright in the hearth."
+lore_plains_random10,"On these plains, only the greatest survive to read my words and heed my advice. So heed me now.
+
+Great Odin is not a loving father, kind and gentle, speaking honeyed words. Nor is he a stern liege-lord, arms banded with gold, commanding his thralls on pain of death.
+
+He did not send you here to fight his foes for love or fear of him, but because his foes are your foes. His joy and honour are yours also. You will fight and win just as he once did.
+
+Sons and daughters of Odin, rejoice!"
+lore_plains_random11,"Here on the plains you will find the dwellings of the Fuling, that ancient race who once built towers and cities to rival those of men until Odin punished them for their pride. He trampled the Fuling armies, their armor cracking like snail shells beneath his feet, and tore down their cities.
+
+Only Yagluth, the great sorcerer, would not bend or break before his fury. So Odin tore his body in half and cast the remains into Valheim, where he bled into the earth and crumbled to dust, wept over by the last of his people.
+
+Now the Fuling rule over the plains of Valheim, savage and wild with only hatred and fear in their hearts. But Yagluth is with them still, an unseen force that the Fuling shamans draw upon for their crooked magic, growing again in strength as his people spread across the world..."
+lore_plains_random12,"The lox are mighty creatures, great earth-shakers who roamed the plains of Valheim long before the Forsaken were banished to this realm. They are quick to anger and will crush any who are foolish enough to approach them unguarded, but they have known the hand of man and can be taught to love it again."
+lore_plains_random13,"Know, traveler, that while you cannot die in the world of Valheim, yet you can cease to be reborn. Many are those who have come before you to work the will of Odin, only to find their own will failing..."
+dream_random06,"Amidst the crash of arms, on the dark and glimmering plain of sleep, a face swells snarling before you. Your shield arm hangs limp, your spear is broken. You welcome the cold blade when it comes.
+
+From a dream of death, you awaken to death itself."
+dream_random07,"You dream you are lying on your back in a meadow, gazing upward at the clouds. Your name is nothing, your mind is free of thought. But there is a warm hand in yours.
+
+In the dream, you are laughing. But when you awaken, you find your face damp with tears."
+dream_random08,"On a boat carved from dark wood, beneath ragged sails, you lie with your arms folded across your chest. Blurred faces, like thumbprints on the darkness, croon familiar songs as they push you out to float on a sea as black and flat as glass."
+dream_random09,"You lie on the battlefield, dreaming eyes turned upward to a sky veiled by smoke. The calls of your warriors grow fainter and your eyes close for a second time. Great talons slide beneath you and you feel yourself rising, lifted from your body like a babe from its crib…"
+dream_random10,You fall into the deep well of sleep and dream only of darkness.
+dream_random11,"You dream of a bright hall filled with gracious warriors and fair maidens. The air hums with song, the boards groan under the weight of steaming dishes, the mead flows like water.
+
+You awake slowly with the laughter still ringing in your ears…"
+dream_random12,"You sleep in fits and fretful dreams, the weight of the nightmare heavy on your chest. When morning comes, you greet it with relief."
+dream_random13,Sleep is a river and dreams are live fish. You wake in the morning with your net empty.
+dream_random14,"You dream you are hunting with your companions, running high over green hills and down through mist-haunted valleys. Ahead of you, your prey stumbles and you leap forward, sinking your teeth into warm flesh.
+
+When you wake, the taste of metal lingers in your mouth."
+dream_random15,"You dream you are walking in a snowy wood when you come upon a naked child, sitting against a tree with his eyes closed but his chest moving to breathe. As you kneel beside him, you know he has been sleeping here for many centuries, waiting for you. When you touch his shoulder, you both awaken."
+dream_random16,"You dream of a mighty bear, sleeping deep below the earth in the winter of the world. It turns in its sleep, folds upon folds of flesh and fur. It has no head, no limbs. A vast mass of bear flesh, mercifully quiet."
+dream_random17,"You fall asleep planning your next day's labor and in your dreams you complete it, hewing wood, foraging for food and hunting after swift deer. You return home exhausted but happy, only to awaken and find the day is still ahead of you..."

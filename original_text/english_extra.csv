@@ -1,0 +1,192 @@
+﻿Context,English
+enemy_blobtar,Growth
+item_tar,Tar
+item_tar_description,A sticky lump of tar
+piece_crystalwall1x1,Crystal wall 1x1
+piece_bathtub,Hot tub
+piece_darkwoodbeam,Darkwood beam 2m
+piece_darkwoodbeam4,Darkwood beam 4m
+piece_darkwoodpole,Darkwood pole 2m
+piece_darkwoodpole4,Darkwood pole 4m
+piece_darkwoodraven,Raven adornment
+piece_darkwoodwolf,Wolf adornment
+piece_darkwoodroof26,Shingle roof 26°
+piece_darkwoodroof45,Shingle roof 45°
+piece_darkwoodrooficorner,Shingle roof i-corner 26°
+piece_darkwoodrooficorner45,Shingle roof i-corner 45°
+piece_darkwoodroofocorner,Shingle roof o-corner 26°
+piece_darkwoodroofocorner45,Shingle roof o-corner 45°
+piece_darkwoodrooftop,Shingle roof ridge 26°
+piece_darkwoodrooftop45,Shingle roof ridge 45°
+piece_darkwoodarch,Darkwood arch
+piece_chestblackmetal,Black metal chest
+piece_cookingstation_iron,Iron cooking station
+piece_cauldron_ext1_spice,Spice rack
+piece_cauldron_ext3_butchertable,Butcher's table
+piece_cauldron_ext4_pans,Pots and pans
+piece_oven,Stone oven
+piece_oven_additem,Bake item
+piece_woodwallroof_upsidedown,Wood wall 26° (inverted)
+piece_woodwallroof45_upsidedown,Wood wall 45° (inverted)
+piece_woodwindowshutter,Wood shutter
+piece_woodwallquarter,Wood wall 1x1
+piece_woodfinestack,Fine wood stack
+piece_woodcorestack,Core wood stack
+piece_treasure_pile,Coin pile
+piece_treasure_stack,Coin stack
+piece_chesttreasure,Treasure chest
+piece_darkwooddecowall,Carved Darkwood divider
+piece_woodlog26,Log beam 26°
+piece_woodlog45,Log beam 45°
+piece_ironfloor,Cage floor 2x2
+piece_ironwall,Cage wall 2x2
+item_boar_meat,Boar meat
+item_boar_meat_description,
+item_boar_meat_cooked,Cooked boar meat
+item_boar_meat_cooked_description,An earthly taste.
+item_wolf_meat,Wolf meat
+item_wolf_meat_description,
+item_wolf_meat_cooked,Cooked wolf meat
+item_wolf_meat_cooked_description,A wild taste.
+item_deer_meat,Deer meat
+item_deer_meat_description,
+item_deer_meat_cooked,Cooked deer meat
+item_deer_meat_cooked_description,All that running paid off.
+item_boarjerky,Boar jerky
+item_boarjerky_description,Lean and salty.
+item_blacksoup,Black soup
+item_blacksoup_description,A perfect balance of sweetness and acidity.
+item_eyescream,Eyescream
+item_eyescream_description,Crispy cool and creamy.
+item_shocklatesmoothie,Muckshake
+item_shocklatesmoothie_description,Wakes you up!
+item_deerstew,Deer stew
+item_deerstew_description,Fall-apart tender.
+item_onionsoup,Onion soup
+item_onionsoup_description,Deliciously rich.
+item_wolfjerky,Wolf jerky
+item_wolfjerky_description,Chewy and full of flavor.
+item_wolf_skewer,Wolf skewer
+item_wolf_skewer_description,Dripping with taste.
+item_mincemeatsauce,Minced Meat Sauce
+item_mincemeatsauce_description,Chunks of goodness in a thick gravy.
+item_onion,Onion
+item_onion_description,A crunchy and spicy taste.
+item_onionseeds,Onion seeds
+item_onionseeds_description,Plant to grow a healthy onion.
+piece_sapling_onion,Onion
+piece_sapling_seedonion,Seed-onion
+piece_benchlog,Sitting log
+msg_consumed,Consumed
+item_breaddough,Bread dough
+item_breaddough_description,Ready for the oven.
+item_loxpie_uncooked,Unbaked lox pie
+item_loxpie_uncooked_description,Ready for the oven.
+hud_itemstucktar,It is stuck in the tar
+hud_rename,Rename
+item_knife_butcher,Butcher knife
+item_knife_butcher_description,A butcher's knife designed specifically for slaughtering tamed animals.
+item_tamedonly,Can only hurt tamed creatures.
+item_blockarmor,Block armor
+item_blockforce,Block force
+se_tared_name,Tared
+se_tared_tooltip,The sticky tar is slowing you down
+se_tared_start,You are covered in sticky tar
+item_staminause,Use stamina
+item_staminahold,Draw stamina
+item_current,Current
+animal_fish1,Perch
+animal_fish2,Pike
+animal_fish3,Tuna
+item_turnipseeds_description,Plant to grow a healthy turnip.
+piece_sapling_seedonion_description,Plant onion seeds to get even more seeds.
+enemy_loxcalf,Lox calf
+item_pukeberries,Bukeperries
+item_pukeberries_description,Allows the consumer to quickly evacuate any misplaced meal and start anew.
+se_puke_name,Feeling sick
+se_puke_tooltip,You don't feel so well and can't hold your food down.
+se_puke_start,You feel sick
+item_knife_silver,Silver knife
+item_knife_silver_description,A savage piece of pain.
+item_battleaxe_crystal,Crystal battleaxe
+item_battleaxe_crystal_description,It's see-through and tears through.
+item_shield_ironbuckler,Iron buckler
+item_shield_ironbuckler_description,Its lightness and curved center makes it excellent for deflecting attacks.
+item_shield_bonetower,Bone tower shield
+item_shield_bonetower_description,The bones of dead warriors makes for good protection.
+piece_groundtorchblue,Standing blue-burning iron torch
+piece_cartographytable,Cartography table
+piece_table_oak,Long heavy table
+piece_table_round,Round table
+msg_mapsaved,You record your discoveries to the table
+msg_mapsynced,You copy some discoveries from the table
+msg_alreadysynced,There is nothing new to copy
+msg_mapnodata,The table is empty
+piece_readmap,Read map
+piece_writemap,Record discoveries
+piece_ironwallSmall,Cage wall 1x1
+piece_ironfloorSmall,Cage floor 1x1
+piece_incinerator,Obliterator
+piece_pulllever,Pull lever
+piece_incinerator_conversion,Thor bestows a gift upon you!
+piece_incinerator_success,Items obliterated!
+piece_incinerator_fail,Obliterator is in use
+piece_incinerator_empty,Thor frowns upon you
+tutorial_shield_label,Hugin: Shield
+tutorial_shield_topic,You have crafted a Shield
+tutorial_shield_text,"A shield allows you to block incoming damage. 
+If your timing is perfect, the enemy may also be <color=yellow>parried</color>. 
+Be careful though, if you block too many hits you will be become <color=yellow>staggered</color>. The amount of damage you can block before becoming staggered depends on your maximum Health, so if you plan on tanking a lot of damage you should eat food that increases your Health.
+Heavier shields will block more damage but will also slow you down."
+prop_birch_sapling,Birch Sapling
+item_birchseeds,Birch seeds
+item_birchseeds_description,Plant them to grow a birch tree.
+prop_oak_sapling,Oak Sapling
+item_oakseeds,Acorns
+item_oakseeds_description,Plant them to grow an oak tree.
+skill_ride,Riding
+skill_ride_description,Animal speed and stamina drain.
+item_saddlelox,Lox saddle
+item_saddlelox_description,Use on a Lox to be able to ride it.
+hud_saddle_already,already has a saddle
+tutorial_maptable_topic,Record your exploration
+tutorial_maptable_label,Hugin: Cartography table
+tutorial_maptable_text,With this table you can record and share your explorations of the 10th World. Use the toolbox to record your progress and take a look at this large map to copy what others have explored.
+settings_pointlights,Active Point Lights
+settings_pointlightshadows,Active Point Light Shadows
+hud_saddle_ready,is ready for a ride
+settings_infinite,Inf.
+hud_saddle_remove,Remove saddle
+hud_mapday,Day
+hud_sharedmap,Cartography Table
+hud_ping,Ping
+settings_joysens,Gamepad Sensitivity
+settings_autopickup,Toggle Auto-Pickup
+hud_autopickup,Auto-Pickup
+hud_on,On
+hud_off,Off
+loadscreen_tip23,You can filter map pins by type by right clicking on them. (DPad Right)
+tutorial_bathtub_text,"Jump in, the water's nice and warm!"
+tutorial_hunger2_text,"Consuming food is of <color=yellow>utmost importance</color> to a viking warrior, even in the afterlife.
+
+Food can be found everywhere in the world, and a great deal of it can be prepared at a <color=yellow>Cooking station</color>.
+
+There are three types of food; One increases Health, one fortifies Stamina, and then there's also a combination of both. Choose your diet based on your needs!"
+tutorial_food2_text,"You have found a snack, consume it to stave off hunger. Some food types are better for your Health and indirectly how much damage you can block before becoming staggered, and others will fortify your Stamina. Then there are also some that is all-around beneficial!
+
+Be aware that before long you will grow hungry again, so try to always have at least a couple of different meals ready."
+piece_darkwoodchair,Darkwood chair
+piece_stonethrone,Stone throne
+piece_coalpile,Coal pile
+piece_tarpile,Tar barrel
+msg_cookingstationtooweak,This cooking station is too weak for
+piece_banner06,"Blue, red and white banner"
+piece_banner07,White and blue striped banner
+ammo_arrows,arrows
+piece_darkwoodgate,Darkwood gate
+item_trophy_growth,Growth trophy
+item_trophy_growth_description,A black and sticky mess.
+item_thunderstone,Thunder stone
+item_thunderstone_description,It is crackling with energy.
+settings_cameratilt,Immersive camera
+item_trophy_growth_lore,A black and sticky mess.
