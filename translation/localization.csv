@@ -520,7 +520,7 @@ piece_portal_settag,Set tag,設置標籤
 piece_raise,Raise ground,堆高地面
 piece_rug_deer,Deer rug,鹿皮地毯
 piece_rug_wolf,Wolf rug,狼皮地毯
-piece_rug_lox,Lox rug,氂獸皮地毯
+piece_rug_lox,Lox rug,蜥犛牛皮地毯
 piece_sapling_barley,Barley,大麥
 piece_sapling_flax,Flax,亞麻
 piece_sapling_turnip,Turnip,蕪菁
@@ -563,7 +563,7 @@ piece_woodroofocorner,Thatch roof o-corner 26°,茅草外角屋脊26°
 piece_woodroofocorner45,Thatch roof o-corner 45°,茅草外角屋脊45°
 piece_woodrooftop,Thatch roof ridge 26°,茅草屋脊26°
 piece_woodrooftop45,Thatch roof ridge 45°,茅草屋脊45°
-piece_woodstack,Wood stack,木堆
+piece_woodstack,Wood stack,木垛
 piece_woodstair,Wood stair,木階梯
 piece_woodstepladder,Wood ladder,木梯子
 piece_woodwallhalf,Wood wall half,半高木牆
@@ -585,7 +585,7 @@ piece_bench01,Bench,長椅
 piece_brazierceiling01,Hanging brazier,吊火盆
 piece_banner01,Black banner,黑色旗幟
 piece_banner02,Blue banner,藍色旗幟
-piece_banner03,White and red striped banner,紅白條紋旗幟
+piece_banner03,White and red striped banner,白紅條紋旗幟
 piece_banner04,Red banner,紅色旗幟
 piece_banner05,Green banner,綠色旗幟
 piece_sharpstakes,Sharp stakes,尖木樁
@@ -621,7 +621,7 @@ item_food_duration,Duration,持續時間
 item_food_regen,Healing,治療
 item_noteleport,Can't be teleported,無法傳送
 item_seteffect,Set effect,套裝效果
-item_parts,parts,部分
+item_parts,parts,件
 item_crafter,Crafted by,製作者
 item_movement_modifier,Movement speed,移動速度
 item_total,Total,總計
@@ -629,7 +629,7 @@ item_onehanded,One-handed,單手
 item_twohanded,Two-handed,雙手
 ,,
 ,,
-item_trophy_eikthyr,Eikthyr trophy,櫟神鹿戰利品
+item_trophy_eikthyr,Eikthyr trophy,橡神鹿戰利品
 item_trophy_eikthyr_description,"This severed head oozes power.
 
 Offer it to the Sacrificial Stones.","這顆被割下的鹿頭散發著力量。
@@ -654,7 +654,7 @@ Offer it to the Sacrificial Stones.","骸骨和黏稠物，被某種無形的力
 item_trophy_bonemass_lore,"A mess of black soil and old bone, thankfully quiet now.","整團沼泥和古老骸骨的
 混合物，幸好現在安靜
 不動了。"
-item_trophy_dragonqueen,Moder trophy,亞龍之母戰利品
+item_trophy_dragonqueen,Moder trophy,亞龍龍母戰利品
 item_trophy_dragonqueen_description,"The head of a dragon, majestic even in the rigor of death.
 
 Offer it to the Sacrificial Stones.","巨龍的頭，即使死亡僵硬，依然莊嚴雄偉。
@@ -724,8 +724,8 @@ item_trophy_wraith_lore,"The shed skin of a wraith, a flowing robe only visible 
 只在月光下才看得見的
 飄逸罩袍。"
 item_trophy_blob,Blob trophy,泥怪戰利品
-item_trophy_blob_description,A smelly lump of sticky matter.,一團發臭的黏稠物。
-item_trophy_blob_lore,A smelly lump of sticky matter.,一團發臭的黏稠物。
+item_trophy_blob_description,A smelly lump of sticky matter.,一坨發臭的黏稠物。
+item_trophy_blob_lore,A smelly lump of sticky matter.,一坨發臭的黏稠物。
 item_trophy_draugr,Draugr trophy,屍鬼戰利品
 item_trophy_draugr_description,Bind up the mouth if it starts to whisper in the night...,它要是在半夜開始竊竊私語，就把它的嘴縫上吧……
 item_trophy_draugr_lore,Bind up the mouth if it starts to whisper in the night...,"它要是在半夜開始竊竊
@@ -770,11 +770,11 @@ item_trophy_surtling,Surtling trophy,火精戰利品
 item_trophy_surtling_description,"Wreathed in pale flame, it still smolders like an ember.",裹著淡淡的火焰，持續地如餘燼般悶燒。
 item_trophy_surtling_lore,"Wreathed in pale flame, it still smolders like an ember.","裹著淡淡的火焰，持續
 地如餘燼般悶燒。"
-item_trophy_serpent,Serpent trophy,海蟒戰利品
+item_trophy_serpent,Serpent trophy,海蛟戰利品
 item_trophy_serpent_description,The scales have dulled but the eyes are still bright.,鱗片雖已黯淡，但眼睛依舊明亮。
 item_trophy_serpent_lore,The scales have dulled but the eyes are still bright.,"鱗片雖已黯淡，但眼睛
 依舊明亮。"
-item_trophy_lox,Lox trophy,氂獸戰利品
+item_trophy_lox,Lox trophy,蜥犛牛戰利品
 item_trophy_lox_description,"A giant beast's head, thatched with thick fur.",巨獸的頭，覆蓋著厚實的毛皮。
 item_trophy_lox_lore,"A giant beast's head, thatched with thick fur.","巨獸的頭，覆蓋著厚實
 的毛皮。"
@@ -783,9 +783,9 @@ item_trophy_deathsquito_description,You don't like touching this thing even when
 item_trophy_deathsquito_lore,You don't like touching this thing even when it's dead.,"就算牠死了，你也不會
 想碰。"
 item_trophy_goblinshaman,Fuling shaman trophy,惡精薩滿戰利品
-item_trophy_goblinshaman_description,Even killing it couldn't wipe the knowing smile from its crooked lips...,即使殺了牠，也抹不掉牠詭譎的微笑……
-item_trophy_goblinshaman_lore,Even killing it couldn't wipe the knowing smile from its crooked lips...,"即使殺了牠，也抹不掉
-牠詭譎的微笑……"
+item_trophy_goblinshaman_description,Even killing it couldn't wipe the knowing smile from its crooked lips...,即使殺了他，也抹不掉他詭譎的微笑……
+item_trophy_goblinshaman_lore,Even killing it couldn't wipe the knowing smile from its crooked lips...,"即使殺了他，也抹不掉
+他詭譎的微笑……"
 ,,
 ,,
 item_club,Club,木棒
@@ -913,7 +913,7 @@ item_shield_bronzebuckler,Bronze buckler,青銅圓盾
 item_shield_bronzebuckler_description,"A shield of burnished bronze, good to turn a blade or two.",青銅打磨的盾，對擋開刀刃很有幫助。
 item_shield_knight,Knight shield UNUSED,騎士盾 未使用
 item_shield_knight_description,A wooden shield reinforced with iron. UNUSED,用鐵加固的木盾。 未使用
-item_shield_serpentscale,Serpent scale shield,海蟒鱗盾
+item_shield_serpentscale,Serpent scale shield,海蛟鱗盾
 item_shield_serpentscale_description,A sturdy shield of overlapping scales.,用鱗片搭疊而成的堅固盾牌。
 item_shield_silver,Silver shield,銀盾
 item_shield_silver_description,A shield of radiant silver.,銀光閃閃的盾。
@@ -965,9 +965,9 @@ item_meat_raw,Raw meat,生肉
 item_meat_raw_description,"A raw piece of meat, cook it for a tasty treat.",生的肉塊，煮熟後就是美味佳餚。
 item_meat_cooked,Cooked meat,熟肉
 item_meat_cooked_description,"Roasted on the bone, fit for a feast.",帶骨炙烤，宴會佳餚。
-item_loxmeat,Lox meat,氂獸肉
+item_loxmeat,Lox meat,蜥犛牛肉
 item_loxmeat_description,A raw slab of marbled meat.,生的厚切雪花肉。
-item_loxmeat_cooked,Cooked lox meat,熟氂獸肉
+item_loxmeat_cooked,Cooked lox meat,熟蜥犛牛肉
 item_loxmeat_cooked_description,"A great hunk of tender meat, food fit for Valhalla!",大塊嫩肉，英靈殿的絕品美食！
 item_fish_raw,Raw fish,生魚肉
 item_fish_raw_description,A good catch.,釣到大魚囉。
@@ -1000,13 +1000,13 @@ item_mead_tasty_description,"The nectar of the gods, divine mead.",諸神的甘�
 item_barleywinebase,Barley wine base: Fire resistance,大麥酒成分：抗火焰
 item_barleywine,Fire resistance barley wine,抗火焰大麥酒
 item_barleywine_description,Fortifies you against fire.,能讓你抵禦火焰。
-item_turnipstew,Turnip stew,蕪菁燉湯
+item_turnipstew,Turnip stew,蕪菁燉肉
 item_turnipstew_description,Nutritious and restorative.,營養又滋補。
 item_carrotsoup,Carrot soup,胡蘿蔔湯
 item_carrotsoup_description,A warm tasty soup made of mostly carrots.,主要以胡蘿蔔為成分製成的美味熱湯。
-item_serpentstew,Serpent stew,海蟒燉湯
-item_serpentstew_description,Smells of honey and serpent...,有股蜂蜜和海蟒的味道……
-item_loxpie,Lox meat pie,氂獸肉派
+item_serpentstew,Serpent stew,海蛟燉湯
+item_serpentstew_description,Smells of honey and serpent...,有股蜂蜜和海蛟的味道……
+item_loxpie,Lox meat pie,蜥犛牛肉派
 item_loxpie_description,Break the crust to release a cloud of fragrant steam. Delicious!,破開派皮，蒸騰出香濃的熱氣。美味啊！
 item_fishwraps,Fish wraps,魚肉捲餅
 item_fishwraps_description,"Bread and fish, what more to wish?",麵餅配魚，夫復何求？
@@ -1033,7 +1033,7 @@ item_chest_rags_description,Better than nothing.,有穿總比沒穿好。
 item_legs_rags,Rag pants,破布褲
 item_legs_rags_description,A simple remedy for nudity.,避免全裸的簡易解法。
 item_chest_trollleather,Troll leather tunic,巨魔皮衣
-item_chest_trollleather_description,Trolls are hard to skin but their leather is tough and warm.,巨魔的皮很難剝，但牠們的皮強韌又保暖。
+item_chest_trollleather_description,Trolls are hard to skin but their leather is tough and warm.,巨魔的皮很難剝，但他們的皮強韌又保暖。
 item_legs_trollleather,Troll leather pants,巨魔皮褲
 item_legs_trollleather_description,Leggings of tough troll hide.,用強韌的巨魔皮製成的褲子。
 item_chest_bronze,Bronze plate cuirass,青銅胸甲
@@ -1063,8 +1063,8 @@ item_legs_wolf_description,Shaggy breeches of wolfskin.,毛茸茸的狼皮褲。
 item_cape_wolf,Wolf fur cape,狼皮披風
 item_cape_wolf_description,Wolves are natural survivors. This one was just unlucky. Now its pelt will warm you in the snow.,"狼是天生的強者。這一匹只是運氣不好。
 現在牠的毛皮將在雪中為你取暖。"
-item_cape_lox,Lox cape,氂獸披風
-item_cape_lox_description,"A pelt from one of the great beasts, thick and warm.",取自巨獸的毛皮，厚實又保暖。
+item_cape_lox,Lox cape,蜥犛牛披風
+item_cape_lox_description,"A pelt from one of the great beasts, thick and warm.",巨獸的毛皮，厚實又保暖。
 item_helmet_drake,Drake helmet,亞龍盔
 item_helmet_drake_description,An elaborate and finely-crafted helm.,匠心製作的精緻頭盔。
 ,,
@@ -1115,7 +1115,7 @@ item_deerhide,Deer hide,鹿皮
 item_deerhide_description,A cleaned hide from a deer.,清理乾淨的鹿皮。
 item_wolfpelt,Wolf pelt,狼皮
 item_wolfpelt_description,A pelt of shaggy fur.,毛茸茸的毛皮。
-item_loxpelt,Lox pelt,氂獸皮
+item_loxpelt,Lox pelt,蜥犛牛皮
 item_loxpelt_description,"A heavy pelt of thick, musty fur.",有霉味的厚重毛皮。
 item_iron,Iron,鐵錠
 item_iron_description,A bar of pure iron ready to be worked.,可供加工的純鐵錠。
@@ -1176,7 +1176,7 @@ item_barley_description,A bundle of barley.,一捆大麥。
 item_barleyflour,Barley flour,大麥麵粉
 item_barleyflour_description,Great for baking bread.,烤麵包的最佳原料。
 item_flax,Flax,亞麻
-item_flax_description,Unspun fibers from a flax plant.,取自亞麻植物的未紡纖維。
+item_flax_description,Unspun fibers from a flax plant.,亞麻植物的未紡纖維。
 item_linenthread,Linen thread,亞麻線
 item_linenthread_description,A fine linen thread made out of strong flax filament.,用強韌的亞麻纖維製成的優質亞麻線。
 item_bonefragments,Bone fragments,骸骨碎片
@@ -1201,12 +1201,12 @@ item_dragonegg,Dragon egg,龍蛋
 item_dragonegg_description,"Far heavier than it looks, with a faint humming sound from within.",比看起來要重得多，裡面還傳出微弱的轟鳴聲。
 item_obsidian,Obsidian,黑曜石
 item_obsidian_description,Dark volcanic glass.,漆黑的火山玻璃。
-item_serpentscale,Serpent scale,海蟒鱗
-item_serpentscale_description,The shiny metal-like scale from a sea serpent.,取自海蟒的閃亮金屬狀鱗片。
-item_serpentmeat,Serpent meat,海蟒肉
-item_serpentmeat_description,"A slice of sea serpent, smells fishy.",一片海蟒肉，有股魚腥味。
-item_serpentmeatcooked,Cooked serpent meat,熟海蟒肉
-item_serpentmeatcooked_description,"A cooked slice of sea serpent, smells good.",一片煮熟的海蟒肉，香味四溢。
+item_serpentscale,Serpent scale,海蛟鱗
+item_serpentscale_description,The shiny metal-like scale from a sea serpent.,海蛟的閃亮金屬狀鱗片。
+item_serpentmeat,Serpent meat,海蛟肉
+item_serpentmeat_description,"A slice of sea serpent, smells fishy.",一片海蛟肉，有股魚腥味。
+item_serpentmeatcooked,Cooked serpent meat,熟海蛟肉
+item_serpentmeatcooked_description,"A cooked slice of sea serpent, smells good.",一片煮熟的海蛟肉，香味四溢。
 item_chitin,Chitin,甲殼素
 item_chitin_description,A shard of crustacean shell.,甲殼類動物的外殼碎片。
 item_dragontear,Dragon tear,龍之淚
@@ -1281,31 +1281,31 @@ customization_nohair,No hair,光頭
 se_burning_start,You are burning,你燒起來了
 se_burning_tooltip,You are on fire!,你著火了！
 se_smoked_start,You can't breathe in the smoke,你無法在濃煙中呼吸
-se_cold_start,You feel cold,你覺得寒冷
+se_cold_start,You feel cold,你感到寒冷
 se_cold_stop,You are getting warmer,你漸漸暖和了
 se_cold_repeat,You are cold,你很冷
 se_freezing_start,You are freezing,你快凍僵了
 se_freezing_stop,You are getting warmer,你漸漸暖和了
 se_freezing_repeat,You are freezing,你快凍僵了
-se_healthupgrade_stop,You feel stronger,你覺得更強壯了
-se_staminaupgrade_stop,You feel stronger,你覺得更強壯了
+se_healthupgrade_stop,You feel stronger,你感到更強壯了
+se_staminaupgrade_stop,You feel stronger,你感到更強壯了
 se_potion_start,You drink the potion,你喝了藥水
 se_shelter_start,You are sheltered,你有遮蔽了
 se_shelter_stop,You are exposed,你沒有遮蔽了
-se_warm_start,You feel warm,你覺得溫暖
+se_warm_start,You feel warm,你感到溫暖
 se_wet_start,You are wet,你身上濕了
 se_wet_stop,You are dry again,你身上乾了
 se_wet_repeat,You are wet,你身上濕了
 se_encumbered_start,You are carrying too much,你帶得太多了
 se_encumbered_repeat,You are carrying too much,你帶得太多了
 se_encumbered_tooltip,You are encumbered and cannot run.,你超重了，跑不動。
-se_cozy_start,You feel cozy,你覺得舒適
+se_cozy_start,You feel cozy,你感到舒適
 se_resting_start,Resting,休息中
-se_rested_start,You feel rested,你覺得精力充沛
+se_rested_start,You feel rested,你感到精力充沛
 se_rested_stop,You don't feel rested anymore,你不再精力充沛
 se_rested_comfort,Comfort,舒適度
 se_wishbone_start,You can sense hidden objects,你可以探測到隱藏之物
-se_beltstrength_start,You feel stronger,你覺得更強壯了
+se_beltstrength_start,You feel stronger,你感到更強壯了
 se_beltstrength_tooltip,Increase max carry weight.,負重上限增加。
 se_poisonres_name,Poison resistance,抗中毒
 se_frostres_name,Frost resistance,抗冰霜
@@ -1343,7 +1343,7 @@ se_healthpotionmedium_name,Health potion,治療藥水
 se_healthpotionminor_name,Minor health potion,初級治療藥水
 se_staminapotion_name,Stamina potion,耐力藥水
 se_rested_name,Rested,精力充沛
-se_rested_tooltip,"You feel rested, health and stamina regeneration is higher.",你覺得精力充沛，生命和耐力回復量提高。
+se_rested_tooltip,"You feel rested, health and stamina regeneration is higher.",你感到精力充沛，生命和耐力回復量提高。
 se_resting_name,Resting,休息
 se_resting_tooltip,"You are currently resting, health and stamina regeneration is significantly higher.",你目前正在休息，生命和耐力回復量大幅提高。
 se_shelter_name,Shelter,遮蔽
@@ -1361,8 +1361,8 @@ se_wishbone_name,Wishbone,許願骨
 se_wishbone_tooltip,Helps you find hidden things. Move in the direction the pings get more intense.,能幫助你找到隱藏之物。向探測訊號更強烈的方向移動吧。
 se_softdeath_name,No skill drain,技能不會流失
 se_softdeath_tooltip,If you die you won't lose any skill points.,如果你死了，不會損失任何技能點。
-se_eikthyr_name,Eikthyr,櫟神鹿
-se_eikthyr_start,You activate the power of Eikthyr.,你發動了櫟神鹿的力量。
+se_eikthyr_name,Eikthyr,橡神鹿
+se_eikthyr_start,You activate the power of Eikthyr.,你發動了橡神鹿的力量。
 se_eikthyr_tooltip,Your ability to run and jump is improved.,奔跑和跳躍的能力提升。
 se_theelder_name,The Elder,古老樹妖
 se_theelder_start,The Elder's power surges through you.,古老樹妖的力量在你全身奔流。
@@ -1370,8 +1370,8 @@ se_theelder_tooltip,Faster wood cutting.,伐木速度加快。
 se_bonemass_name,Bonemass,骨泥聚合體
 se_bonemass_start,Bonemass spirit lives in you now.,骨泥聚合體的靈魂附在你身上了。
 se_bonemass_tooltip,Resistance VS physical damage.,對物理傷害有抗性。
-se_moder_name,Moder,亞龍之母
-se_moder_start,Even in death Moder still cries.,即使死了，亞龍之母仍哀吼著。
+se_moder_name,Moder,亞龍龍母
+se_moder_start,Even in death Moder still cries.,即使死了，亞龍龍母仍哀吼著。
 se_moder_tooltip,Always tailwind when sailing.,航行時永遠順風。
 se_yagluth_name,Yagluth,亞古魯斯
 se_yagluth_start,The cosmic powers of Yagluth.,亞古魯斯的宇宙之力。
@@ -1384,7 +1384,7 @@ se_max_carryweight,Max carry weight,負重上限
 se_jumpstamina,Jump stamina usage,跳躍耐力消耗
 se_runstamina,Run stamina usage,奔跑耐力消耗
 se_harpooned_name,Harpooned,魚叉
-se_harpooned_tooltip,You have been harpooned.,你被魚叉刺中。
+se_harpooned_tooltip,You have been harpooned.,被魚叉刺中。
 se_noisemod,Noise,聲響
 se_sneakmod,Sneak,潛行
 se_corpserun_name,Corpse run,屍奔
@@ -1397,7 +1397,7 @@ event_foresttrolls_start,The ground is shaking,地面正在震動
 event_foresttrolls_end,The shakes starts to fade,震動開始減弱了
 event_surtlings_start,There's a smell of sulfur in the air...,空氣中瀰漫著硫磺味……
 event_surtlings_end,The smell is fading,硫磺味正在散去
-event_eikthyrarmy_start,Eikthyr rallies the creatures of the forest,櫟神鹿召集了林中生物
+event_eikthyrarmy_start,Eikthyr rallies the creatures of the forest,橡神鹿召集了林中生物
 event_eikthyrarmy_end,The creatures are calming down,生物漸趨平靜
 event_gdkingarmy_start,The forest is moving...,森林正在移動……
 event_gdkingarmy_end,The forest rests again,森林恢復平靜了
@@ -1409,14 +1409,14 @@ event_skeletons_start,Skeleton surprise,骷髏突然冒出
 event_skeletons_end,Skeletons are tired of fighting,骷髏戰得筋疲力盡了
 event_goblinarmy_start,The horde is attacking,部落正在進攻
 event_goblinarmy_end,The horde is retreating,部落正在撤退
-event_boss01_start,Eikthyr is awakened,櫟神鹿被喚醒了
-event_boss01_end,Eikthyr defeated,櫟神鹿被擊敗了
+event_boss01_start,Eikthyr is awakened,橡神鹿被喚醒了
+event_boss01_end,Eikthyr defeated,橡神鹿被擊敗了
 event_boss02_start,The Elder is awakened,古老樹妖被喚醒了
 event_boss02_end,The Elder defeated,古老樹妖被擊敗了
 event_boss03_start,Bonemass is awakened,骨泥聚合體正在移動
 event_boss03_end,Bonemass defeated,骨泥聚合體再也不能移動了
-event_boss04_start,Moder is awakened,亞龍之母被激怒了
-event_boss04_end,Moder defeated,亞龍之母流下了眼淚
+event_boss04_start,Moder is awakened,亞龍龍母被激怒了
+event_boss04_end,Moder defeated,亞龍龍母流下了眼淚
 event_boss05_start,King Yagluth is awakened,亞古魯斯扭曲的靈魂被召喚了
 event_boss05_end,King Yagluth defeated,亞古魯斯的靈魂被擊敗了
 ,,
@@ -1494,17 +1494,17 @@ If inspected closer, this one will reveal the summoning place of Eikthyr, your <
 作為指向放逐者們儀式場地的路標。
 
 如果仔細觀察，這塊石頭會透露你的<color=yellow>第一個獵物</color>
-櫟神鹿的召喚地點。他是一頭強大的野獸，
+橡神鹿的召喚地點。他是一頭強大的野獸，
 所以在嘗試擊敗他之前，你必須好好武裝自己。"
 NOT USED tutorial_stemple3_label,,
 NOT USED tutorial_stemple3_text,,
-tutorial_stemple4_label,Hugin: Eikthyr defeated,胡金：櫟神鹿已被擊敗
+tutorial_stemple4_label,Hugin: Eikthyr defeated,胡金：橡神鹿已被擊敗
 tutorial_stemple4_topic,Odin is pleased,奧丁很高興
 tutorial_stemple4_text,"You have been granted the power of Eikthyr, use it in times of need.
 
 Your next target dwells in the Black forest. Go there, explore the lands, and uncover their lost treasures and resources.
 
-The Elder awaits!","你被賜予了櫟神鹿的力量，請在需要的時候使用。
+The Elder awaits!","你被賜予了橡神鹿的力量，請在需要的時候使用。
 
 下一個目標棲身在黑森林。去那裡探索一番，
 揭開它們失落的寶藏和資源吧。
@@ -1545,9 +1545,9 @@ tutorial_hunger_topic,You need sustenance,你需要食物
 tutorial_hunger_text,"Consuming food is of <color=yellow>utmost importance</color> to a viking warrior, even in the afterlife. Having a full belly both fortifies your health and improves your stamina.
 
 Food can be found everywhere in the world, and a great deal of it can be prepared at a <color=yellow>Cooking station</color>.","進食對維京戰士來說是<color=yellow>最重要的</color>，即使在死後也是。
-填飽肚子既能提高生命，還能改善耐力。
+填飽肚子既能提高生命，還能增強耐力。
 
-食物遍布在世界各地，而且大多可以用<color=yellow>烹飪架</color>料理。"
+世界各地都有食物，而且大多可以用<color=yellow>烹飪架</color>料理。"
 tutorial_food_label,Hugin: Food,胡金：食物
 tutorial_food_topic,A tasty morsel!,美味佳餚！
 tutorial_food_text,"You have found a snack, consume it to improve your health and stamina.
@@ -1572,7 +1572,7 @@ Use it to clear the ground and manipulate the terrain. It is easier to create bu
 用它來清理地面和調整地形吧。
 在平地上建造房屋會比較容易喔！"
 tutorial_ore_label,Hugin: Ore,胡金：礦石
-tutorial_ore_topic,You have found some ore,你發現了一些礦石
+tutorial_ore_topic,You have found some ore,你找到了一些礦石
 tutorial_ore_text,"Raw ore needs to be refined in the <color=yellow>Smelter</color> before you can work it at the <color=yellow>Forge</color>.
 
 To build a Smelter you will need <color=yellow>Surtling Cores</color>. Search for them in the dark places beneath the earth.","礦石必須先在<color=yellow>冶煉爐</color>中精煉，才能在<color=yellow>鍛爐</color>進行加工。
@@ -1633,7 +1633,7 @@ tutorial_blackforest_label,Hugin: Black forest,胡金：黑森林
 tutorial_blackforest_topic,Turn back! This is a dangerous place,快回去！這是個危險的地方。
 tutorial_blackforest_text,You have wandered into Black forest. This place can be very dangerous for those unprepared for it. Prove your worth by slaying Eikthyr.,"你誤入了黑森林。
 這個地方對沒有準備好的人來說，是非常危險的。
-殺了櫟神鹿，證明你的實力吧。"
+殺了橡神鹿，證明你的實力吧。"
 tutorial_guardstone_label,Hugin: Ward,胡金：結界石
 tutorial_guardstone_topic,You have built a Ward,你建造了結界石
 tutorial_guardstone_text,The Ward emits a strong aura that prevents other vikings from building things. It also locks all doors within its influence.,"結界石能散發強烈的氣場，以阻止其他維京戰士
@@ -1694,7 +1694,7 @@ When Odin heard his enemies were growing once again in strength, he looked to Mi
 
 幾個世紀以來，這個世界不安地沉睡著。
 但它並沒有死去……隨著冰河時期過去，
-無數王國興起，又在諸神眼中衰落。
+無數王國在諸神的視線外興起又衰落。
 
 
 
@@ -1850,7 +1850,7 @@ lore_meadows_random04,"Hold, traveller, and bear witness to my warning. We are m
 敬畏有角者和他派來對付你的生物。"
 lore_meadows_random05,"Heed these words of Ulf, a poor settler in a strange land. You will find here good stone and wood, all you need to build a house. You will need to craft a roof to keep out the rain. Then you will need walls to stop the roof from falling down. Finally, you must have a door or it will be much harder to go in and out.
 
-These things Ulf has learned for himself. Now he writes them on this stone to help others. Pray to Odin for his soul.","請留意可憐的異鄉人，沃夫的這些話。
+These things Ulf has learned for himself. Now he writes them on this stone to help others. Pray to Odin for his soul.","請聽從可憐的異鄉人，沃夫的這些話。
 你能在這裡找到上好的石頭和木材，
 建造房屋所需的一切東西。
 你需要搭建屋頂來遮風蔽雨。
@@ -1860,7 +1860,7 @@ These things Ulf has learned for himself. Now he writes them on this stone to he
 這些都是沃夫自己領悟到的。
 現在，他將其刻在這塊石碑上來幫助他人。
 祈求奧丁，保佑他的靈魂。"
-lore_meadows_random06,"I was Astrid, a shieldmaiden of the forest. I know nothing of my life before I came here but my arm remembers the sword and my eyes see the course of the arrow. Now the raven guides me and I fight the great beasts in Odin's name.","我曾叫阿絲翠德，是一名森林盾女。
+lore_meadows_random06,"I was Astrid, a shieldmaiden of the forest. I know nothing of my life before I came here but my arm remembers the sword and my eyes see the course of the arrow. Now the raven guides me and I fight the great beasts in Odin's name.","我曾叫亞絲翠德，是一名森林盾女。
 我對來到這裡前的生活一無所知，
 但我的手記得怎麼用劍，眼睛也能看到箭的軌跡。
 現在，在渡鴉的指引下，
@@ -1881,7 +1881,7 @@ lore_blackforest_random01,"Beware the deep trees, beware the true dark. When the
 lore_blackforest_random02,"Beneath the ground, the roots of the forest twine together on a great loom. Pluck one thread and the whole weave will move. Chop down one tree and all the wood will know. Make yourself known to the One Who Walks, and he will seek you out.","地面之下，森林的樹根纏繞交錯，
 仿佛在一臺巨大的紡織機上。
 拉一根線，整個織物都會牽動。
-砍一顆樹，所有樹木都會知道。
+砍一棵樹，所有樹木都會知道。
 讓行走之物發現你的存在，
 那他就會找到你。"
 lore_blackforest_random03,"I was Harald, a man from the coast. I remember nothing more of my life in Midgard except that I was a warrior. In my dreams I see the faces of those I killed. I leave this stone that at least my name will remain.","我曾叫哈拉爾，是一名來自海灣的男人。
@@ -1907,10 +1907,10 @@ lore_blackforest_random07,Seven were the creatures banished to this world by mig
 被他流放到這個世界。
 七個非常傲慢，不願意受他統治的神和怪物。
 我曾聽過森林裡古老者的腳步聲，
-也曾蹲在雪山之母飛翔時的影子底下。
+也曾蹲在雪山龍母飛翔時的影子底下。
 其他的我就不清楚了。
 等我見過更多，會再刻到這塊石碑上。"
-lore_swamp_random01,Heed the words of poor Ulf and do not build your house beside the murky waters. Bad dreams and a soggy bed are all you will find. I leave this stone as a warning and go now to make my dwelling on higher ground.,"請留意可憐沃夫的這些話，
+lore_swamp_random01,Heed the words of poor Ulf and do not build your house beside the murky waters. Bad dreams and a soggy bed are all you will find. I leave this stone as a warning and go now to make my dwelling on higher ground.,"請聽從可憐沃夫的這些話，
 不要把房屋蓋在污濁的水域旁。
 這樣你只會得到噩夢和潮濕的床。
 我留下這塊石碑作為告誡，
@@ -1986,7 +1986,7 @@ Build from the ground upwards","天無自興之城
 萬丈高樓平地起"
 lore_mountains_random07,"This stone was placed by me, Astrid, in my seventh year in Valheim. At this spot, the Allfather spoke to me. I awoke from a deep sleep to find his words scattered around me on the ground, frozen to pebbles by the deep cold. When I warmed them in my hands they thawed and spoke his message to me, one word after another.
 
-Slay the Forsaken. Chain their heads. I will come.","這塊石碑是我，阿絲翠德，待在英靈界的
+Slay the Forsaken. Chain their heads. I will come.","這塊石碑是我，亞絲翠德，待在英靈界的
 第七年所立的。在這裡，諸神之父曾對我說話。
 當時我從熟睡中醒來，發現他的話語
 被嚴寒凍得像卵石，散落在周圍的地面上。
@@ -2048,14 +2048,14 @@ Now my last battle must be at hand. When I sleep this time, where will I wake?",
 我在中土界的戰場上喪命，但在英靈界重獲新生。
 然而我的戰鬥仍在繼續。
 
-在綠色草原，我與櫟神鹿搏鬥，
+在綠色草原，我與橡神鹿搏鬥，
 被他的角戳瞎了一隻眼睛。
 
 在密林深處，我被森林的古老者
 扯斷了拿盾的手臂，肋下還中了屍鬼的箭，
 至今還摸得到箭尖。
 
-在雪山山坡，我與亞龍之母奮戰，
+在雪山山坡，我與亞龍龍母奮戰，
 她咬斷了我的一條小腿，
 以致我必須拄著拐杖才能走路。
 
@@ -2080,7 +2080,7 @@ prop_fir,Fir,冷杉
 prop_fir_sapling,Fir sapling,冷杉苗
 prop_pine,Pine,松樹
 prop_pine_sapling,Pine sapling,松樹苗
-prop_oak,Oak,櫟樹
+prop_oak,Oak,橡樹
 ,,
 ,,
 enemy_troll,Troll,巨魔
@@ -2088,10 +2088,10 @@ enemy_stonegolem,Stone Golem,石魔像
 enemy_drake,Drake,亞龍
 enemy_goblin,Fuling,惡精
 enemy_goblinbrute,Fuling Berserker,惡精狂戰士
-enemy_eikthyr,Eikthyr,櫟神鹿
+enemy_eikthyr,Eikthyr,橡神鹿
 enemy_gdking,The Elder,古老樹妖
 enemy_bonemass,Bonemass,骨泥聚合體
-enemy_dragon,Moder,亞龍之母
+enemy_dragon,Moder,亞龍龍母
 enemy_goblinking,Yagluth,亞古魯斯
 enemy_deathsquito,Deathsquito,殺人蚊
 ,,
@@ -2196,7 +2196,7 @@ npc_haldor_trade03,You're fortunate to have caught me in a good mood. Let us tra
 npc_haldor_buy01,"These are fine items, not the sort of things you can just pick up","這些都是上等貨，
 可不是你隨便可以撿到的。"
 npc_haldor_buy02,Don't touch anything unless you're prepared to pay for it.,除非你要買，否則請勿觸摸。
-npc_haldor_buy03,Cast your eyes over my goods but keep your hands to yourself.,可以用眼睛看，但不要用手摸。
+npc_haldor_buy03,Cast your eyes over my goods but keep your hands to yourself.,可以用眼睛看，但別用手摸。
 npc_haldor_buy04,Something here might keep you alive a little longer. Though I don't know why you'd bother.,"這裡的東西也許能讓你活得久一點。
 雖然我不知道你為什麼要自找麻煩。"
 npc_haldor_sell01,Let's see what scraps you've picked up...,讓我看看你都撿了什麼破爛……
@@ -2335,11 +2335,11 @@ enemy_draugr,Draugr,屍鬼
 enemy_draugrelite,Draugr elite,屍鬼精英
 enemy_ghost,Ghost,鬼魂
 enemy_leech,Leech,水蛭
-enemy_lox,Lox,氂獸
+enemy_lox,Lox,蜥犛牛
 npc_halstein,Halstein,哈爾斯坦
 enemy_neck,Neck,水蜥
 npc_hugin,Hugin,胡金
-enemy_serpent,Serpent,海蟒
+enemy_serpent,Serpent,海蛟
 enemy_skeleton,Skeleton,骷髏
 enemy_skeletonpoison,Rancid remains,腐臭遺骸
 enemy_surtling,Surtling,火精
@@ -2365,10 +2365,30 @@ menu_connecting,Connecting,連線中
 msg_worldsavewarning,World save in,即將儲存世界：
 lore_meadows_random07,"Blue-eyed shufflers in muck, the neck are small lizards native to Valheim. Surly and mean-spirited, they will attack on sight and must be destroyed like vermin. They stay near water because the creatures of the land loathe and abhor them.
 
-Yet no creature is all bad. Their tails are delicious."
-lore_meadows_random08,"Sisters and brothers of the shield-wall, lift up your hearts! You are the greatest warriors, chosen by the Allfather himself for your courage and valor. Now death has brought you to a land where you can remake yourselves in battle and toil, winning favor and honor from the gods! Leave your memories to rot in Midgard along with your sins, the finest part of you is here!"
-lore_meadows_random09,"On this spot a tree fell on my head and I cursed the gods. So I leave this stone in praise of them, that they might forgive my reckless words."
-lore_meadows_random10,"Pause, traveler. You are well come to the last and most lawless of the Ten Worlds. In Valheim, the air is pure, the water deep and clear and the forests overflowing with bounty. Here is adventure, joy and glory for the taking!"
+Yet no creature is all bad. Their tails are delicious.","在淤泥中搖晃行走的藍眼水蜥，
+是英靈界原生的小蜥蜴。
+牠們脾氣暴躁，性格剛烈，看到人就會攻擊，
+必須像害蟲一樣除掉。牠們住在水邊，
+因為陸地上的生物們都厭惡牠們。
+
+但沒有一種生物是毫無優點的。
+牠們的尾巴很美味。"
+lore_meadows_random08,"Sisters and brothers of the shield-wall, lift up your hearts! You are the greatest warriors, chosen by the Allfather himself for your courage and valor. Now death has brought you to a land where you can remake yourselves in battle and toil, winning favor and honor from the gods! Leave your memories to rot in Midgard along with your sins, the finest part of you is here!","盾牆的兄弟姊妹們，振作起來！
+你們是最偉大的戰士，因為你們的英勇無畏，
+才被諸神之父親自選召了。
+現在，死亡把你們帶到了這片土地，
+在這裡你們可以在戰鬥和勞作中重塑自我，
+贏得諸神的垂青和榮耀！
+讓你們的記憶和罪業留在中土界腐朽吧，
+你最好的部分就在這裡！"
+lore_meadows_random09,"On this spot a tree fell on my head and I cursed the gods. So I leave this stone in praise of them, that they might forgive my reckless words.","在這裡，我曾被一棵樹砸中了頭，
+因而咒罵諸神。
+所以我留下這塊石碑讚美他們，
+以求他們原諒我的魯莽之言。"
+lore_meadows_random10,"Pause, traveler. You are well come to the last and most lawless of the Ten Worlds. In Valheim, the air is pure, the water deep and clear and the forests overflowing with bounty. Here is adventure, joy and glory for the taking!","停下腳步，旅行者。
+歡迎來到最後也是最無法無天的第十世界。
+在英靈界，空氣純淨，水深而清，森林豐饒。
+這裡有冒險、歡樂和榮耀等著你！"
 lore_meadows_random11,"A full belly
 
 A full sail
@@ -2381,44 +2401,154 @@ Let all the mountains crumble
 
 And the seas boil to salt
 
-One day in the sun is a life well-lived."
+One day in the sun is a life well-lived.","飽肚脹
+
+滿帆張
+
+手持重矛唇哼唱
+
+山崩坍
+
+海成鹽
+
+陽光日下過好天"
 lore_blackforest_random08,"The trolls of Midgard may be fading from your memory, as indeed they are from all the race of man. Few and forlorn, they crouch in damp caves and gnaw on the bones of the weak and foolhardy. The will of Odin has pushed them back into the dark places.
 
-But in Valheim they have flourished. It has been centuries since any in Midgard saw the great trolls stamp flat the land and bring down the trees for joy. Look upon this great and noble sight, wanderers in a strange land! Then take to your heels and run..."
-lore_blackforest_random09,"Raised by the Old Man of the Forest from seeds of sin, the greydwarfs clothe themselves in the human forms they once knew, but there is no longer any warmth in their hearts. They live now only to serve the Elder and to protect the wood. Do not let pity for them stay your hand."
+But in Valheim they have flourished. It has been centuries since any in Midgard saw the great trolls stamp flat the land and bring down the trees for joy. Look upon this great and noble sight, wanderers in a strange land! Then take to your heels and run...","中土界的巨魔們可能已被你逐漸淡忘，
+而事實上他們也確實被所有人類種族遺忘。
+他們形單影隻，會蹲在潮濕的洞穴裡，
+啃食著弱者和莽夫的屍骨。
+是奧丁把他們趕回了黑暗的角落。
+
+但在英靈界，他們繁盛猖獗。
+中土界已經有好幾個世紀沒有人見過
+為了好玩而踏平土地和推倒樹木的巨魔了。
+看看這宏偉的景象吧，異鄉的流浪者們！
+然後，拔腿快跑……"
+lore_blackforest_random09,"Raised by the Old Man of the Forest from seeds of sin, the greydwarfs clothe themselves in the human forms they once knew, but there is no longer any warmth in their hearts. They live now only to serve the Elder and to protect the wood. Do not let pity for them stay your hand.","森林的古老者用罪惡的種子所培育的矮灰妖，
+雖然披上了它們曾經熟悉的人類外形，
+但它們的內心不再有任何溫暖。
+它們現在活著只為效力於古老樹妖和保護森林。
+不要因憐憫它們而手下留情。"
 lore_blackforest_random10,"Which among you was a murderer, a kin-slayer, a renegade? Who turned a blade in their brother's back? Who tore babes from their mothers' arms, set fire to the houses of the plundered? Consider it a blessing that you remember nothing. Each among you is a great warrior, and warriors' souls are never clean.
 
-But Odin has gifted you a second chance... Praise the Allfather!"
-lore_blackforest_random11,"Look to the sky where mighty Yggdrasil reaches out, called by the Forsaken Ones to join itself once more with this wayward world. It is a glorious sight but a dreadful one. For as the great tree bends out across the void, it's branches strain and crack, felt in the remaining nine worlds as quakings of the earth, great storms and holy fires. The Forsaken must be slain and balance restored."
-lore_blackforest_random12,"Astrid will not look at me twice. I leave this stone to honour great Freya. O goddess, grant me a beard like Bjorn's that I might win her heart!"
+But Odin has gifted you a second chance... Praise the Allfather!","你們當中有誰曾是凶犯、弒親者、叛徒？
+有誰曾在自己的兄弟背上捅刀？
+有誰曾從母親的懷中搶奪嬰兒，燒殺擄掠？
+把你們什麼都不記得當作一種祝福吧。
+你們每個人都是偉大的戰士，
+而戰士的靈魂從來不是清澈的。
+
+但奧丁賜予了你們第二次機會……讚美諸神之父！"
+lore_blackforest_random11,"Look to the sky where mighty Yggdrasil reaches out, called by the Forsaken Ones to join itself once more with this wayward world. It is a glorious sight but a dreadful one. For as the great tree bends out across the void, it's branches strain and crack, felt in the remaining nine worlds as quakings of the earth, great storms and holy fires. The Forsaken must be slain and balance restored.","看那遍布巨大世界樹的天空，在放逐者們的召喚下，
+再次與這個失控世界連接。這是個壯觀但又可怕的景象。
+因為當巨樹橫跨虛空蜿蜒時，它的枝條會繃緊而開裂，
+在其餘九個世界裡都能感受到大地、風暴和聖火的震盪。
+放逐者必須被消滅，以恢復平衡。"
+lore_blackforest_random12,"Astrid will not look at me twice. I leave this stone to honour great Freya. O goddess, grant me a beard like Bjorn's that I might win her heart!","亞絲翠德不會再看我一眼了。
+我留下這塊石碑以稱頌偉大的芙蕾雅。
+哦，女神啊，請賜我像比約恩那樣的鬍子吧，
+這樣我才能贏得她的芳心！"
 lore_blackforest_random13,"I have been reborn many times in this world. I have died again and again only to awaken in my own house. Yet still I wonder how many more times I will return like this. Frida was taken by a serpent and her bed lies empty still. Bjarni was bitten in half by a troll and neither half has been seen since...
 
 All around are the ruins of those who came before us but where are the hands that built them?
 
-Perhaps, when a warrior loses the will to remain here, they can no longer return..."
+Perhaps, when a warrior loses the will to remain here, they can no longer return...","我在這個世界已經重生過很多次了。
+我一次又一次地死去，卻在自己的房裡醒來。
+但我仍然好奇，我還會像這樣往返多少次。
+芙莉妲被海蛟拖走了，她的床至今還是空著的。
+比亞尼被巨魔咬成了兩半，之後再也沒有人見過……
+
+遍地都是前人的廢墟，但建造它們的人去哪裡了呢？
+
+或許，當一名戰士失去了留在這裡的意願，
+他們就再也回不來了……"
 lore_swamp_random08,"For long ages, Odin's eye was turned from Valheim. Yet while the gods ignored it, other creatures crept or fell through cracks into the forgotten world. Trolls, goblins and men found their way along these secret paths. Kingdoms rose and fell, and are buried deep beneath the ground.
 
-Walker among the dead, you tread a grave with every step."
-lore_swamp_random09,At this place I killed seven of the draugr and ended their long years of fighting and misery. Now who will end mine?
-lore_swamp_random10,"I am Gudrun, no man's wife, no father's daughter. Only my name remains to me. But sometimes when I wake I feel the weight of a babe at my breast and I cry. Great Freya take pity on me."
-lore_swamp_random11,"Fear not that the gods have abandoned you. Valheim drifts from the world tree and the Vanir cannot come in arms to this world but still they watch from afar. Keep them ever in your mind. If your faith is strong, they may send you a sign."
+Walker among the dead, you tread a grave with every step.","在很長一段時間裡，奧丁對英靈界都漠不關心。
+然而，在諸神忽略它的時候，
+其他生物卻從裂縫鑽進或掉進了這個被遺忘的世界。
+巨魔、地精和人類都沿著密道找到了這裡。
+無數王國興起又衰落，並被深埋地底。
+
+亡者間的行者啊，你的每一步都踏在墳墓之上。"
+lore_swamp_random09,At this place I killed seven of the draugr and ended their long years of fighting and misery. Now who will end mine?,"我在這個地方殺了七隻屍鬼，
+結束了它們漫長的戰鬥和苦難。
+現在誰能結束我的呢？"
+lore_swamp_random10,"I am Gudrun, no man's wife, no father's daughter. Only my name remains to me. But sometimes when I wake I feel the weight of a babe at my breast and I cry. Great Freya take pity on me.","我是古德倫，無夫，無父。
+名字是我僅存的一切。
+但有時醒來時，我會感覺到
+胸前有嬰兒的重量，我就會哭。
+偉大的芙蕾雅憐憫我吧。"
+lore_swamp_random11,"Fear not that the gods have abandoned you. Valheim drifts from the world tree and the Vanir cannot come in arms to this world but still they watch from afar. Keep them ever in your mind. If your faith is strong, they may send you a sign.","不用害怕諸神拋棄了你。
+英靈界是從世界樹上分離漂流的，
+雖然華納神族無法武裝進入這個世界，
+但他們仍在遠處看護著。
+將他們永遠銘記於心。
+如果信念堅定，他們可能會給你個預示。"
 lore_swamp_random12,"There is no death that does not bring new life. As worms feed on the battlefield, so did the great corpses of Odin's enemies bring new life to Valheim. Lesser creatures fed on their flesh, fattening themselves on the ancient magic that still clung to them. Their spirits trickled into the earth to renew the soil, or sought out new bodies for themselves.
 
-Do not scorn the dead, you who are are dead yourself."
+Do not scorn the dead, you who are are dead yourself.","沒有不會帶來新生的死亡。
+正如蛆蟲以戰場為食，
+奧丁敵人們的巨大屍體也給英靈界帶來了新生。
+弱小的生物們以它們的肉為食，
+靠仍附著在它們身上的古老魔法滋養自己。
+它們的靈魂滲入大地，更新了土壤，
+或為自己尋得了新的身體。
+
+不要蔑視亡者，你自己就是亡者。"
 lore_mountains_random08,"When first I awoke in Valheim, I pleaded with Odin to show himself to me. Where was he? Why had he abandoned me?
 
 For many moons I braved storms and fierce beasts in search of answers. Where were the gods? Was this to be my reward? Where was Odin?
 
 But now I know. When I pulled up the greydwarfs like weeds from a field or stamped out the surtlings like embers, I did Odin's work. And when I matched my strength against a great wyrm and smote off its head with one blow, I felt Odin's joy within me, deep and proud.
 
-We are Odin's hands, each one of us, and our worth in life is to work his will."
-lore_mountains_random09,"Upon this spot, Otho and Bjorn fought a mighty duel to decide who has the finest beard. Now I, Bjorn, must carve this stone to say that the beard of Otho is as bright and beautiful as a corn-field in summer. May almighty Thor tear my own beard from my face if I lie."
+We are Odin's hands, each one of us, and our worth in life is to work his will.","當第一次在英靈界醒來時，我祈求過奧丁現身。
+他在哪裡呢？他為什麼拋棄了我？
+
+多個月來，我不畏風暴和猛獸尋找答案。
+諸神在哪裡？這是對我的獎賞嗎？奧丁在哪裡？
+
+但現在我知道了。當我將矮灰妖像雜草般拔除，
+將火精像餘燼般踩滅時，我完成了奧丁的任務。
+而當我與巨龍較量，一擊取其首級時，
+我感到了奧丁在我內心的喜悅，深沉而驕傲。
+
+我們每個人都是奧丁的左右手，
+我們生命的價值就是為遵行他的意志。"
+lore_mountains_random09,"Upon this spot, Otho and Bjorn fought a mighty duel to decide who has the finest beard. Now I, Bjorn, must carve this stone to say that the beard of Otho is as bright and beautiful as a corn-field in summer. May almighty Thor tear my own beard from my face if I lie.","在這裡，奧托和比約恩進行了一場激鬥，
+以決定誰擁有最出色的鬍子。
+現在，我，比約恩，必須刻下這塊石碑，
+以示奧托的鬍子就像盛夏的玉米田般絢麗。
+如果我有半句謊言，
+願遭萬能的索爾取走我臉上的鬍子。"
 lore_mountains_random10,"In Midgard of old, the armies of man pushed back the drakes from the mountains just as the Vanir threw down their mother and cast her into Valheim. But here they have recovered their strength and their numbers. The beat of their mighty wings echoes among the peaks. 
 
-They are fierce and noble creatures, true foes worthy of battle. If they scorn to meet your blade, send your arrows to greet them."
-lore_mountains_random11,In these mountains I cannot throw a spear without hitting something that wants to kill me. But from the heights I have seen sunny plains where life will be easier. I go now to make my home there. These are the words of Ulf.
-lore_mountains_random12,"There are friends in Valheim but you must seek them amongst your enemies. Old friends, fire-kin, moon-singers. For centuries they have hunted alongside you, now you must remind them of the old covenant between your people and theirs. Flesh is their delight and must be your offering."
-lore_plains_random08,"From the mountaintop, this plain looked peaceful and pleasant. But I have found it worse than anywhere else. I always hear the buzzing of those thrice-damned insects. My beard has turned as white as snow. I will build a boat."
+They are fierce and noble creatures, true foes worthy of battle. If they scorn to meet your blade, send your arrows to greet them.","在昔日中土界，人類軍隊把山上的龍群擊退了，
+華納神族也打倒了龍母，把她關進了英靈界。
+但在這裡，牠們已經恢復了力量和數量。
+牠們有力的翅膀的拍打聲在山峰間迴盪著。
+
+牠們是凶猛而高貴的生物，真正值得一戰的敵人。
+如果牠們不屑迎戰你的劍，就射箭招呼牠們吧。"
+lore_mountains_random11,In these mountains I cannot throw a spear without hitting something that wants to kill me. But from the heights I have seen sunny plains where life will be easier. I go now to make my home there. These are the words of Ulf.,"在這座雪山裡，我一擲矛，
+想不擊中要殺我的東西都難。
+但我從高處看到了陽光普照的曠野，
+那裡的生活想必會更輕鬆吧。
+我現在就去那裡安家。
+以上是沃夫的話。"
+lore_mountains_random12,"There are friends in Valheim but you must seek them amongst your enemies. Old friends, fire-kin, moon-singers. For centuries they have hunted alongside you, now you must remind them of the old covenant between your people and theirs. Flesh is their delight and must be your offering.","在英靈界可以交到朋友，
+但你必須在敵人中尋找他們。
+老友、火族、狼群。
+幾個世紀以來，牠們一直與你一起狩獵，
+現在你必須讓牠們記起，
+你與牠們彼此之間的舊約了。
+肉是牠們的最愛，要以肉為供品。"
+lore_plains_random08,"From the mountaintop, this plain looked peaceful and pleasant. But I have found it worse than anywhere else. I always hear the buzzing of those thrice-damned insects. My beard has turned as white as snow. I will build a boat.","從山頂上俯瞰，這片曠野平靜宜人。
+但我發現它比其它地方都要糟糕。
+我總是會聽到那些該死的蚊蟲嗡嗡聲。
+我的鬍子已經變得像雪一樣白了。
+我要造一艘船。"
 lore_plains_random09,"What joy it is to roam abroad
 
 With the wind in your hair
@@ -2437,248 +2567,342 @@ And then, what joy it is
 
 To come home from your travels
 
-And find the fire still bright in the hearth."
+And find the fire still bright in the hearth.","遨遊天地，輕風拂髮，眼前一片藍天，
+人生樂事莫過於此。
+
+挺身對抗強敵，對世界坦率直言，
+人生樂事莫過於此。
+
+旅行歸來，發現爐火依然通明，
+人生樂事莫過於此。"
 lore_plains_random10,"On these plains, only the greatest survive to read my words and heed my advice. So heed me now.
 
 Great Odin is not a loving father, kind and gentle, speaking honeyed words. Nor is he a stern liege-lord, arms banded with gold, commanding his thralls on pain of death.
 
 He did not send you here to fight his foes for love or fear of him, but because his foes are your foes. His joy and honour are yours also. You will fight and win just as he once did.
 
-Sons and daughters of Odin, rejoice!"
+Sons and daughters of Odin, rejoice!","在這片曠野，只有最優秀的人能活下來，
+並聽到我的建言。所以現在聽好了。
+
+偉大的奧丁並不是一位慈祥的父親，和藹可親，
+說著甜言蜜語。他也不是一位嚴厲的君主，
+穿金戴銀，以處死來威震他的奴僕們。
+
+他派你來這裡與他的敵人戰鬥，並不是因為你
+愛他或怕他，而是因為他的敵人就是你的敵人。
+他的喜樂和榮耀也都是你的。
+你必會戰鬥並勝利，就像他曾經所做的。
+
+奧丁的兒女們啊，歡呼吧！"
 lore_plains_random11,"Here on the plains you will find the dwellings of the Fuling, that ancient race who once built towers and cities to rival those of men until Odin punished them for their pride. He trampled the Fuling armies, their armor cracking like snail shells beneath his feet, and tore down their cities.
 
 Only Yagluth, the great sorcerer, would not bend or break before his fury. So Odin tore his body in half and cast the remains into Valheim, where he bled into the earth and crumbled to dust, wept over by the last of his people.
 
-Now the Fuling rule over the plains of Valheim, savage and wild with only hatred and fear in their hearts. But Yagluth is with them still, an unseen force that the Fuling shamans draw upon for their crooked magic, growing again in strength as his people spread across the world..."
-lore_plains_random12,"The lox are mighty creatures, great earth-shakers who roamed the plains of Valheim long before the Forsaken were banished to this realm. They are quick to anger and will crush any who are foolish enough to approach them unguarded, but they have known the hand of man and can be taught to love it again."
-lore_plains_random13,"Know, traveler, that while you cannot die in the world of Valheim, yet you can cease to be reborn. Many are those who have come before you to work the will of Odin, only to find their own will failing..."
+Now the Fuling rule over the plains of Valheim, savage and wild with only hatred and fear in their hearts. But Yagluth is with them still, an unseen force that the Fuling shamans draw upon for their crooked magic, growing again in strength as his people spread across the world...","在這片曠野上，你會發現惡精的住所，
+這個古老種族曾經建造過媲美人類的高塔和城市，
+直到奧丁懲罰了他們的傲慢。他踏平了惡精的軍隊，
+他們的鎧甲在他腳下像蝸牛殼般碎裂，
+也摧毀了他們的城市。
+
+唯有大巫師亞古魯斯不願屈服於他的威怒。
+所以奧丁把他的身體撕成兩半，把遺骸扔進英靈界，
+在那裡，他的血滲入大地，碎骨化為塵埃，
+他最後的子民都為之流淚。
+
+如今惡精占據著英靈界的曠野，他們殘暴野蠻，
+心中只有仇恨和恐懼。但亞古魯斯仍與他們同在，
+一股被惡精薩滿用來施展邪門歪術的無形力量，
+隨著他的子民們遍布世界各地，
+又逐漸壯大起來……"
+lore_plains_random12,"The lox are mighty creatures, great earth-shakers who roamed the plains of Valheim long before the Forsaken were banished to this realm. They are quick to anger and will crush any who are foolish enough to approach them unguarded, but they have known the hand of man and can be taught to love it again.","蜥犛牛是能撼動地面的強大生物，
+早在放逐者被流放到這片土地前，
+牠們就已經在英靈界的曠野遊蕩了。
+牠們很容易發怒，會碾碎任何
+愚蠢到毫無防備接近牠們的人，
+但牠們熟悉人類的手，
+可以被馴化而重新愛上人類。"
+lore_plains_random13,"Know, traveler, that while you cannot die in the world of Valheim, yet you can cease to be reborn. Many are those who have come before you to work the will of Odin, only to find their own will failing...","要知道，旅行者，雖然你在英靈界
+不會死亡，但你可以停止重生。
+許多在你之前來的人，為遵行奧丁的意志，
+結果卻發現自己的意志逐漸消失……"
 dream_random06,"Amidst the crash of arms, on the dark and glimmering plain of sleep, a face swells snarling before you. Your shield arm hangs limp, your spear is broken. You welcome the cold blade when it comes.
 
-From a dream of death, you awaken to death itself."
+From a dream of death, you awaken to death itself.","在武器的碰撞聲中，在漆黑微亮的沉眠平原上，
+一張臉在你面前咆哮著。你持盾的手臂癱軟無力，
+你的矛也斷了。你欣然接受了冰冷的利刃。
+
+從死亡的夢中醒來，你見到了死亡本身。"
 dream_random07,"You dream you are lying on your back in a meadow, gazing upward at the clouds. Your name is nothing, your mind is free of thought. But there is a warm hand in yours.
 
-In the dream, you are laughing. But when you awaken, you find your face damp with tears."
-dream_random08,"On a boat carved from dark wood, beneath ragged sails, you lie with your arms folded across your chest. Blurred faces, like thumbprints on the darkness, croon familiar songs as they push you out to float on a sea as black and flat as glass."
-dream_random09,"You lie on the battlefield, dreaming eyes turned upward to a sky veiled by smoke. The calls of your warriors grow fainter and your eyes close for a second time. Great talons slide beneath you and you feel yourself rising, lifted from your body like a babe from its crib…"
-dream_random10,You fall into the deep well of sleep and dream only of darkness.
+In the dream, you are laughing. But when you awaken, you find your face damp with tears.","你夢見自己躺在草原上，仰望著雲彩。
+你的名字沒有意義，你的頭腦沒有思想。
+但你手中握著一隻溫暖的手。
+
+在夢中，你歡笑著。
+你醒來時，卻發現自己淚流滿面。"
+dream_random08,"On a boat carved from dark wood, beneath ragged sails, you lie with your arms folded across your chest. Blurred faces, like thumbprints on the darkness, croon familiar songs as they push you out to float on a sea as black and flat as glass.","在一艘用深色木頭雕成的船上，
+你雙手交叉在胸前，躺在破舊的船帆下。
+一張張模糊的臉，像在黑暗中的指紋，
+一邊哼著熟悉的歌曲，
+一邊把你推到漆黑如鏡的海面上。"
+dream_random09,"You lie on the battlefield, dreaming eyes turned upward to a sky veiled by smoke. The calls of your warriors grow fainter and your eyes close for a second time. Great talons slide beneath you and you feel yourself rising, lifted from your body like a babe from its crib…","你躺在戰場上，夢中的雙眼仰望著煙硝瀰漫的天空。
+戰友們的呼喊變得越來越微弱，你的雙眼再次闔上了。
+巨大的禽爪滑到你的身下，你感到自己不斷地上升，
+從身體裡被拎起，仿佛嬰兒從搖籃裡被抱起……"
+dream_random10,You fall into the deep well of sleep and dream only of darkness.,"你陷入深沉的睡眠，只夢見一片黑暗。"
 dream_random11,"You dream of a bright hall filled with gracious warriors and fair maidens. The air hums with song, the boards groan under the weight of steaming dishes, the mead flows like water.
 
-You awake slowly with the laughter still ringing in your ears…"
-dream_random12,"You sleep in fits and fretful dreams, the weight of the nightmare heavy on your chest. When morning comes, you greet it with relief."
-dream_random13,Sleep is a river and dreams are live fish. You wake in the morning with your net empty.
+You awake slowly with the laughter still ringing in your ears…","你夢見一座明亮的大殿，裡面擠滿了高尚的戰士
+和美麗的少女。空氣中瀰漫著歌聲，桌板被熱騰騰
+的菜餚壓得嘎吱作響，蜂蜜酒如水般流淌。
+
+你悠悠醒來時，耳邊還迴盪著笑聲……"
+dream_random12,"You sleep in fits and fretful dreams, the weight of the nightmare heavy on your chest. When morning comes, you greet it with relief.","你輾轉難眠，噩夢沉重地壓在你的胸口。
+當清晨來臨時，你如釋重負地迎接。"
+dream_random13,Sleep is a river and dreams are live fish. You wake in the morning with your net empty.,"睡眠是一條河，而夢是鮮活的魚。
+你清晨醒來時，你的漁網空空如也。"
 dream_random14,"You dream you are hunting with your companions, running high over green hills and down through mist-haunted valleys. Ahead of you, your prey stumbles and you leap forward, sinking your teeth into warm flesh.
 
-When you wake, the taste of metal lingers in your mouth."
-dream_random15,"You dream you are walking in a snowy wood when you come upon a naked child, sitting against a tree with his eyes closed but his chest moving to breathe. As you kneel beside him, you know he has been sleeping here for many centuries, waiting for you. When you touch his shoulder, you both awaken."
-dream_random16,"You dream of a mighty bear, sleeping deep below the earth in the winter of the world. It turns in its sleep, folds upon folds of flesh and fur. It has no head, no limbs. A vast mass of bear flesh, mercifully quiet."
-dream_random17,"You fall asleep planning your next day's labor and in your dreams you complete it, hewing wood, foraging for food and hunting after swift deer. You return home exhausted but happy, only to awaken and find the day is still ahead of you..."
-enemy_blobtar,Growth
-item_tar,Tar
-item_tar_description,A sticky lump of tar
-piece_crystalwall1x1,Crystal wall 1x1
-piece_bathtub,Hot tub
-piece_darkwoodbeam,Darkwood beam 2m
-piece_darkwoodbeam4,Darkwood beam 4m
-piece_darkwoodpole,Darkwood pole 2m
-piece_darkwoodpole4,Darkwood pole 4m
-piece_darkwoodraven,Raven adornment
-piece_darkwoodwolf,Wolf adornment
-piece_darkwoodroof26,Shingle roof 26°
-piece_darkwoodroof45,Shingle roof 45°
-piece_darkwoodrooficorner,Shingle roof i-corner 26°
-piece_darkwoodrooficorner45,Shingle roof i-corner 45°
-piece_darkwoodroofocorner,Shingle roof o-corner 26°
-piece_darkwoodroofocorner45,Shingle roof o-corner 45°
-piece_darkwoodrooftop,Shingle roof ridge 26°
-piece_darkwoodrooftop45,Shingle roof ridge 45°
-piece_darkwoodarch,Darkwood arch
-piece_chestblackmetal,Black metal chest
-piece_cookingstation_iron,Iron cooking station
-piece_cauldron_ext1_spice,Spice rack
-piece_cauldron_ext3_butchertable,Butcher's table
-piece_cauldron_ext4_pans,Pots and pans
-piece_oven,Stone oven
-piece_oven_additem,Bake item
-piece_woodwallroof_upsidedown,Wood wall 26° (inverted)
-piece_woodwallroof45_upsidedown,Wood wall 45° (inverted)
-piece_woodwindowshutter,Wood shutter
-piece_woodwallquarter,Wood wall 1x1
-piece_woodfinestack,Fine wood stack
-piece_woodcorestack,Core wood stack
-piece_treasure_pile,Coin pile
-piece_treasure_stack,Coin stack
-piece_chesttreasure,Treasure chest
-piece_darkwooddecowall,Carved Darkwood divider
-piece_woodlog26,Log beam 26°
-piece_woodlog45,Log beam 45°
-piece_ironfloor,Cage floor 2x2
-piece_ironwall,Cage wall 2x2
-item_boar_meat,Boar meat
-item_boar_meat_description,
-item_boar_meat_cooked,Cooked boar meat
-item_boar_meat_cooked_description,An earthly taste.
-item_wolf_meat,Wolf meat
-item_wolf_meat_description,
-item_wolf_meat_cooked,Cooked wolf meat
-item_wolf_meat_cooked_description,A wild taste.
-item_deer_meat,Deer meat
-item_deer_meat_description,
-item_deer_meat_cooked,Cooked deer meat
-item_deer_meat_cooked_description,All that running paid off.
-item_boarjerky,Boar jerky
-item_boarjerky_description,Lean and salty.
-item_blacksoup,Black soup
-item_blacksoup_description,A perfect balance of sweetness and acidity.
-item_eyescream,Eyescream
-item_eyescream_description,Crispy cool and creamy.
-item_shocklatesmoothie,Muckshake
-item_shocklatesmoothie_description,Wakes you up!
-item_deerstew,Deer stew
-item_deerstew_description,Fall-apart tender.
-item_onionsoup,Onion soup
-item_onionsoup_description,Deliciously rich.
-item_wolfjerky,Wolf jerky
-item_wolfjerky_description,Chewy and full of flavor.
-item_wolf_skewer,Wolf skewer
-item_wolf_skewer_description,Dripping with taste.
-item_mincemeatsauce,Minced Meat Sauce
-item_mincemeatsauce_description,Chunks of goodness in a thick gravy.
-item_onion,Onion
-item_onion_description,A crunchy and spicy taste.
-item_onionseeds,Onion seeds
-item_onionseeds_description,Plant to grow a healthy onion.
-piece_sapling_onion,Onion
-piece_sapling_seedonion,Seed-onion
-piece_benchlog,Sitting log
-msg_consumed,Consumed
-item_breaddough,Bread dough
-item_breaddough_description,Ready for the oven.
-item_loxpie_uncooked,Unbaked lox pie
-item_loxpie_uncooked_description,Ready for the oven.
-hud_itemstucktar,It is stuck in the tar
-hud_rename,Rename
-item_knife_butcher,Butcher knife
-item_knife_butcher_description,A butcher's knife designed specifically for slaughtering tamed animals.
-item_tamedonly,Can only hurt tamed creatures.
-item_blockarmor,Block armor
-item_blockforce,Block force
-se_tared_name,Tarred
-se_tared_tooltip,The sticky tar is slowing you down
-se_tared_start,You are covered in sticky tar
-item_staminause,Use stamina
-item_staminahold,Draw stamina
-item_current,Current
-animal_fish1,Perch
-animal_fish2,Pike
-animal_fish3,Tuna
-item_turnipseeds_description,Plant to grow a healthy turnip.
-piece_sapling_seedonion_description,Plant onion seeds to get even more seeds.
-enemy_loxcalf,Lox calf
-item_pukeberries,Bukeperries
-item_pukeberries_description,Allows the consumer to quickly evacuate any misplaced meal and start anew.
-se_puke_name,Feeling sick
-se_puke_tooltip,You don't feel so well and can't hold your food down.
-se_puke_start,You feel sick
-item_knife_silver,Silver knife
-item_knife_silver_description,A savage piece of pain.
-item_battleaxe_crystal,Crystal battleaxe
-item_battleaxe_crystal_description,It's see-through and tears through.
-item_shield_ironbuckler,Iron buckler
-item_shield_ironbuckler_description,Its lightness and curved center makes it excellent for deflecting attacks.
-item_shield_bonetower,Bone tower shield
-item_shield_bonetower_description,The bones of dead warriors makes for good protection.
-piece_groundtorchblue,Standing blue-burning iron torch
-piece_cartographytable,Cartography table
-piece_table_oak,Long heavy table
-piece_table_round,Round table
-msg_mapsaved,You record your discoveries to the table
-msg_mapsynced,You copy some discoveries from the table
-msg_alreadysynced,There is nothing new to copy
-msg_mapnodata,The table is empty
-piece_readmap,Read map
-piece_writemap,Record discoveries
-piece_ironwallSmall,Cage wall 1x1
-piece_ironfloorSmall,Cage floor 1x1
-piece_incinerator,Obliterator
-piece_pulllever,Pull lever
-piece_incinerator_conversion,Thor bestows a gift upon you!
-piece_incinerator_success,Items obliterated!
-piece_incinerator_fail,Obliterator is in use
-piece_incinerator_empty,Thor frowns upon you
-tutorial_shield_label,Hugin: Shield
-tutorial_shield_topic,You have crafted a Shield
+When you wake, the taste of metal lingers in your mouth.","你夢見自己和伙伴們一起狩獵，翻過青蔥的山丘，
+穿過稠霧的溪谷。在你面前，你的獵物被絆倒了，
+你縱身一躍，一口咬住了溫暖的肉。
+
+你醒來時，嘴裡還殘留著金屬的味道。"
+dream_random15,"You dream you are walking in a snowy wood when you come upon a naked child, sitting against a tree with his eyes closed but his chest moving to breathe. As you kneel beside him, you know he has been sleeping here for many centuries, waiting for you. When you touch his shoulder, you both awaken.","你夢見自己走在雪白的樹林裡，遇到了一個赤裸的孩子，
+他閉著眼，坐靠在樹旁，但他的胸口還在起伏呼吸著。
+當你一跪在他身邊，就發現他已經在此沉睡了幾個世紀，
+一直等著你到來。當你觸碰他的肩膀時，你們都醒了。"
+dream_random16,"You dream of a mighty bear, sleeping deep below the earth in the winter of the world. It turns in its sleep, folds upon folds of flesh and fur. It has no head, no limbs. A vast mass of bear flesh, mercifully quiet.","你夢見一隻強大的熊，沉眠在世界之冬的地底深處。
+牠在睡夢中翻來覆去，皮肉都皺在了一起。
+牠沒有頭，沒有四肢。一大團熊肉，仁慈地沉默著。"
+dream_random17,"You fall asleep planning your next day's labor and in your dreams you complete it, hewing wood, foraging for food and hunting after swift deer. You return home exhausted but happy, only to awaken and find the day is still ahead of you...","在計劃明天的工作時，你睡著了，
+在夢中，你完成了工作：砍柴、覓食、獵鹿。
+你精疲力盡但又快樂地回家，
+卻醒來發現這一天才正要開始……"
+enemy_blobtar,Growth,焦油怪
+item_tar,Tar,焦油
+item_tar_description,A sticky lump of tar,一坨黏稠的焦油。
+piece_crystalwall1x1,Crystal wall 1x1,水晶牆1x1
+piece_bathtub,Hot tub,澡盆
+piece_darkwoodbeam,Darkwood beam 2m,深木梁2m
+piece_darkwoodbeam4,Darkwood beam 4m,深木梁4m
+piece_darkwoodpole,Darkwood pole 2m,深木柱2m
+piece_darkwoodpole4,Darkwood pole 4m,深木柱4m
+piece_darkwoodraven,Raven adornment,渡鴉裝飾
+piece_darkwoodwolf,Wolf adornment,狼頭裝飾
+piece_darkwoodroof26,Shingle roof 26°,木瓦屋頂26°
+piece_darkwoodroof45,Shingle roof 45°,木瓦屋頂45°
+piece_darkwoodrooficorner,Shingle roof i-corner 26°,木瓦內角屋脊26°
+piece_darkwoodrooficorner45,Shingle roof i-corner 45°,木瓦內角屋脊45°
+piece_darkwoodroofocorner,Shingle roof o-corner 26°,木瓦外角屋脊26°
+piece_darkwoodroofocorner45,Shingle roof o-corner 45°,木瓦外角屋脊45°
+piece_darkwoodrooftop,Shingle roof ridge 26°,木瓦屋脊26°
+piece_darkwoodrooftop45,Shingle roof ridge 45°,木瓦屋脊45°
+piece_darkwoodarch,Darkwood arch,深木拱
+piece_chestblackmetal,Black metal chest,黑鋼箱子
+piece_cookingstation_iron,Iron cooking station,鐵製烹飪架
+piece_cauldron_ext1_spice,Spice rack,香料架
+piece_cauldron_ext3_butchertable,Butcher's table,屠宰檯
+piece_cauldron_ext4_pans,Pots and pans,鍋碗瓢盆
+piece_oven,Stone oven,石窯烤爐
+piece_oven_additem,Bake item,烘焙食材
+piece_woodwallroof_upsidedown,Wood wall 26° (inverted),木牆26°（倒置）
+piece_woodwallroof45_upsidedown,Wood wall 45° (inverted),木牆45°（倒置）
+piece_woodwindowshutter,Wood shutter,木窗板
+piece_woodwallquarter,Wood wall 1x1,木牆1x1
+piece_woodfinestack,Fine wood stack,優質木垛
+piece_woodcorestack,Core wood stack,樹芯木垛
+piece_treasure_pile,Coin pile,錢幣堆
+piece_treasure_stack,Coin stack,錢幣垛
+piece_chesttreasure,Treasure chest,寶藏箱
+piece_darkwooddecowall,Carved Darkwood divider,雕紋深木隔板
+piece_woodlog26,Log beam 26°,原木梁26°
+piece_woodlog45,Log beam 45°,原木梁45°
+piece_ironfloor,Cage floor 2x2,鐵籠地板2x2
+piece_ironwall,Cage wall 2x2,鐵籠柵欄2x2
+item_boar_meat,Boar meat,野豬肉
+item_boar_meat_description,,
+item_boar_meat_cooked,Cooked boar meat,熟野豬肉
+item_boar_meat_cooked_description,An earthly taste.,人間美味。
+item_wolf_meat,Wolf meat,狼肉
+item_wolf_meat_description,,
+item_wolf_meat_cooked,Cooked wolf meat,熟狼肉
+item_wolf_meat_cooked_description,A wild taste.,山珍野味。
+item_deer_meat,Deer meat,鹿肉
+item_deer_meat_description,,
+item_deer_meat_cooked,Cooked deer meat,熟鹿肉
+item_deer_meat_cooked_description,All that running paid off.,所有的追逐都值得了。
+item_boarjerky,Boar jerky,野豬肉乾
+item_boarjerky_description,Lean and salty.,瘦而味鹹。
+item_blacksoup,Black soup,黑血湯
+item_blacksoup_description,A perfect balance of sweetness and acidity.,酸酸甜甜的完美融合。
+item_eyescream,Eyescream,眼淇淋
+item_eyescream_description,Crispy cool and creamy.,冰涼爽口，奶香四溢。
+item_shocklatesmoothie,Muckshake,沼泥奶昔
+item_shocklatesmoothie_description,Wakes you up!,能讓你瞬間清醒！
+item_deerstew,Deer stew,燉鹿肉
+item_deerstew_description,Fall-apart tender.,軟嫩入口即化。
+item_onionsoup,Onion soup,洋蔥湯
+item_onionsoup_description,Deliciously rich.,芳香濃郁。
+item_wolfjerky,Wolf jerky,狼肉乾
+item_wolfjerky_description,Chewy and full of flavor.,風味十足，有嚼勁。
+item_wolf_skewer,Wolf skewer,狼肉串
+item_wolf_skewer_description,Dripping with taste.,美味欲滴。
+item_mincemeatsauce,Minced Meat Sauce,肉醬
+item_mincemeatsauce_description,Chunks of goodness in a thick gravy.,裹著濃厚肉汁的美味肉塊。
+item_onion,Onion,洋蔥
+item_onion_description,A crunchy and spicy taste.,爽脆嗆辣。
+item_onionseeds,Onion seeds,洋蔥種子
+item_onionseeds_description,Plant to grow a healthy onion.,種下這個就能長出健康的洋蔥。
+piece_sapling_onion,Onion,洋蔥
+piece_sapling_seedonion,Seed-onion,洋蔥種子
+piece_benchlog,Sitting log,原木長椅
+msg_consumed,Consumed,已耗盡
+item_breaddough,Bread dough,麵包麵團
+item_breaddough_description,Ready for the oven.,可以入爐烘焙了。
+item_loxpie_uncooked,Unbaked lox pie,未烘焙的蜥犛牛肉派
+item_loxpie_uncooked_description,Ready for the oven.,可以入爐烘焙了。
+hud_itemstucktar,It is stuck in the tar,陷在焦油裡
+hud_rename,Rename,重新命名
+item_knife_butcher,Butcher knife,屠刀
+item_knife_butcher_description,A butcher's knife designed specifically for slaughtering tamed animals.,專為宰殺馴養的動物而設計的屠刀。
+item_tamedonly,Can only hurt tamed creatures.,只能傷害馴養的生物。
+item_blockarmor,Block armor,格擋防禦力
+item_blockforce,Block force,格擋擊退力
+se_tared_name,Tarred,焦油
+se_tared_tooltip,The sticky tar is slowing you down,黏稠的焦油使你的速度減慢。
+se_tared_start,You are covered in sticky tar,你身上沾滿了黏稠的焦油
+item_staminause,Use stamina,耐力消耗
+item_staminahold,Draw stamina,耐力消耗
+item_current,Current,目前
+animal_fish1,Perch,鱸魚
+animal_fish2,Pike,梭魚
+animal_fish3,Tuna,鮪魚
+item_turnipseeds_description,Plant to grow a healthy turnip.,種下這個就能長出健康的蕪菁。
+piece_sapling_seedonion_description,Plant onion seeds to get even more seeds.,種植洋蔥就能獲得更多種子。
+enemy_loxcalf,Lox calf,蜥犛牛犢
+item_pukeberries,Bukeperries,吐莓
+item_pukeberries_description,Allows the consumer to quickly evacuate any misplaced meal and start anew.,能讓你快速排空吃錯的食物並重新進食。
+se_puke_name,Feeling sick,反胃
+se_puke_tooltip,You don't feel so well and can't hold your food down.,你感到不太舒服，吃什麼吐什麼。
+se_puke_start,You feel sick,你感到反胃
+item_knife_silver,Silver knife,銀短刀
+item_knife_silver_description,A savage piece of pain.,犀利的痛苦之作。
+item_battleaxe_crystal,Crystal battleaxe,水晶戰斧
+item_battleaxe_crystal_description,It's see-through and tears through.,晶瑩剔透，剔骨如泥。
+item_shield_ironbuckler,Iron buckler,鐵圓盾
+item_shield_ironbuckler_description,Its lightness and curved center makes it excellent for deflecting attacks.,其輕盈和凸起的中心能很好地擋開攻擊。
+item_shield_bonetower,Bone tower shield,骸骨塔盾
+item_shield_bonetower_description,The bones of dead warriors makes for good protection.,陣亡戰士的骸骨可以提供很好的保護。
+piece_groundtorchblue,Standing blue-burning iron torch,立式藍光鐵製火炬
+piece_cartographytable,Cartography table,製圖檯
+piece_table_oak,Long heavy table,重型長桌
+piece_table_round,Round table,圓桌
+msg_mapsaved,You record your discoveries to the table,你在製圖檯上記錄了你的發現
+msg_mapsynced,You copy some discoveries from the table,你從製圖檯上抄錄了一些發現
+msg_alreadysynced,There is nothing new to copy,沒有任何可抄錄的新發現
+msg_mapnodata,The table is empty,製圖檯上什麼也沒記錄
+piece_readmap,Read map,查閱地圖
+piece_writemap,Record discoveries,記錄發現
+piece_ironwallSmall,Cage wall 1x1,鐵籠柵欄1x1
+piece_ironfloorSmall,Cage floor 1x1,鐵籠地板1x1
+piece_incinerator,Obliterator,銷毀爐
+piece_pulllever,Pull lever,扳動操縱桿
+piece_incinerator_conversion,Thor bestows a gift upon you!,索爾賜予你一份禮物！
+piece_incinerator_success,Items obliterated!,物品已全部銷毀！
+piece_incinerator_fail,Obliterator is in use,銷毀爐正在使用中
+piece_incinerator_empty,Thor frowns upon you,索爾對你面露不悅
+tutorial_shield_label,Hugin: Shield,胡金：盾
+tutorial_shield_topic,You have crafted a Shield,你製作了盾
 tutorial_shield_text,"A shield allows you to block incoming damage. 
 If your timing is perfect, the enemy may also be <color=yellow>parried</color>. 
 Be careful though, if you block too many hits you will be become <color=yellow>staggered</color>. The amount of damage you can block before becoming staggered depends on your maximum Health, so if you plan on tanking a lot of damage you should eat food that increases your Health.
-Heavier shields will block more damage but will also slow you down."
-prop_birch_sapling,Birch Sapling
-item_birchseeds,Birch seeds
-item_birchseeds_description,Plant them to grow a birch tree.
-prop_oak_sapling,Oak Sapling
-item_oakseeds,Acorns
-item_oakseeds_description,Plant them to grow an oak tree.
-skill_ride,Riding
-skill_ride_description,Animal speed and stamina drain.
-item_saddlelox,Lox saddle
-item_saddlelox_description,Use on a Lox to be able to ride it.
-hud_saddle_already,already has a saddle
-tutorial_maptable_topic,Record your exploration
-tutorial_maptable_label,Hugin: Cartography table
-tutorial_maptable_text,With this table you can record and share your explorations of the 10th World. Use the toolbox to record your progress and take a look at this large map to copy what others have explored.
-settings_pointlights,Active Point Lights
-settings_pointlightshadows,Active Point Light Shadows
-hud_saddle_ready,is ready for a ride
-settings_infinite,Inf.
-hud_saddle_remove,Remove saddle
-hud_mapday,Day
-hud_sharedmap,Cartography Table
-hud_ping,Ping
-settings_joysens,Gamepad Sensitivity
-settings_autopickup,Toggle Auto-Pickup
-hud_autopickup,Auto-Pickup
-hud_on,On
-hud_off,Off
-loadscreen_tip24,You can filter map pins by type by right clicking on them. (DPad Right)
-tutorial_bathtub_text,"Jump in, the water's nice and warm!"
+Heavier shields will block more damage but will also slow you down.","盾能讓你格擋襲來的傷害。如果時機得當，敵人還會被<color=yellow>招架</color>。
+但要小心，如果格擋太多次攻擊的話，你就會變得<color=yellow>踉蹌</color>。
+在變得踉蹌之前，你可以格擋多少傷害是取決於你的最大生命的，
+所以你打算承受大量傷害的話，就應該吃些能提高生命的食物。
+較重的盾能格擋更多傷害，但也會使你的速度減慢。"
+prop_birch_sapling,Birch Sapling,樺樹苗
+item_birchseeds,Birch seeds,樺樹種子
+item_birchseeds_description,Plant them to grow a birch tree.,種下這個就能長出樺樹。
+prop_oak_sapling,Oak Sapling,橡樹苗
+item_oakseeds,Acorns,橡果
+item_oakseeds_description,Plant them to grow an oak tree.,種下這個就能長出橡樹。
+skill_ride,Riding,騎乘
+skill_ride_description,Animal speed and stamina drain.,動物的速度和耐力消耗。
+item_saddlelox,Lox saddle,蜥犛牛鞍
+item_saddlelox_description,Use on a Lox to be able to ride it.,用在蜥犛牛身上就能騎乘了。
+hud_saddle_already,already has a saddle,已經有鞍了
+tutorial_maptable_topic,Record your exploration,記錄你的探索與發現
+tutorial_maptable_label,Hugin: Cartography table,胡金：製圖檯
+tutorial_maptable_text,With this table you can record and share your explorations of the 10th World. Use the toolbox to record your progress and take a look at this large map to copy what others have explored.,"有了這張製圖檯，就可以記錄和分享你對第十世界的探索。
+使用工具箱來記錄你的發現，
+並查看大地圖來抄錄其他人的探索成果吧。"
+settings_pointlights,Active Point Lights,主動式點光源
+settings_pointlightshadows,Active Point Light Shadows,主動式點光源陰影
+hud_saddle_ready,is ready for a ride,可以騎乘了
+settings_infinite,Inf.,無限
+hud_saddle_remove,Remove saddle,卸下鞍
+hud_mapday,Day,天數
+hud_sharedmap,Cartography Table,製圖檯
+hud_ping,Ping,定位指示
+settings_joysens,Gamepad Sensitivity,手把靈敏度
+settings_autopickup,Toggle Auto-Pickup,切換自動拾取
+hud_autopickup,Auto-Pickup,自動拾取
+hud_on,On,開啟
+hud_off,Off,關閉
+loadscreen_tip24,You can filter map pins by type by right clicking on them. (DPad Right),你可以透過滑鼠右鍵（十字鈕右）點擊標記類型來過濾地圖標記。
+tutorial_bathtub_text,"Jump in, the water's nice and warm!",快來泡吧，這水舒服又溫暖喔！
 tutorial_hunger2_text,"Consuming food is of <color=yellow>utmost importance</color> to a viking warrior, even in the afterlife.
 
 Food can be found everywhere in the world, and a great deal of it can be prepared at a <color=yellow>Cooking station</color>.
 
-There are three types of food; One increases Health, one fortifies Stamina, and then there's also a combination of both. Choose your diet based on your needs!"
+There are three types of food; One increases Health, one fortifies Stamina, and then there's also a combination of both. Choose your diet based on your needs!","進食對維京戰士來說是<color=yellow>最重要的</color>，即使在死後也是。
+
+世界各地都有食物，而且大多可以用<color=yellow>烹飪架</color>料理。
+
+食物有分為三種：一種能提高生命，一種能增強耐力，
+還有一種是兩者的混合。請根據你的需要選擇飲食吧！"
 tutorial_food2_text,"You have found a snack, consume it to stave off hunger. Some food types are better for your Health and indirectly how much damage you can block before becoming staggered, and others will fortify your Stamina. Then there are also some that is all-around beneficial!
 
-Be aware that before long you will grow hungry again, so try to always have at least a couple of different meals ready."
-piece_darkwoodchair,Darkwood chair
-piece_stonethrone,Stone throne
-piece_coalpile,Coal pile
-piece_tarpile,Tar barrel
-msg_cookingstationtooweak,This cooking station is too weak for
-piece_banner06,"Blue, red and white banner"
-piece_banner07,White and blue striped banner
-ammo_arrows,arrows
-piece_darkwoodgate,Darkwood gate
-item_trophy_growth,Growth trophy
-item_trophy_growth_description,A black and sticky mess.
-item_thunderstone,Thunder stone
-item_thunderstone_description,It is crackling with energy.
-settings_cameratilt,Immersive camera
-item_trophy_growth_lore,A black and sticky mess.
-loadscreen_tip25,"If no arrow has been manually selected when using a bow, arrows are automatically selected in ascending order beginning from the leftmost column and going right."
-msg_harpoon_targettoofar,Target too far
-msg_harpoon_harpooned,harpooned
-msg_harpoon_linebroke,Line broke
-msg_harpoon_escaped,escaped
-msg_harpoon_released,released
-msg_ship_ladder,Ladder
-msg_cart_use,Use
-msg_cart_incorrectposition,Not in the right position
-msg_cart_storage,Storage
-enemy_skeletonspawner,Evil bone pile
-enemy_greydwarfspawner,Greydwarf nest
-enemy_draugrspawner,Body pile
-menu_changelog,Changelog
-menu_filter,Filter
-menu_passwordfieldempty,Empty
-menu_craft_tab,CRAFT
-menu_upgrade_tab,UPGRADE
-piece_ship_ladder,Ladder
+Be aware that before long you will grow hungry again, so try to always have at least a couple of different meals ready.","你找到了少量食物，吃下它來充充飢吧。
+有些類型的食物是提高生命，間接影響你在變得踉蹌之前
+可以格擋多少傷害，而其它的則是增強耐力。
+此外，還有一些是全面兼顧的！
+
+請注意，不久後你又會逐漸飢餓，
+所以請盡量攜帶至少兩三種不同的食物。"
+piece_darkwoodchair,Darkwood chair,深木椅
+piece_stonethrone,Stone throne,石王座
+piece_coalpile,Coal pile,黑炭堆
+piece_tarpile,Tar barrel,焦油桶
+msg_cookingstationtooweak,This cooking station is too weak for,此烹飪架不夠堅固，無法料理
+piece_banner06,"Blue, red and white banner",藍紅白條紋旗幟
+piece_banner07,White and blue striped banner,白藍條紋旗幟
+ammo_arrows,arrows,箭
+piece_darkwoodgate,Darkwood gate,深木大門
+item_trophy_growth,Growth trophy,焦油怪戰利品
+item_trophy_growth_description,A black and sticky mess.,一團黑黑的黏稠物。
+item_thunderstone,Thunder stone,雷霆石
+item_thunderstone_description,It is crackling with energy.,它不斷地傾瀉著能量。
+settings_cameratilt,Immersive camera,擬真鏡頭
+item_trophy_growth_lore,A black and sticky mess.,一團黑黑的黏稠物。
+loadscreen_tip25,"If no arrow has been manually selected when using a bow, arrows are automatically selected in ascending order beginning from the leftmost column and going right.",如果在使用弓時沒有手動選擇箭矢，則會自動從最左側欄位開始，由上到下，向右依序選擇。
+msg_harpoon_targettoofar,Target too far,目標太遠
+msg_harpoon_harpooned,harpooned,被魚叉刺中了
+msg_harpoon_linebroke,Line broke,線斷了
+msg_harpoon_escaped,escaped,逃脫了
+msg_harpoon_released,released,被釋放了
+msg_ship_ladder,Ladder,舷梯
+msg_cart_use,Use,使用
+msg_cart_incorrectposition,Not in the right position,位置不正確
+msg_cart_storage,Storage,儲藏庫
+enemy_skeletonspawner,Evil bone pile,邪惡骨堆
+enemy_greydwarfspawner,Greydwarf nest,矮灰妖巢穴
+enemy_draugrspawner,Body pile,屍堆
+menu_changelog,Changelog,更新紀錄
+menu_filter,Filter,過濾
+menu_passwordfieldempty,Empty,無
+menu_craft_tab,CRAFT,製作
+menu_upgrade_tab,UPGRADE,升級
+piece_ship_ladder,Ladder,舷梯

@@ -1,15 +1,16 @@
-﻿Context,English
-enemy_abomination,Abomination
-item_root,Root
-item_root_description,An old root from an ancient tree stump. It feels both flexible and durable at the same time.
-item_chest_root,Root harnesk
-item_chest_root_description,A light armor oddly woven together by ancient roots and bark.
-item_legs_root,Root leggings
-item_legs_root_description,A light armor oddly woven together by ancient roots and bark.
-item_helmet_root,Root mask
-item_helmet_root_description,Your head fits perfectly inside this knot of roots and bark.
-se_rootseteffect_name,Root armor
-se_rootseteffect_tooltip,The ancient roots help you focus your bow skill. 
-item_trophy_abomination,Abomination trophy
-item_trophy_abomination_description,It's been dead so long that it started living again.
-item_trophy_abomination_lore,It's been dead so long that it started living again.
+﻿Context,English,Traditional_Chinese
+enemy_abomination,Abomination,憎惡體
+item_root,Root,樹根
+item_root_description,An old root from an ancient tree stump. It feels both flexible and durable at the same time.,古樹墩的老樹根。感覺既柔韌又耐用。
+item_chest_root,Root harnesk,樹根胸甲
+item_chest_root_description,A light armor oddly woven together by ancient roots and bark.,用古老的樹根和樹皮奇特地編織在一起的輕甲。
+item_legs_root,Root leggings,樹根護脛
+item_legs_root_description,A light armor oddly woven together by ancient roots and bark.,用古老的樹根和樹皮奇特地編織在一起的輕甲。
+item_helmet_root,Root mask,樹根面罩
+item_helmet_root_description,Your head fits perfectly inside this knot of roots and bark.,這樹根和樹皮構成的結，與你的頭型完美契合。
+se_rootseteffect_name,Root armor,樹根護甲
+se_rootseteffect_tooltip,The ancient roots help you focus your bow skill.,古老的樹根有助於你專注弓的技能。
+item_trophy_abomination,Abomination trophy,憎惡體戰利品
+item_trophy_abomination_description,It's been dead so long that it started living again.,它已經死去很久了，如今又活了起來。
+item_trophy_abomination_lore,It's been dead so long that it started living again.,"它已經死去很久了，
+如今又活了起來。"
