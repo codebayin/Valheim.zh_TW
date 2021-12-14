@@ -2906,3 +2906,26 @@ menu_passwordfieldempty,Empty,無
 menu_craft_tab,CRAFT,製作
 menu_upgrade_tab,UPGRADE,升級
 piece_ship_ladder,Ladder,舷梯
+enemy_abomination,Abomination,憎惡體
+item_root,Root,樹根
+item_root_description,An old root from an ancient tree stump. It feels both flexible and durable at the same time.,古樹墩的老樹根。感覺既柔韌又耐用。
+item_chest_root,Root harnesk,樹根胸甲
+item_chest_root_description,A light armor oddly woven together by ancient roots and bark.,用古老的樹根和樹皮奇特地編織在一起的輕甲。
+item_legs_root,Root leggings,樹根護脛
+item_legs_root_description,A light armor oddly woven together by ancient roots and bark.,用古老的樹根和樹皮奇特地編織在一起的輕甲。
+item_helmet_root,Root mask,樹根面罩
+item_helmet_root_description,Your head fits perfectly inside this knot of roots and bark.,這樹根和樹皮構成的結，與你的頭型完美契合。
+se_rootseteffect_name,Root armor,樹根護甲
+se_rootseteffect_tooltip,The ancient roots help you focus your bow skill.,古老的樹根有助於你專注弓的技能。
+item_trophy_abomination,Abomination trophy,憎惡體戰利品
+item_trophy_abomination_description,It's been dead so long that it started living again.,它已經死去很久了，如今又活了起來。
+item_trophy_abomination_lore,It's been dead so long that it started living again.,"它已經死去很久了，
+如今又活了起來。"
+piece_armorstand,Armor stand,鎧甲架
+piece_armorstand_cantattach,That item doesn't fit there,不適合安放此物品
+piece_horizontal,Horizontal,水平式
+piece_vertical,Vertical,垂直式
+piece_yuletree,Yule tree,耶魯樹
+piece_yuleklapp,Yuleklapp,耶魯節禮物
+piece_maypole,Maypole,仲夏柱
+piece_jackoturnip,Jack-o-turnip,傑克蕪菁燈
