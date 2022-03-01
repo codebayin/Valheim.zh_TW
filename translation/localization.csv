@@ -35,6 +35,7 @@ language_croatian,Croatian*,
 language_georgian,ქართული*,
 language_serbian,Serbian*,
 language_hindi,हिन्दी*,
+language_latvian,Latviski,
 menu_startgame,Start Game,開始遊戲
 menu_joingame,Join Game,加入遊戲
 menu_settings,Settings,設定
@@ -396,7 +397,7 @@ biome_mountain,Mountain,雪山
 biome_blackforest,Black forest,黑森林
 biome_heath,Heath,荒原
 biome_plains,Plains,曠野
-biome_ashland,Ashlands,灰燼之地
+biome_ashlands,Ashlands,灰燼之地
 biome_deepnorth,Deep North,北方深境
 biome_edge,Edge of the World,世界盡頭
 biome_ocean,Ocean,海洋
@@ -2915,7 +2916,7 @@ item_legs_root,Root leggings,樹根護脛
 item_legs_root_description,A light armor oddly woven together by ancient roots and bark.,用古老的樹根和樹皮奇特地編織在一起的輕甲。
 item_helmet_root,Root mask,樹根面罩
 item_helmet_root_description,Your head fits perfectly inside this knot of roots and bark.,這樹根和樹皮構成的結，與你的頭型完美契合。
-se_rootseteffect_name,Root armor,樹根護甲
+se_rootseteffect_name,Root armor,弓術專精
 se_rootseteffect_tooltip,The ancient roots help you focus your bow skill.,古老的樹根有助於你專注弓的技能。
 item_trophy_abomination,Abomination trophy,憎惡體戰利品
 item_trophy_abomination_description,It's been dead so long that it started living again.,它已經死去很久了，如今又活了起來。
@@ -2929,3 +2930,94 @@ piece_yuletree,Yule tree,耶魯樹
 piece_yuleklapp,Yuleklapp,耶魯節禮物
 piece_maypole,Maypole,仲夏柱
 piece_jackoturnip,Jack-o-turnip,傑克蕪菁燈
+settings_look,Look,
+settings_menu,Menu,
+settings_move,Move,
+settings_altkeys,(Alt Keys),
+settings_camzoomin,Zoom In View,
+settings_camzoomout,Zoom Out View,
+settings_hotbarright,Cycle Hotbar,
+settings_hotbaruse,Use Hotbar Item,
+settings_rotate,Rotate,
+settings_invertcamera,Invert Camera,
+settings_chat,Chat,
+settings_showgamepadmap,Show Gamepad,
+settings_fpslimit,Framerate Limit,
+settings_glyphs_ps,Alternative Glyphs,
+settings_bigpicturetext,* Gamepad text input boxes & chat are only available when playing in Steam Big Picture.,
+settings_reducebg,Reduce background performance,
+button_a,A,
+button_b,B,
+button_x,X,
+button_y,Y,
+button_lb,LB,
+button_rb,RB,
+button_back,Back,
+button_start,Start,
+button_ls,LS,
+button_rs,RS,
+button_ps_a,✕,
+button_ps_b,○,
+button_ps_x,▫,
+button_ps_y,△,
+button_ps_lb,L1,
+button_ps_rb,R1,
+button_ps_back,Share,
+button_ps_start,Options,
+button_ps_ls,L3,
+button_ps_rs,R3,
+interface_rightarrow,>,
+interface_leftarrow,<,
+chat_entermessage,Enter chat message,
+hud_namepin,Name your pin,
+location_mountaincave,Frost Caves,
+enemy_ulv,Ulv,
+event_caves_start,Howls echo from the depths,
+event_caves_end,The howls fade,
+lore_cavepainting_label,Ancient cave markings,
+item_meat_rotten,Rotten meat,
+item_meat_rotten_description,There are maggots crawling in the meat. It smells awful.,
+item_pickable_meatpile,Meat pile,
+item_pickable_hairstrands,Fenris hair,
+item_wolfclaw,Fenris claw,
+item_wolfclaw_description,It is hard and sharp like iron.,
+item_wolfhairbundle,Fenris hair,
+item_wolfhairbundle_description,"A bundle of thick, rough hair. It has a strong smell.",
+item_chest_fenris,Fenris coat,
+item_chest_fenris_description,"The beast could draw deep breaths, so that its howl could be heard far across the land.",
+item_legs_fenris,Fenris leggings,
+item_legs_fenris_description,"The legs of the beast was lean and strong, so that it could leap great strides.",
+item_helmet_fenris,Fenris hood,
+item_helmet_fenris_description,"The eyes of the beast were wise and knowing, so that it could measure the strength of a warrior in one glance.",
+item_fistweapon_fenris,Flesh rippers,
+item_fistweapon_fenris_description,"If claws work for wolves, why not for a viking?",
+enemy_fenringcultist,Cultist,
+enemy_bat,Bat,
+piece_brazierfloor01,Standing brazier,
+piece_clothdoor,Red jute curtain,
+piece_jute_carpet,Red jute carpet,
+item_jutered,Red jute,
+item_jutered_description,"A sturdy, rough fabric.",
+item_trophy_ulv,Ulv trophy,
+item_trophy_ulv_description,A rugged tail from a not so good boy.,
+item_trophy_ulv_lore,A rugged tail from a not so good boy.,
+item_trophy_cultist,Cultist trophy,
+item_trophy_cultist_description,The fire in its eyes has still not burned out.,
+item_trophy_cultist_lore,The fire in its eyes has still not burned out.,
+lore_caveman01,"The depths of the cave promised me riches.
+Down turns out, is easier than up.
+The lake helped best it could, but it could only do so much.
+It took me strength to not empty it completely, to leave you weary traveler a chance just as I had.
+I hope you came here more prepared than I.
+If not, there is room here next to me, to just lay down and.. rest.",
+lore_caveman02,"This cliff I climbed in in hopes of reaching the top.
+Regretfully the cave was too deep.
+...
+Back here again considering the jump.
+Alas, the coward I am is climbing back down.",
+se_fenringseteffect_name,Fenris blessing,
+se_fenringseteffect_tooltip,"The Fenris armor makes you quick on your feet so you can pass through fire, and your fists feel the power of the beast.",
+wolf_statue,Fenris shrine,
+event_bats_start,You stirred the cauldron,
+event_bats_end,The cauldron calms,
+settings_place,Place,
