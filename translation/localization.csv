@@ -583,7 +583,7 @@ piece_stonepile,Stone pile,石堆
 piece_chair,Chair,椅子
 piece_bed02,Dragon bed,龍床
 piece_bench01,Bench,長椅
-piece_brazierceiling01,Hanging brazier,吊火盆
+piece_brazierceiling01,Hanging brazier,吊式火盆
 piece_banner01,Black banner,黑色旗幟
 piece_banner02,Blue banner,藍色旗幟
 piece_banner03,White and red striped banner,白紅條紋旗幟
@@ -683,16 +683,16 @@ item_trophy_deer_description,A fine specimen but you'll need to kill more than d
 item_trophy_deer_lore,A fine specimen but you'll need to kill more than deer to enter Valhalla.,"很不錯的標本，但要進
 入英靈殿，僅僅殺鹿是
 不夠的。"
-item_trophy_greydwarf,Greydwarf trophy,矮灰妖戰利品
-item_trophy_greydwarf_description,"The mossy, severed head of a Greydwarf.",矮灰妖被割下的頭顱，覆滿苔蘚。
-item_trophy_greydwarf_lore,"The mossy, severed head of a Greydwarf.","矮灰妖被割下的頭顱，
+item_trophy_greydwarf,Greydwarf trophy,灰矮妖戰利品
+item_trophy_greydwarf_description,"The mossy, severed head of a Greydwarf.",灰矮妖被割下的頭顱，覆滿苔蘚。
+item_trophy_greydwarf_lore,"The mossy, severed head of a Greydwarf.","灰矮妖被割下的頭顱，
 覆滿苔蘚。"
-item_trophy_greydwarfbrute,Greydwarf Brute trophy,矮灰妖蠻兵戰利品
+item_trophy_greydwarfbrute,Greydwarf Brute trophy,灰矮妖蠻兵戰利品
 item_trophy_greydwarfbrute_description,It took seven blows to hack this gnarled head from its body.,足足砍了七下，才將這顆疙瘩的頭顱從其身上割下。
 item_trophy_greydwarfbrute_lore,It took seven blows to hack this gnarled head from its body.,"足足砍了七下，才將這
 顆疙瘩的頭顱從其身上
 割下。"
-item_trophy_greydwarfshaman,Greydwarf Shaman trophy,矮灰妖薩滿戰利品
+item_trophy_greydwarfshaman,Greydwarf Shaman trophy,灰矮妖薩滿戰利品
 item_trophy_greydwarfshaman_description,It may try to come back so be sure to prune any new shoots...,它可能會復活，所以務必要修剪新枝……
 item_trophy_greydwarfshaman_lore,It may try to come back so be sure to prune any new shoots...,"它可能會復活，所以務
 必要修剪新枝……"
@@ -776,8 +776,8 @@ item_trophy_serpent_description,The scales have dulled but the eyes are still br
 item_trophy_serpent_lore,The scales have dulled but the eyes are still bright.,"鱗片雖已黯淡，但眼睛
 依舊明亮。"
 item_trophy_lox,Lox trophy,蜥犛牛戰利品
-item_trophy_lox_description,"A giant beast's head, thatched with thick fur.",巨獸的頭，覆蓋著厚實的毛皮。
-item_trophy_lox_lore,"A giant beast's head, thatched with thick fur.","巨獸的頭，覆蓋著厚實
+item_trophy_lox_description,"A giant beast's head, thatched with thick fur.",巨獸的頭，覆蓋著濃密的毛皮。
+item_trophy_lox_lore,"A giant beast's head, thatched with thick fur.","巨獸的頭，覆蓋著濃密
 的毛皮。"
 item_trophy_deathsquito,Deathsquito trophy,殺人蚊戰利品
 item_trophy_deathsquito_description,You don't like touching this thing even when it's dead.,就算牠死了，你也不會想碰。
@@ -792,7 +792,8 @@ item_trophy_goblinshaman_lore,Even killing it couldn't wipe the knowing smile fr
 item_club,Club,木棒
 item_club_description,A crude but useful weapon.,粗糙但有用的武器。 
 item_stagbreaker,Stagbreaker,鹿角戰鎚
-item_stagbreaker_description,"A weapon worthy of the gods! If you get hit with this, you'll know it...",配得上諸神的武器！被它搥到，你就知道厲害了……
+item_stagbreaker_description,"A weapon worthy of the gods! If you get hit with this, you'll know it...","配得上諸神的武器！
+被它搥到，你就知道厲害了……"
 item_arrow_fire,Fire arrow,火焰箭
 item_arrow_fire_description,This arrow burns whatever it pierces.,這種箭會點燃射中的任何東西。
 item_arrow_flint,Flinthead arrow,燧石箭
@@ -826,7 +827,8 @@ item_axe_iron_description,"Sharp and strong, a woodcutter's friend.",鋒利堅�
 item_axe_bronze,Bronze axe,青銅斧
 item_axe_bronze_description,"A bright and burnished blade, curved like a smile.",亮錚錚的斧刃，彎彎的似微笑。
 item_axe_blackmetal,Blackmetal axe,黑鋼斧
-item_axe_blackmetal_description,A perfectly-balanced axe forged from dark metal with an emerald sheen.,用黑鋼鍛造而成的完美斧頭，泛著翡翠般的光澤。
+item_axe_blackmetal_description,A perfectly-balanced axe forged from dark metal with an emerald sheen.,"用黑鋼鍛造而成的完美斧頭，泛著翡翠般
+的光澤。"
 item_sword_blackmetal,Blackmetal sword,黑鋼劍
 item_sword_blackmetal_description,"A thing of death and beauty, it catches the light with a greenish glow.",死與美的結合，在光的照射下泛著綠光。
 item_atgeir_blackmetal,Blackmetal atgeir,黑鋼戟
@@ -840,7 +842,8 @@ item_bow_finewood_description,A simple bow of strong and supple wood.,用結實�
 item_bow_huntsman,Huntsman bow,獵人弓
 item_bow_huntsman_description,"Finely worked and strung, a huntsman's joy.",作工精細，是獵人的最愛。
 item_bow_draugrfang,Draugr fang,屍鬼之牙
-item_bow_draugrfang_description,"Dark wood strung with glistening sinew, a vicious thing.",漆黑的木頭上繃著亮澤的腱弦，是個狠毒的武器。
+item_bow_draugrfang_description,"Dark wood strung with glistening sinew, a vicious thing.","漆黑的木頭上繃著亮澤的腱弦，是個狠毒
+的武器。"
 item_knife_copper,Copper knife,銅短刀
 item_knife_copper_description,A glittering copper knife.,閃閃發光的銅短刀。
 item_knife_flint,Flint knife,燧石短刀
@@ -854,17 +857,20 @@ item_pickaxe_bronze_description,A good bronze pick. Can break very hard rocks.,�
 item_pickaxe_stone,Stone pickaxe,石鎬
 item_pickaxe_stone_description,A rock-breaker made of stone.,用石頭製成的碎岩工具。
 item_pickaxe_antler,Antler pickaxe,鹿角鎬
-item_pickaxe_antler_description,This tool is hard enough to crack even the most stubborn rocks.,這個工具非常堅硬，連最頑固的岩石也能敲碎。
+item_pickaxe_antler_description,This tool is hard enough to crack even the most stubborn rocks.,"這個工具非常堅硬，連最頑固的岩石也能
+敲碎。"
 item_sword_bronze,Bronze sword,青銅劍
 item_sword_bronze_description,"Blood-drinker, a thirsty friend.",嗜血之物，渴望鮮血的利器。
 item_sword_iron,Iron sword,鐵劍
 item_sword_iron_description,The straight line between life and death runs along the edge of this blade.,生與死的分界線，沿著劍鋒劃過。
 item_sword_silver,Silver sword,銀劍
-item_sword_silver_description,"Purest of metals, nothing unclean can abide its touch.",最純淨的金屬，任何不潔之物都難以承受它的觸碰。
+item_sword_silver_description,"Purest of metals, nothing unclean can abide its touch.","最純淨的金屬，任何不潔之物都難以承受
+它的觸碰。"
 item_sword_fire,Dyrnwyn,白柄劍
 item_sword_fire_description,"Unsheathed, it sizzles and spits with deathless fire, an impossible blade.",出鞘後會噴出不滅之火，簡直難以置信。
 item_spear_flint,Flint spear,燧石矛
-item_spear_flint_description,"If your eye marks a thing for death, let your arm send the messenger.",如果你的眼睛鎖定了獵物，就讓你的手送其上路。
+item_spear_flint_description,"If your eye marks a thing for death, let your arm send the messenger.","如果你的眼睛鎖定了獵物，就讓你的手送
+其上路。"
 item_spear_wolffang,Fang spear,狼牙矛
 item_spear_wolffang_description,"Even in death, the wolf's tooth aches for flesh.",即使死了，狼的獠牙仍渴望著血肉。
 item_spear_chitin,Abyssal harpoon,深淵魚叉
@@ -919,7 +925,8 @@ item_shield_serpentscale_description,A sturdy shield of overlapping scales.,用�
 item_shield_silver,Silver shield,銀盾
 item_shield_silver_description,A shield of radiant silver.,銀光閃閃的盾。
 item_shield_blackmetal,Black metal shield,黑鋼盾
-item_shield_blackmetal_description,"Fashioned from the strongest metal, able to turn even the deadliest blades.",用最堅固的金屬製成，連最致命的刀刃也能擋開。
+item_shield_blackmetal_description,"Fashioned from the strongest metal, able to turn even the deadliest blades.","用最堅固的金屬製成，連最致命的刀刃也
+能擋開。"
 item_shield_blackmetal_tower,Black metal tower shield,黑鋼塔盾
 item_shield_blackmetal_tower_description,A tower shield of gleaming dark metal.,用熠熠生輝的黑鋼製成的塔盾。
 item_shield_iron_square,Iron shield,鐵盾
@@ -1065,7 +1072,7 @@ item_cape_wolf,Wolf fur cape,狼皮披風
 item_cape_wolf_description,Wolves are natural survivors. This one was just unlucky. Now its pelt will warm you in the snow.,"狼是天生的強者。這一匹只是運氣不好。
 現在牠的毛皮將在雪中為你取暖。"
 item_cape_lox,Lox cape,蜥犛牛披風
-item_cape_lox_description,"A pelt from one of the great beasts, thick and warm.",巨獸的毛皮，厚實又保暖。
+item_cape_lox_description,"A pelt from one of the great beasts, thick and warm.",巨獸的毛皮，濃密又保暖。
 item_helmet_drake,Drake helmet,亞龍盔
 item_helmet_drake_description,An elaborate and finely-crafted helm.,匠心製作的精緻頭盔。
 ,,
@@ -1104,8 +1111,8 @@ item_beechseeds,Beech seeds,山毛櫸種子
 item_beechseeds_description,Plant them to grow a beech tree.,種下這個就能長出山毛櫸。
 item_flint,Flint,燧石
 item_flint_description,Can be shaped into sharp blades.,可以打磨成利刃。
-item_greydwarfeye,Greydwarf eye,矮灰妖之眼
-item_greydwarfeye_description,The milky eyeball of a Greydwarf.,矮灰妖的混濁眼珠。
+item_greydwarfeye,Greydwarf eye,灰矮妖之眼
+item_greydwarfeye_description,The milky eyeball of a Greydwarf.,灰矮妖的混濁眼珠。
 item_guck,Guck,樹膿
 item_guck_description,It smells like fermented fish.,聞起來像發酵過的魚。
 item_leatherscraps,Leather scraps,皮碎料
@@ -1353,7 +1360,7 @@ se_spirit_name,Spirit,靈能
 se_spirit_tooltip,Extra damage vs undead.,對不死生物有額外傷害。
 se_staminaupgrade_name,Stamina upgrade,耐力升級
 se_trollseteffect_name,Sneaky,潛匿
-se_trollseteffect_tooltip,Makes you more sneaky.,讓你更加隱蔽。
+se_trollseteffect_tooltip,Makes you more sneaky.,能讓你更加隱蔽。
 se_warm_name,Warm,溫暖
 se_warm_tooltip,You are warm.,你很暖和。
 se_wet_name,Wet,濕透
@@ -1434,7 +1441,7 @@ skill_woodcutting,Wood cutting,伐木
 skill_bows,Bows,弓
 skill_firemagic,Fire magic,火焰魔法
 skill_frostmagic,Frost magic,冰霜魔法
-skill_unarmed,Unarmed,徒手
+skill_unarmed,Fists,拳
 skill_pickaxes,Pickaxes,鎬
 skill_jump,Jump,跳躍
 skill_run,Run,奔跑
@@ -1457,7 +1464,7 @@ skill_woodcutting_description,Axe damage when hitting trees.,伐木時斧的傷�
 skill_bows_description,Damage with bows.,弓的傷害。
 skill_firemagic_description,Write something,寫點什麼吧
 skill_frostmagic_description,Write something,寫點什麼吧
-skill_unarmed_description,Damage when unarmed.,徒手的傷害。
+skill_unarmed_description,Damage when unarmed.,拳的傷害。
 skill_pickaxes_description,Damage with pickaxes.,鎬的傷害。
 skill_jump_description,Jump height.,跳躍高度。
 skill_run_description,Speed and stamina drain when running.,奔跑時的速度和耐力消耗。
@@ -1711,12 +1718,12 @@ lore_intro_OLD,"To prove that you are worthy of entering Valhalla you have been 
 你被送到了第十北歐世界──英靈界。
 只有擊敗這片土地上的強大野獸，
 你才能贏得諸神的垂青。"
-lore_greydwarfs_label,Lore: Greydwarfs,傳說：矮灰妖
+lore_greydwarfs_label,Lore: Greydwarfs,傳說：灰矮妖
 lore_greydwarfs,"Let all who read me beware of the Greydwarfs, the skulkers in darkness, the soulless ones. They are born from rot and rainfall, they spring like mushrooms from the smoking soil. There is nothing on their tongues or behind their eyes, those who fear nothing should still fear them.
 
 When the soul of a murderer or a great sinner rots under the ground, it makes a hollow cyst which draws rock and wood and moss to it. It gathers up the peat into flesh, braids reeds into bone and takes rags for skin.
 
-It should not walk but when the night comes it walks. Should you who read this see one with a sword to your hand, lance it and let it out. Or put it to the torch, for it fears the flame.","凡聞吾者，當謹防矮灰妖，暗之伏者、無魂之輩也。
+It should not walk but when the night comes it walks. Should you who read this see one with a sword to your hand, lance it and let it out. Or put it to the torch, for it fears the flame.","凡聞吾者，當謹防灰矮妖，暗之伏者、無魂之輩也。
 其生於腐朽、雨水，如菇般冒自燻土。
 其舌上眼後空無深邃，令無畏之人也當畏之。
 
@@ -1929,7 +1936,7 @@ lore_swamp_random04,"You who pass, remember me. I am a man whose home was once i
 我是人類，曾在中土界的山上安居，
 就當我以為可以長眠時，被帶到了這裡，
 在英靈界過著死後的生活。
-在矮灰妖來襲之前，我們原本有七個人。
+在灰矮妖來襲之前，我們原本有七個人。
 如今奧丁對我充耳不聞，
 大海也將我拒之門外。
 很快，這塊石碑將成為僅存的殘餘。"
@@ -1961,7 +1968,7 @@ lore_mountains_random01,"Few of us found our way to these mountains. We were twe
 lore_mountains_random02,"This marks the spot where the great drake was first seen by me, Ulf, in the third summer of my life in Valheim. She stopped here to leave a pile of dung holding the bones of deer, boar and the skull of a greydwarf. I will never come near this place again.","這個標記點，是我沃夫第一次看到
 巨大亞龍的地方，那時是我在英靈界的第三個夏天。
 她停在這裡，留下了一堆糞便，
-裡面參雜著鹿骨、野豬骨和矮灰妖的顱骨。
+裡面參雜著鹿骨、野豬骨和灰矮妖的顱骨。
 我再也不會靠近這個地方了。"
 lore_mountains_random03,"Halt and listen, traveller. On the highest peaks of Valheim, the air is thin and fragile. From here you can sometimes catch sounds from other places, the ring of battle on Midgard, the roar of a feast in Valhalla or the shriek of a Valkyrie as she crosses the space between the worlds.","停下來仔細聽，旅行者。
 在英靈界的最高峰，空氣稀薄。
@@ -2123,7 +2130,7 @@ loadscreen_tip07,"Upon your arrival in Valheim, try to find stones and branches 
 loadscreen_tip08,It is generally a bad idea to venture outside at night...,基本上，夜晚外出冒險是個壞主意……
 loadscreen_tip09,Hunting deer with a ranged weapon provides a good source of meat and skin.,用遠程武器獵鹿是個不錯的肉和皮的來源。
 loadscreen_tip10,Build a rudimentary shelter as soon as possible!,儘早建造一個基本的安身之所吧！
-loadscreen_tip11,"Different enemies are weak to different damage types. For instance, Greydwarfs don't like fire.",不同的敵人有不同的傷害類型弱點。例如：矮灰妖就怕火。
+loadscreen_tip11,"Different enemies are weak to different damage types. For instance, Greydwarfs don't like fire.",不同的敵人有不同的傷害類型弱點。例如：灰矮妖就怕火。
 loadscreen_tip12,"When you have built a bed, do not forget to claim it.",當你建造了床後，別忘了認領。
 loadscreen_tip13,Attacking with knives and bows while sneaking confers a large damage bonus.,潛行時用短刀或弓箭攻擊能造成大量額外傷害。
 loadscreen_tip14,Birds are a good source of feathers. They will stay close to the ground while the weather is bad.,鳥類是羽毛的良好來源。天氣不好的時候，牠們會待在地面。
@@ -2324,13 +2331,13 @@ lore_plains_random07,"Beneath the ground are the halls of men and women long sin
 settings_langchange_notice,Game restart is required when changing language.,變更語言後需要重新啟動遊戲。
 settings_langchange_community,*Community Translation,*社群翻譯
 enemy_fenring,Fenring,狼人
-enemy_greydwarf,Greydwarf,矮灰妖
-enemy_greydwarfbrute,Greydwarf brute,矮灰妖蠻兵
-enemy_greydwarfshaman,Greydwarf shaman,矮灰妖薩滿
-enemy_greyling,Greyling,小灰妖
+enemy_greydwarf,Greydwarf,灰矮妖
+enemy_greydwarfbrute,Greydwarf brute,灰矮妖蠻兵
+enemy_greydwarfshaman,Greydwarf shaman,灰矮妖薩滿
+enemy_greyling,Greyling,灰小妖
 animal_fish,Fish,魚
 enemy_boar,Boar,野豬
-enemy_boarpiggy,Piggy,小野豬
+enemy_boarpiggy,Piggy,野豬崽
 enemy_deer,Deer,鹿
 enemy_draugr,Draugr,屍鬼
 enemy_draugrelite,Draugr elite,屍鬼精英
@@ -2426,7 +2433,7 @@ But in Valheim they have flourished. It has been centuries since any in Midgard 
 為了好玩而踏平土地和推倒樹木的巨魔了。
 看看這宏偉的景象吧，異鄉的流浪者們！
 然後，拔腿快跑……"
-lore_blackforest_random09,"Raised by the Old Man of the Forest from seeds of sin, the greydwarfs clothe themselves in the human forms they once knew, but there is no longer any warmth in their hearts. They live now only to serve the Elder and to protect the wood. Do not let pity for them stay your hand.","森林的古老者用罪惡的種子所培育的矮灰妖，
+lore_blackforest_random09,"Raised by the Old Man of the Forest from seeds of sin, the greydwarfs clothe themselves in the human forms they once knew, but there is no longer any warmth in their hearts. They live now only to serve the Elder and to protect the wood. Do not let pity for them stay your hand.","森林的古老者用罪惡的種子所培育的灰矮妖，
 雖然披上了它們曾經熟悉的人類外形，
 但它們的內心不再有任何溫暖。
 它們現在活著只為效力於古老樹妖和保護森林。
@@ -2510,7 +2517,7 @@ We are Odin's hands, each one of us, and our worth in life is to work his will."
 多個月來，我不畏風暴和猛獸尋找答案。
 諸神在哪裡？這是對我的獎賞嗎？奧丁在哪裡？
 
-但現在我知道了。當我將矮灰妖像雜草般拔除，
+但現在我知道了。當我將灰矮妖像雜草般拔除，
 將火精像餘燼般踩滅時，我完成了奧丁的任務。
 而當我與巨龍較量，一擊取其首級時，
 我感到了奧丁在我內心的喜悅，深沉而驕傲。
@@ -2899,7 +2906,7 @@ msg_cart_use,Use,使用
 msg_cart_incorrectposition,Not in the right position,位置不正確
 msg_cart_storage,Storage,儲藏庫
 enemy_skeletonspawner,Evil bone pile,邪惡骨堆
-enemy_greydwarfspawner,Greydwarf nest,矮灰妖巢穴
+enemy_greydwarfspawner,Greydwarf nest,灰矮妖巢穴
 enemy_draugrspawner,Body pile,屍堆
 menu_changelog,Changelog,更新紀錄
 menu_filter,Filter,過濾
@@ -2911,11 +2918,14 @@ enemy_abomination,Abomination,憎惡體
 item_root,Root,樹根
 item_root_description,An old root from an ancient tree stump. It feels both flexible and durable at the same time.,古樹墩的老樹根。感覺既柔韌又耐用。
 item_chest_root,Root harnesk,樹根胸甲
-item_chest_root_description,A light armor oddly woven together by ancient roots and bark.,用古老的樹根和樹皮奇特地編織在一起的輕甲。
+item_chest_root_description,A light armor oddly woven together by ancient roots and bark.,"用古老的樹根和樹皮奇特地編織在一起的
+輕甲。"
 item_legs_root,Root leggings,樹根護脛
-item_legs_root_description,A light armor oddly woven together by ancient roots and bark.,用古老的樹根和樹皮奇特地編織在一起的輕甲。
+item_legs_root_description,A light armor oddly woven together by ancient roots and bark.,"用古老的樹根和樹皮奇特地編織在一起的
+輕甲。"
 item_helmet_root,Root mask,樹根面罩
-item_helmet_root_description,Your head fits perfectly inside this knot of roots and bark.,這樹根和樹皮構成的結，與你的頭型完美契合。
+item_helmet_root_description,Your head fits perfectly inside this knot of roots and bark.,"這樹根和樹皮構成的結，與你的頭型完美
+契合。"
 se_rootseteffect_name,Root armor,弓術專精
 se_rootseteffect_tooltip,The ancient roots help you focus your bow skill.,古老的樹根有助於你專注弓的技能。
 item_trophy_abomination,Abomination trophy,憎惡體戰利品
@@ -2930,94 +2940,106 @@ piece_yuletree,Yule tree,耶魯樹
 piece_yuleklapp,Yuleklapp,耶魯節禮物
 piece_maypole,Maypole,仲夏柱
 piece_jackoturnip,Jack-o-turnip,傑克蕪菁燈
-settings_look,Look,
-settings_menu,Menu,
-settings_move,Move,
-settings_altkeys,(Alt Keys),
-settings_camzoomin,Zoom In View,
-settings_camzoomout,Zoom Out View,
-settings_hotbarright,Cycle Hotbar,
-settings_hotbaruse,Use Hotbar Item,
-settings_rotate,Rotate,
-settings_invertcamera,Invert Camera,
-settings_chat,Chat,
-settings_showgamepadmap,Show Gamepad,
-settings_fpslimit,Framerate Limit,
-settings_glyphs_ps,Alternative Glyphs,
-settings_bigpicturetext,* Gamepad text input boxes & chat are only available when playing in Steam Big Picture.,
-settings_reducebg,Reduce background performance,
-button_a,A,
-button_b,B,
-button_x,X,
-button_y,Y,
-button_lb,LB,
-button_rb,RB,
-button_back,Back,
-button_start,Start,
-button_ls,LS,
-button_rs,RS,
-button_ps_a,✕,
-button_ps_b,○,
-button_ps_x,▫,
-button_ps_y,△,
-button_ps_lb,L1,
-button_ps_rb,R1,
-button_ps_back,Share,
-button_ps_start,Options,
-button_ps_ls,L3,
-button_ps_rs,R3,
-interface_rightarrow,>,
-interface_leftarrow,<,
-chat_entermessage,Enter chat message,
-hud_namepin,Name your pin,
-location_mountaincave,Frost Caves,
-enemy_ulv,Ulv,
-event_caves_start,Howls echo from the depths,
-event_caves_end,The howls fade,
-lore_cavepainting_label,Ancient cave markings,
-item_meat_rotten,Rotten meat,
-item_meat_rotten_description,There are maggots crawling in the meat. It smells awful.,
-item_pickable_meatpile,Meat pile,
-item_pickable_hairstrands,Fenris hair,
-item_wolfclaw,Fenris claw,
-item_wolfclaw_description,It is hard and sharp like iron.,
-item_wolfhairbundle,Fenris hair,
-item_wolfhairbundle_description,"A bundle of thick, rough hair. It has a strong smell.",
-item_chest_fenris,Fenris coat,
-item_chest_fenris_description,"The beast could draw deep breaths, so that its howl could be heard far across the land.",
-item_legs_fenris,Fenris leggings,
-item_legs_fenris_description,"The legs of the beast was lean and strong, so that it could leap great strides.",
-item_helmet_fenris,Fenris hood,
-item_helmet_fenris_description,"The eyes of the beast were wise and knowing, so that it could measure the strength of a warrior in one glance.",
-item_fistweapon_fenris,Flesh rippers,
-item_fistweapon_fenris_description,"If claws work for wolves, why not for a viking?",
-enemy_fenringcultist,Cultist,
-enemy_bat,Bat,
-piece_brazierfloor01,Standing brazier,
-piece_clothdoor,Red jute curtain,
-piece_jute_carpet,Red jute carpet,
-item_jutered,Red jute,
-item_jutered_description,"A sturdy, rough fabric.",
-item_trophy_ulv,Ulv trophy,
-item_trophy_ulv_description,A rugged tail from a not so good boy.,
-item_trophy_ulv_lore,A rugged tail from a not so good boy.,
-item_trophy_cultist,Cultist trophy,
-item_trophy_cultist_description,The fire in its eyes has still not burned out.,
-item_trophy_cultist_lore,The fire in its eyes has still not burned out.,
+settings_look,Look,觀察
+settings_menu,Menu,選單
+settings_move,Move,移動
+settings_altkeys,(Alt Keys),（替代鍵）
+settings_camzoomin,Zoom In View,鏡頭拉近
+settings_camzoomout,Zoom Out View,鏡頭拉遠
+settings_hotbarright,Cycle Hotbar,滾動快捷欄
+settings_hotbaruse,Use Hotbar Item,使用快捷欄物品
+settings_rotate,Rotate,旋轉
+settings_invertcamera,Invert Camera,鏡頭反轉
+settings_chat,Chat,聊天
+settings_showgamepadmap,Show Gamepad,顯示手把
+settings_fpslimit,Framerate Limit,幀率限制
+settings_glyphs_ps,Alternative Glyphs,替代手把圖示
+settings_bigpicturetext,* Gamepad text input boxes & chat are only available when playing in Steam Big Picture.,*手把文字輸入框和聊天功能只有在 Steam Big Picture 模式中才能使用。
+settings_reducebg,Reduce background performance,降低背景表現
+button_a,A,A
+button_b,B,B
+button_x,X,X
+button_y,X,X
+button_lb,LB,LB
+button_rb,LB,LB
+button_back,Back,BACK
+button_start,Start,START
+button_ls,LS,LS
+button_rs,RS,RS
+button_ps_a,✕,✕
+button_ps_b,○,○
+button_ps_x,▫,▫
+button_ps_y,△,△
+button_ps_lb,L1,L1
+button_ps_rb,R1,R1
+button_ps_back,Share,SHARE
+button_ps_start,Options,OPTIONS
+button_ps_ls,L3,L3
+button_ps_rs,R3,R3
+interface_rightarrow,>,>
+interface_leftarrow,<,<
+chat_entermessage,Enter chat message,輸入聊天訊息
+hud_namepin,Name your pin,命名標記
+location_mountaincave,Frost Caves,冰霜洞穴
+enemy_ulv,Ulv,邪狼
+event_caves_start,Howls echo from the depths,深處傳來一陣狼嚎
+event_caves_end,The howls fade,狼嚎逐漸遠去
+lore_cavepainting_label,Ancient cave markings,古老洞穴壁畫
+item_meat_rotten,Rotten meat,腐肉
+item_meat_rotten_description,There are maggots crawling in the meat. It smells awful.,肉裡爬滿了蛆，腐臭難聞。
+item_pickable_meatpile,Meat pile,肉堆
+item_pickable_hairstrands,Fenris hair,芬里爾之毛
+item_wolfclaw,Fenris claw,芬里爾之爪
+item_wolfclaw_description,It is hard and sharp like iron.,像鐵一樣堅硬鋒利。
+item_wolfhairbundle,Fenris hair,芬里爾之毛
+item_wolfhairbundle_description,"A bundle of thick, rough hair. It has a strong smell.",一捆濃密粗糙的毛髮，有股強烈的騷味。
+item_chest_fenris,Fenris coat,芬里爾大衣
+item_chest_fenris_description,"The beast could draw deep breaths, so that its howl could be heard far across the land.",這頭野獸只要深吸一口氣，牠的狼嚎就能響徹整個大地。
+item_legs_fenris,Fenris leggings,芬里爾護脛
+item_legs_fenris_description,"The legs of the beast was lean and strong, so that it could leap great strides.",這頭野獸的腿精壯結實，所以牠能大步地跳躍。
+item_helmet_fenris,Fenris hood,芬里爾兜帽
+item_helmet_fenris_description,"The eyes of the beast were wise and knowing, so that it could measure the strength of a warrior in one glance.",這頭野獸的雙眼睿智深邃，一眼就能看出戰士的實力。
+item_fistweapon_fenris,Flesh rippers,開膛拳爪
+item_fistweapon_fenris_description,"If claws work for wolves, why not for a viking?","既然狼可以用爪子戰鬥，為什麼維京戰士
+不能呢？"
+enemy_fenringcultist,Cultist,邪教徒
+enemy_bat,Bat,蝙蝠
+piece_brazierfloor01,Standing brazier,立式火盆
+piece_clothdoor,Red jute curtain,紅麻帷幔
+piece_jute_carpet,Red jute carpet,紅麻地毯
+item_jutered,Red jute,紅麻
+item_jutered_description,"A sturdy, rough fabric.",堅固粗糙的織物。
+item_trophy_ulv,Ulv trophy,邪狼戰利品
+item_trophy_ulv_description,A rugged tail from a not so good boy.,壞狼狼的毛糙尾巴。
+item_trophy_ulv_lore,A rugged tail from a not so good boy.,壞狼狼的毛糙尾巴。
+item_trophy_cultist,Cultist trophy,邪教徒戰利品
+item_trophy_cultist_description,The fire in its eyes has still not burned out.,牠眼中的火仍未熄滅。
+item_trophy_cultist_lore,The fire in its eyes has still not burned out.,牠眼中的火仍未熄滅。
 lore_caveman01,"The depths of the cave promised me riches.
 Down turns out, is easier than up.
 The lake helped best it could, but it could only do so much.
 It took me strength to not empty it completely, to leave you weary traveler a chance just as I had.
 I hope you came here more prepared than I.
-If not, there is room here next to me, to just lay down and.. rest.",
+If not, there is room here next to me, to just lay down and.. rest.","洞穴的深處許了我財富。
+事實證明，下來比上去更輕鬆。
+雖然湖泊給了我很多幫助，但也無濟於事。
+我掙扎了許久才沒有把它掏空，
+為了留給你們這些旅行者一線生機，
+就像我曾經有過的機會。
+但願你們比我準備得更充分。
+不然的話，我旁邊還有空間可以安眠。"
 lore_caveman02,"This cliff I climbed in in hopes of reaching the top.
 Regretfully the cave was too deep.
 ...
 Back here again considering the jump.
-Alas, the coward I am is climbing back down.",
-se_fenringseteffect_name,Fenris blessing,
-se_fenringseteffect_tooltip,"The Fenris armor makes you quick on your feet so you can pass through fire, and your fists feel the power of the beast.",
-wolf_statue,Fenris shrine,
-event_bats_start,You stirred the cauldron,
-event_bats_end,The cauldron calms,
-settings_place,Place,
+Alas, the coward I am is climbing back down.","我懷著登頂的希望爬上這座峭壁。
+遺憾的是，這個洞穴太深了。
+……
+我又回到這裡，想著要不要用跳的。
+唉，我這個懦夫還是爬下去好了。"
+se_fenringseteffect_name,Fenris blessing,芬里爾祝福
+se_fenringseteffect_tooltip,"The Fenris armor makes you quick on your feet so you can pass through fire, and your fists feel the power of the beast.",芬里爾鎧甲能讓你腳步輕快，這樣你就可以穿過火焰，你的拳頭也能感受到野獸的力量。
+wolf_statue,Fenris shrine,芬里爾神壇
+event_bats_start,You stirred the cauldron,你攪起了一場混亂
+event_bats_end,The cauldron calms,混亂平靜下來了
+settings_place,Place,放置
