@@ -754,7 +754,7 @@ item_trophy_sgolem,Stone Golem trophy,石魔像戰利品
 item_trophy_sgolem_description,This crystalline rock formation would make for an impressive floor decoration.,這種結晶岩層可以作為令人驚嘆的地板裝飾。
 item_trophy_sgolem_lore,This crystalline rock formation would make for an impressive floor decoration.,"這種結晶岩層可以作為
 令人驚嘆的地板裝飾。"
-item_trophy_fenring,Fenring trophy,狼人戰利品
+item_trophy_fenring,Fenring trophy,魔狼人戰利品
 item_trophy_fenring_description,"Half-way between wolf and man, its face frozen in a snarl of pain.",半狼半人，牠的臉被凍在痛苦的嚎叫中。
 item_trophy_fenring_lore,"Half-way between wolf and man, its face frozen in a snarl of pain.","半狼半人，牠的臉被凍
 在痛苦的嚎叫中。"
@@ -2319,7 +2319,7 @@ npc_munin_general10,Kraa! The Allfather sends tidings! He waits on your word to 
 殺了放逐者們，掃除障礙吧！"
 ,,
 lore_meadows_boartaming_label,Lore: Boars,傳說：野豬
-lore_mountains_fenring_label,Lore: Fenring,傳說：狼人
+lore_mountains_fenring_label,Lore: Fenring,傳說：魔狼人
 ,,
 settings_veryhigh,Very High,極高
 settings_sfxvol,Effect Volume,音效音量
@@ -2330,7 +2330,7 @@ lore_plains_random07,"Beneath the ground are the halls of men and women long sin
 他們有些人還不知道自己已經死了。"
 settings_langchange_notice,Game restart is required when changing language.,變更語言後需要重新啟動遊戲。
 settings_langchange_community,*Community Translation,*社群翻譯
-enemy_fenring,Fenring,狼人
+enemy_fenring,Fenring,魔狼人
 enemy_greydwarf,Greydwarf,灰矮妖
 enemy_greydwarfbrute,Greydwarf brute,灰矮妖蠻兵
 enemy_greydwarfshaman,Greydwarf shaman,灰矮妖薩滿
@@ -2657,7 +2657,7 @@ dream_random09,"You lie on the battlefield, dreaming eyes turned upward to a sky
 戰友們的呼喊變得越來越微弱，你的雙眼再次闔上了。
 巨大的禽爪滑到你的身下，你感到自己不斷地上升，
 從身體裡被拎起，仿佛嬰兒從搖籃裡被抱起……"
-dream_random10,You fall into the deep well of sleep and dream only of darkness.,"你陷入深沉的睡眠，只夢見一片黑暗。"
+dream_random10,You fall into the deep well of sleep and dream only of darkness.,你陷入深沉的睡眠，只夢見一片黑暗。
 dream_random11,"You dream of a bright hall filled with gracious warriors and fair maidens. The air hums with song, the boards groan under the weight of steaming dishes, the mead flows like water.
 
 You awake slowly with the laughter still ringing in your ears…","你夢見一座明亮的大殿，裡面擠滿了高尚的戰士
@@ -2981,7 +2981,7 @@ interface_leftarrow,<,<
 chat_entermessage,Enter chat message,輸入聊天訊息
 hud_namepin,Name your pin,命名標記
 location_mountaincave,Frost Caves,冰霜洞穴
-enemy_ulv,Ulv,邪狼
+enemy_ulv,Ulv,魔狼
 event_caves_start,Howls echo from the depths,深處傳來一陣狼嚎
 event_caves_end,The howls fade,狼嚎逐漸遠去
 lore_cavepainting_label,Ancient cave markings,古老洞穴壁畫
@@ -3002,17 +3002,17 @@ item_helmet_fenris_description,"The eyes of the beast were wise and knowing, so 
 item_fistweapon_fenris,Flesh rippers,開膛拳爪
 item_fistweapon_fenris_description,"If claws work for wolves, why not for a viking?","既然狼可以用爪子戰鬥，為什麼維京戰士
 不能呢？"
-enemy_fenringcultist,Cultist,邪教徒
+enemy_fenringcultist,Cultist,魔狼教徒
 enemy_bat,Bat,蝙蝠
 piece_brazierfloor01,Standing brazier,立式火盆
 piece_clothdoor,Red jute curtain,紅麻帷幔
 piece_jute_carpet,Red jute carpet,紅麻地毯
 item_jutered,Red jute,紅麻
 item_jutered_description,"A sturdy, rough fabric.",堅固粗糙的織物。
-item_trophy_ulv,Ulv trophy,邪狼戰利品
+item_trophy_ulv,Ulv trophy,魔狼戰利品
 item_trophy_ulv_description,A rugged tail from a not so good boy.,壞狼狼的毛糙尾巴。
 item_trophy_ulv_lore,A rugged tail from a not so good boy.,壞狼狼的毛糙尾巴。
-item_trophy_cultist,Cultist trophy,邪教徒戰利品
+item_trophy_cultist,Cultist trophy,魔狼教徒戰利品
 item_trophy_cultist_description,The fire in its eyes has still not burned out.,牠眼中的火仍未熄滅。
 item_trophy_cultist_lore,The fire in its eyes has still not burned out.,牠眼中的火仍未熄滅。
 lore_caveman01,"The depths of the cave promised me riches.
