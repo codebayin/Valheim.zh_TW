@@ -2996,7 +2996,7 @@ item_wolfhairbundle_description,"A bundle of thick, rough hair. It has a strong 
 item_chest_fenris,Fenris coat,芬里爾大衣
 item_chest_fenris_description,"The beast could draw deep breaths, so that its howl could be heard far across the land.",這頭野獸只要深吸一口氣，牠的狼嚎就能響徹整個大地。
 item_legs_fenris,Fenris leggings,芬里爾護脛
-item_legs_fenris_description,"The legs of the beast was lean and strong, so that it could leap great strides.",這頭野獸的腿精壯結實，所以牠能大步地跳躍。
+item_legs_fenris_description,"The legs of the beast were lean and strong, so that it could leap great strides.",這頭野獸的腿精壯結實，所以牠能大步地跳躍。
 item_helmet_fenris,Fenris hood,芬里爾兜帽
 item_helmet_fenris_description,"The eyes of the beast were wise and knowing, so that it could measure the strength of a warrior in one glance.",這頭野獸的雙眼睿智深邃，一眼就能看出戰士的實力。
 item_fistweapon_fenris,Flesh rippers,開膛拳爪
@@ -3043,3 +3043,11 @@ wolf_statue,Fenris shrine,芬里爾神壇
 event_bats_start,You stirred the cauldron,你攪起了一場混亂
 event_bats_end,The cauldron calms,混亂平靜下來了
 settings_place,Place,放置
+item_tankard_anniversary,Horn of Celebration,慶典角杯
+item_tankard_anniversary_description,One year since we arrived... Skål!,慶祝我們來到這裡一年了，乾杯！
+enemy_boss_bonemass_spawnmessage,The Mass is moving,
+enemy_boss_bonemass_deathmessage,The Mass is no longer moving,
+enemy_boss_dragon_spawnmessage,Moder enraged,
+enemy_boss_dragon_deathmessage,Moder in tears,
+enemy_boss_goblinking_spawnmessage,Yagluths twisted soul has been summoned,
+enemy_boss_goblinking_deathmessage,Yagluths soul has been defeated,

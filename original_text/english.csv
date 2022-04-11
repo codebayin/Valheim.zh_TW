@@ -2285,7 +2285,7 @@ item_wolfhairbundle_description,"A bundle of thick, rough hair. It has a strong 
 item_chest_fenris,Fenris coat
 item_chest_fenris_description,"The beast could draw deep breaths, so that its howl could be heard far across the land."
 item_legs_fenris,Fenris leggings
-item_legs_fenris_description,"The legs of the beast was lean and strong, so that it could leap great strides."
+item_legs_fenris_description,"The legs of the beast were lean and strong, so that it could leap great strides."
 item_helmet_fenris,Fenris hood
 item_helmet_fenris_description,"The eyes of the beast were wise and knowing, so that it could measure the strength of a warrior in one glance."
 item_fistweapon_fenris,Flesh rippers
@@ -2320,3 +2320,11 @@ wolf_statue,Fenris shrine
 event_bats_start,You stirred the cauldron
 event_bats_end,The cauldron calms
 settings_place,Place
+item_tankard_anniversary,Horn of Celebration
+item_tankard_anniversary_description,One year since we arrived... Skål!
+enemy_boss_bonemass_spawnmessage,The Mass is moving
+enemy_boss_bonemass_deathmessage,The Mass is no longer moving
+enemy_boss_dragon_spawnmessage,Moder enraged
+enemy_boss_dragon_deathmessage,Moder in tears
+enemy_boss_goblinking_spawnmessage,Yagluths twisted soul has been summoned
+enemy_boss_goblinking_deathmessage,Yagluths soul has been defeated
