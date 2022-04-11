@@ -1421,12 +1421,12 @@ event_boss01_start,Eikthyr is awakened,橡神鹿被喚醒了
 event_boss01_end,Eikthyr defeated,橡神鹿被擊敗了
 event_boss02_start,The Elder is awakened,古老樹妖被喚醒了
 event_boss02_end,The Elder defeated,古老樹妖被擊敗了
-event_boss03_start,Bonemass is awakened,骨泥聚合體正在移動
-event_boss03_end,Bonemass defeated,骨泥聚合體再也不能移動了
-event_boss04_start,Moder is awakened,亞龍龍母被激怒了
-event_boss04_end,Moder defeated,亞龍龍母流下了眼淚
-event_boss05_start,King Yagluth is awakened,亞古魯斯扭曲的靈魂被召喚了
-event_boss05_end,King Yagluth defeated,亞古魯斯的靈魂被擊敗了
+event_boss03_start,Bonemass is awakened,骨泥聚合體被喚醒了
+event_boss03_end,Bonemass defeated,骨泥聚合體被擊敗了
+event_boss04_start,Moder is awakened,亞龍龍母被喚醒了
+event_boss04_end,Moder defeated,亞龍龍母被擊敗了
+event_boss05_start,King Yagluth is awakened,亞古魯斯王被喚醒了
+event_boss05_end,King Yagluth defeated,亞古魯斯王被擊敗了
 ,,
 ,,
 skill_swords,Swords,劍
@@ -3045,9 +3045,9 @@ event_bats_end,The cauldron calms,混亂平靜下來了
 settings_place,Place,放置
 item_tankard_anniversary,Horn of Celebration,慶典角杯
 item_tankard_anniversary_description,One year since we arrived... Skål!,慶祝我們來到這裡一年了，乾杯！
-enemy_boss_bonemass_spawnmessage,The Mass is moving,
-enemy_boss_bonemass_deathmessage,The Mass is no longer moving,
-enemy_boss_dragon_spawnmessage,Moder enraged,
-enemy_boss_dragon_deathmessage,Moder in tears,
-enemy_boss_goblinking_spawnmessage,Yagluths twisted soul has been summoned,
-enemy_boss_goblinking_deathmessage,Yagluths soul has been defeated,
+enemy_boss_bonemass_spawnmessage,The Mass is moving,骨泥聚合體正在移動
+enemy_boss_bonemass_deathmessage,The Mass is no longer moving,骨泥聚合體再也不能移動了
+enemy_boss_dragon_spawnmessage,Moder enraged,亞龍龍母被激怒了
+enemy_boss_dragon_deathmessage,Moder in tears,亞龍龍母流下了眼淚
+enemy_boss_goblinking_spawnmessage,Yagluths twisted soul has been summoned,亞古魯斯扭曲的靈魂被召喚了
+enemy_boss_goblinking_deathmessage,Yagluths soul has been defeated,亞古魯斯的靈魂被擊敗了
