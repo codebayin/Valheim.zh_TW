@@ -2112,12 +2112,10 @@ prop_offerbowl_makeoffer,Offer sacrifice,獻祭
 ,,
 ,,
 menu_server_warning,Warning,警告
-menu_server_info,Beware that joining any online server will put your game character at risk. It might be a good idea to create a separate character when playing online to reduce the risk of losing precious possessions. Also be aware that there is always a risk of encountering cheaters and griefers when playing online. Good luck!,"請注意，加入任何線上伺服器都可能
-會讓你的角色面臨風險。最好是建立
-單獨的角色進行連線，以降低失去寶
-貴財物的風險。另外要注意，連線時
-有可能會遇到作弊和搗亂的人。祝您
-好運！"
+menu_server_info,Beware that joining any online server will put your game character at risk. It might be a good idea to create a separate character when playing online to reduce the risk of losing precious possessions. Also be aware that there is always a risk of encountering cheaters and griefers when playing online. Good luck!,"注意，加入任何線上伺服器會讓你的角色處於
+風險之中。最好是建立單獨的角色進行連線，
+以降低失去寶貴財物的風險。另外注意，連線
+時有可能會遇到作弊和搗亂的人。祝您好運！"
 ,,
 ,,
 loadscreen_tip01,"Don't forget to upgrade your crafting stations, weapons and armor.",別忘了升級你的製作檯、武器和防具。
@@ -3051,22 +3049,38 @@ enemy_boss_dragon_spawnmessage,Moder enraged,亞龍龍母被激怒了
 enemy_boss_dragon_deathmessage,Moder in tears,亞龍龍母流下了眼淚
 enemy_boss_goblinking_spawnmessage,Yagluths twisted soul has been summoned,亞古魯斯扭曲的靈魂被召喚了
 enemy_boss_goblinking_deathmessage,Yagluths soul has been defeated,亞古魯斯的靈魂被擊敗了
-settings_cloudsave,Cloud Save
-settings_localsave,Local Save
-settings_legacysave,Legacy Save
-menu_legacynotice,"Please note that this file is currently kept in the old file structure which could cause sync conflicts and data loss. It will be moved to the Steam Cloud on your next save. If you have disabled Steam Cloud saves, it will be saved in the new non-synced folder. A local backup will always be kept when files are moved."
-menu_legacynotice_worlds,"If you prefer to keep the file in an un-synced local folder, use the <color=orange>Move to Local</color> button. This is mainly recommended for dedicated servers, or if you wish to play in the same world with different accounts on the same computer. If you have manually disabled Steam Cloud it will be moved to the new un-synced local folder."
-menu_cloudsavesdisabled,You have disabled Steam Cloud saves in your Steam preferences. Any worlds and characters saved on the Cloud will not be visible here. Enable Steam Cloud saves to access them again.
-menu_movetocloud,Move to Cloud
-menu_movetolocal,Move to Local
-menu_pleasewait,Please Wait
+settings_cloudsave,Cloud Save,雲端存檔
+settings_localsave,Local Save,本地存檔
+settings_legacysave,Legacy Save,舊版存檔
+menu_legacynotice,"Please note that this file is currently kept in the old file structure which could cause sync conflicts and data loss. It will be moved to the Steam Cloud on your next save. If you have disabled Steam Cloud saves, it will be saved in the new non-synced folder. A local backup will always be kept when files are moved.","請注意，此存檔目前儲存在舊的檔案結構中，
+這可能會導致同步衝突和數據遺失。它將會在
+您下次儲存時被移至 Steam 雲端。如果您停
+用了 Steam 雲端存檔，它將會被儲存在新的
+非同步資料夾中。當檔案被移動時，本地備份
+都會保留。"
+menu_legacynotice_worlds,"If you prefer to keep the file in an un-synced local folder, use the <color=orange>Move to Local</color> button. This is mainly recommended for dedicated servers, or if you wish to play in the same world with different accounts on the same computer. If you have manually disabled Steam Cloud it will be moved to the new un-synced local folder.","如果您想要將存檔儲存在非同步的本地資料夾
+中，請使用「移至本地」按鈕。這主要是推薦
+用於專屬伺服器，或者您想在同一臺電腦上，
+使用不同的帳號玩同一個世界。如果您手動停
+用了 Steam 雲端，它將會被移至新的非同步
+本地資料夾中。"
+menu_cloudsavesdisabled,You have disabled Steam Cloud saves in your Steam preferences. Any worlds and characters saved on the Cloud will not be visible here. Enable Steam Cloud saves to access them again.,"您已經停用了 Steam 雲端存檔。儲存在雲端
+的任何世界和角色都不會在此處顯示。
+啟用 Steam 雲端存檔以再次存取它們吧。"
+menu_movetocloud,Move to Cloud,移至雲端
+menu_movetolocal,Move to Local,移至本地
+menu_pleasewait,Please Wait,請稍候
 inventory_drop,Drop,丟棄
 inventory_tabs,Change window,變更視窗
 menu_mod_notice,"You are playing a modded version of Valheim.
-Please note that this may change the original game experience. If you are experiencing any issues, please first uninstall all mods before reporting it. If there has been a patch recently, some mods that previously worked may be broken until they are updated."
-item_helmet_midsummercrown,Midsummer Crown
-item_helmet_midsummercrown_description,Celebrate summer with a crown woven from flowers.
-piece_banner08,Yellow banner
-piece_banner09,Purple banner
-piece_banner10,Orange banner
-piece_banner11,White banner
+Please note that this may change the original game experience. If you are experiencing any issues, please first uninstall all mods before reporting it. If there has been a patch recently, some mods that previously worked may be broken until they are updated.","您正在玩的是模組修改版的《英靈界》。
+請注意，這可能會改變原有的遊戲體驗。如果
+您遇到任何問題，請先卸載所有模組，然後再
+進行回報。如果近期遊戲有更新，一些以前能
+用的模組可能會損壞，直到模組更新。"
+item_helmet_midsummercrown,Midsummer Crown,仲夏花冠
+item_helmet_midsummercrown_description,Celebrate summer with a crown woven from flowers.,用鮮花編織的花冠來慶祝夏天吧。
+piece_banner08,Yellow banner,黃色旗幟
+piece_banner09,Purple banner,紫色旗幟
+piece_banner10,Orange banner,橙色旗幟
+piece_banner11,White banner,白色旗幟
