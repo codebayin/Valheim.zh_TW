@@ -35,7 +35,7 @@ language_croatian,Croatian*,
 language_georgian,ქართული*,
 language_serbian,Serbian*,
 language_hindi,हिन्दी*,
-language_latvian,Latviski,
+language_latvian,Latviski*,
 menu_startgame,Start Game,開始遊戲
 menu_joingame,Join Game,加入遊戲
 menu_settings,Settings,設定
@@ -3051,3 +3051,22 @@ enemy_boss_dragon_spawnmessage,Moder enraged,亞龍龍母被激怒了
 enemy_boss_dragon_deathmessage,Moder in tears,亞龍龍母流下了眼淚
 enemy_boss_goblinking_spawnmessage,Yagluths twisted soul has been summoned,亞古魯斯扭曲的靈魂被召喚了
 enemy_boss_goblinking_deathmessage,Yagluths soul has been defeated,亞古魯斯的靈魂被擊敗了
+settings_cloudsave,Cloud Save
+settings_localsave,Local Save
+settings_legacysave,Legacy Save
+menu_legacynotice,"Please note that this file is currently kept in the old file structure which could cause sync conflicts and data loss. It will be moved to the Steam Cloud on your next save. If you have disabled Steam Cloud saves, it will be saved in the new non-synced folder. A local backup will always be kept when files are moved."
+menu_legacynotice_worlds,"If you prefer to keep the file in an un-synced local folder, use the <color=orange>Move to Local</color> button. This is mainly recommended for dedicated servers, or if you wish to play in the same world with different accounts on the same computer. If you have manually disabled Steam Cloud it will be moved to the new un-synced local folder."
+menu_cloudsavesdisabled,You have disabled Steam Cloud saves in your Steam preferences. Any worlds and characters saved on the Cloud will not be visible here. Enable Steam Cloud saves to access them again.
+menu_movetocloud,Move to Cloud
+menu_movetolocal,Move to Local
+menu_pleasewait,Please Wait
+inventory_drop,Drop,丟棄
+inventory_tabs,Change window,變更視窗
+menu_mod_notice,"You are playing a modded version of Valheim.
+Please note that this may change the original game experience. If you are experiencing any issues, please first uninstall all mods before reporting it. If there has been a patch recently, some mods that previously worked may be broken until they are updated."
+item_helmet_midsummercrown,Midsummer Crown
+item_helmet_midsummercrown_description,Celebrate summer with a crown woven from flowers.
+piece_banner08,Yellow banner
+piece_banner09,Purple banner
+piece_banner10,Orange banner
+piece_banner11,White banner
