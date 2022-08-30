@@ -1,1 +1,3 @@
 ﻿Context,English,Traditional_Chinese
+settings_autobackup,"Auto backup history",
+error_worldfileload,"Error loading world file. Check backups!",

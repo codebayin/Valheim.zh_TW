@@ -1,1 +1,3 @@
 ﻿Context,English,Swedish,French,Italian,German,Spanish,Russian,Romanian,Bulgarian,Macedonian,Finnish,Danish,Norwegian,Icelandic,Turkish,Lithuanian,Czech,Hungarian,Slovak,Polish,Dutch,Portuguese_European,Portuguese_Brazilian,Chinese,Japanese,Korean,Hindi,Thai,Abenaki,Croatian,Georgian,Greek,Serbian,Ukrainian,Latvian
+settings_autobackup,"Auto backup history"
+error_worldfileload,"Error loading world file. Check backups!"

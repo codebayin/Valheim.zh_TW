@@ -1,1 +1,3 @@
 ﻿Context,English
+settings_autobackup,Auto backup history
+error_worldfileload,Error loading world file. Check backups!
