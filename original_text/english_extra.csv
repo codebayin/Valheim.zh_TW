@@ -1,3 +1,50 @@
 ﻿Context,English
 settings_autobackup,Auto backup history
+menu_joincode,Join Code $1
 error_worldfileload,Error loading world file. Check backups!
+menu_crossplayserver,Crossplay
+menu_favorite,Favorite
+menu_recent,Recent
+menu_addserver,Add server
+menu_addserverfailed,Failed to add server!
+menu_addserverfailedincorrectformatting,"The input is not a valid IP, URL or invite code!"
+menu_addserverfailedresolvejoincode,Couldn't resolve join code
+menu_enteripinvite,Enter IP or invite code
+menu_ipportorinvitecode,[IP/URL]:[port] or [6 digit invite code]
+menu_removeserver,Remove server?
+menu_cloudstoragefull,Your cloud storage is full!
+menu_cloudstoragefulloperationfailed,This operation failed because your cloud storage is full. Please move some worlds to local storage and try again.
+menu_cloudstoragefullworldprompt,Would you like to save this world to local storage instead?
+menu_cloudstoragefullcharacterprompt,Would you like to save this character to local storage instead?
+menu_cloudstoragefullmovingsave,"To prevent data loss, save data for the current session may be moved to local storage."
+menu_newworldalreadyexists,World already exists!
+menu_newworldalreadyexistsmessage,A world named $1 already exists
+menu_acceptedinvite,You accepted an invite!
+menu_joindifferentserver,You're about to join a different server!
+menu_logoutprompt,Are you sure you want to log out of the current session?
+menu_gamepreviewpopupheader,Valheim is in Game Preview
+menu_gamepreviewpopuptext,Some platform- or game features might not work correctly and the game might crash.
+msg_worldsavedcloudstoragefull,Cloud storage full! World was moved to local storage and saved
+menu_managesaves,Manage saves
+menu_worlds,Worlds
+menu_characters,Characters
+menu_backupcount,$1 backups
+menu_deleted,Deleted
+menu_expand,Expand
+menu_collapse,Collapse
+menu_restorebackup,Restore backup
+menu_cloudstorageused,Cloud storage used: $1/$2
+menu_backuprestorefailedheader,Failed to restore backup!
+menu_movefailedheader,Failed to move file!
+menu_tryagainorrestart,Please try again or restart the game if the problem persists
+menu_backuprestorepromptheader,Restore backup?
+menu_backuprestorepromptrecover,Deleted file $1 will be restored from $2.
+menu_backuprestorepromptreplace,The current version of $1 will be backed up and replaced by $2.
+menu_removebackup,Remove backup?
+menu_duplicatefilepromptheader,Can't move save
+menu_duplicatefileprompttext,There's already a save with the name $1 in the destination location.
+menu_reloadfailed,Failed to reload saves
+menu_checklogfile,Please check the Player.log file for more information
+hud_crossoffpin,Cross off pin
+menu_disallowedcharactername,Can't create a character with this name
+menu_textcontainsbannedword,The text contains banned words

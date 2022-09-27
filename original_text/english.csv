@@ -22,7 +22,8 @@ language_greek,Ελληνικά*
 language_ukrainian,українська
 language_portuguese_european,Português europeu*
 language_portuguese_brazilian,Português (Brasil)
-language_chinese,中文
+language_chinese,简体中文
+language_chinese_trad,繁體中文
 language_japanese,日本語
 language_korean,한국어
 language_norwegian,Norsk*
@@ -1914,7 +1915,7 @@ lore_blackforest_random09,"Raised by the Old Man of the Forest from seeds of sin
 lore_blackforest_random10,"Which among you was a murderer, a kin-slayer, a renegade? Who turned a blade in their brother's back? Who tore babes from their mothers' arms, set fire to the houses of the plundered? Consider it a blessing that you remember nothing. Each among you is a great warrior, and warriors' souls are never clean.
 
 But Odin has gifted you a second chance... Praise the Allfather!"
-lore_blackforest_random11,"Look to the sky where mighty Yggdrasil reaches out, called by the Forsaken Ones to join itself once more with this wayward world. It is a glorious sight but a dreadful one. For as the great tree bends out across the void, it's branches strain and crack, felt in the remaining nine worlds as quakings of the earth, great storms and holy fires. The Forsaken must be slain and balance restored."
+lore_blackforest_random11,"Look to the sky where mighty Yggdrasil reaches out, called by the Forsaken Ones to join itself once more with this wayward world. It is a glorious sight but a dreadful one. For as the great tree bends out across the void, its branches strain and crack, felt in the remaining nine worlds as quakings of the earth, great storms and holy fires. The Forsaken must be slain and balance restored."
 lore_blackforest_random12,"Astrid will not look at me twice. I leave this stone to honour great Freya. O goddess, grant me a beard like Bjorn's that I might win her heart!"
 lore_blackforest_random13,"I have been reborn many times in this world. I have died again and again only to awaken in my own house. Yet still I wonder how many more times I will return like this. Frida was taken by a serpent and her bed lies empty still. Bjarni was bitten in half by a troll and neither half has been seen since...
 
@@ -2331,9 +2332,9 @@ enemy_boss_goblinking_deathmessage,Yagluths soul has been defeated
 settings_cloudsave,Cloud Save
 settings_localsave,Local Save
 settings_legacysave,Legacy Save
-menu_legacynotice,"Please note that this file is currently kept in the old file structure which could cause sync conflicts and data loss. It will be moved to the Steam Cloud on your next save. If you have disabled Steam Cloud saves, it will be saved in the new non-synced folder. A local backup will always be kept when files are moved."
-menu_legacynotice_worlds,"If you prefer to keep the file in an un-synced local folder, use the <color=orange>Move to Local</color> button. This is mainly recommended for dedicated servers, or if you wish to play in the same world with different accounts on the same computer. If you have manually disabled Steam Cloud it will be moved to the new un-synced local folder."
-menu_cloudsavesdisabled,You have disabled Steam Cloud saves in your Steam preferences. Any worlds and characters saved on the Cloud will not be visible here. Enable Steam Cloud saves to access them again.
+menu_legacynotice,"Please note that this file is currently kept in the old file structure which could cause sync conflicts and data loss. It will be moved to the Cloud on your next save. If you have disabled Cloud saves, it will be saved in the new non-synced folder. A local backup will always be kept when files are moved."
+menu_legacynotice_worlds,"If you prefer to keep the file in an un-synced local folder, use the <color=orange>Move to Local</color> button. This is mainly recommended for dedicated servers, or if you wish to play in the same world with different accounts on the same computer. If you have manually disabled Cloud it will be moved to the new un-synced local folder."
+menu_cloudsavesdisabled,You have disabled Cloud saves in your preferences. Any worlds and characters saved on the Cloud will not be visible here. Enable Cloud saves to access them again.
 menu_movetocloud,Move to Cloud
 menu_movetolocal,Move to Local
 menu_pleasewait,Please Wait

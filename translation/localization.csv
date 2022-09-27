@@ -1,4 +1,4 @@
-﻿Context,English,Traditional_Chinese
+﻿Context,English,Chinese_Trad
 language_english,English,
 language_swedish,Svenska*,
 language_french,Français,
@@ -22,8 +22,8 @@ language_greek,Ελληνικά*,
 language_ukrainian,українська,
 language_portuguese_european,Português europeu*,
 language_portuguese_brazilian,Português (Brasil),
-language_chinese,中文,
-language_traditional_chinese,正體中文,
+language_chinese,简体中文,
+language_chinese_trad,正體中文,
 language_japanese,日本語,
 language_korean,한국어,
 language_norwegian,Norsk*,
@@ -2446,7 +2446,7 @@ But Odin has gifted you a second chance... Praise the Allfather!","你們當中�
 而戰士的靈魂從來不是清澈的。
 
 但奧丁賜予了你們第二次機會……讚美諸神之父！"
-lore_blackforest_random11,"Look to the sky where mighty Yggdrasil reaches out, called by the Forsaken Ones to join itself once more with this wayward world. It is a glorious sight but a dreadful one. For as the great tree bends out across the void, it's branches strain and crack, felt in the remaining nine worlds as quakings of the earth, great storms and holy fires. The Forsaken must be slain and balance restored.","看那遍布巨大世界樹的天空，在放逐者們的召喚下，
+lore_blackforest_random11,"Look to the sky where mighty Yggdrasil reaches out, called by the Forsaken Ones to join itself once more with this wayward world. It is a glorious sight but a dreadful one. For as the great tree bends out across the void, its branches strain and crack, felt in the remaining nine worlds as quakings of the earth, great storms and holy fires. The Forsaken must be slain and balance restored.","看那遍布巨大世界樹的天空，在放逐者們的召喚下，
 再次與這個失控世界連接。這是個壯觀但又可怕的景象。
 因為當巨樹橫跨虛空蜿蜒時，它的枝條會繃緊而開裂，
 在其餘九個世界裡都能感受到大地、風暴和聖火的震盪。
@@ -3052,21 +3052,21 @@ enemy_boss_goblinking_deathmessage,Yagluths soul has been defeated,亞古魯斯�
 settings_cloudsave,Cloud Save,雲端存檔
 settings_localsave,Local Save,本地存檔
 settings_legacysave,Legacy Save,舊版存檔
-menu_legacynotice,"Please note that this file is currently kept in the old file structure which could cause sync conflicts and data loss. It will be moved to the Steam Cloud on your next save. If you have disabled Steam Cloud saves, it will be saved in the new non-synced folder. A local backup will always be kept when files are moved.","請注意，此存檔目前儲存在舊的檔案結構中，
+menu_legacynotice,"Please note that this file is currently kept in the old file structure which could cause sync conflicts and data loss. It will be moved to the Cloud on your next save. If you have disabled Cloud saves, it will be saved in the new non-synced folder. A local backup will always be kept when files are moved.","請注意，此存檔目前儲存在舊的檔案結構中，
 這可能會導致同步衝突和數據遺失。它將會在
-您下次儲存時被移至 Steam 雲端。如果您停
-用了 Steam 雲端存檔，它將會被儲存在新的
-非同步資料夾中。當檔案被移動時，本地備份
-都會保留。"
-menu_legacynotice_worlds,"If you prefer to keep the file in an un-synced local folder, use the <color=orange>Move to Local</color> button. This is mainly recommended for dedicated servers, or if you wish to play in the same world with different accounts on the same computer. If you have manually disabled Steam Cloud it will be moved to the new un-synced local folder.","如果您想要將存檔儲存在非同步的本地資料夾
+您下次儲存時被移至雲端。如果您停用了雲端
+存檔，它將會被儲存在新的非同步資料夾中。
+當檔案被移動時，本地備份都會保留。"
+menu_legacynotice_worlds,"If you prefer to keep the file in an un-synced local folder, use the <color=orange>Move to Local</color> button. This is mainly recommended for dedicated servers, or if you wish to play in the same world with different accounts on the same computer. If you have manually disabled Cloud it will be moved to the new un-synced local folder.","如果您想要將存檔儲存在非同步的本地資料夾
 中，請使用「移至本地」按鈕。這主要是推薦
 用於專屬伺服器，或者您想在同一臺電腦上，
 使用不同的帳號玩同一個世界。如果您手動停
-用了 Steam 雲端，它將會被移至新的非同步
-本地資料夾中。"
-menu_cloudsavesdisabled,You have disabled Steam Cloud saves in your Steam preferences. Any worlds and characters saved on the Cloud will not be visible here. Enable Steam Cloud saves to access them again.,"您已經停用了 Steam 雲端存檔。儲存在雲端
-的任何世界和角色都不會在此處顯示。
-啟用 Steam 雲端存檔以再次存取它們吧。"
+用了雲端，它將會被移至新的非同步本地資料
+夾中。"
+menu_cloudsavesdisabled,You have disabled Cloud saves in your preferences. Any worlds and characters saved on the Cloud will not be visible here. Enable Cloud saves to access them again.,"
+您已經停用了雲端存檔。儲存在雲端的任何世
+界和角色都不會在此處顯示。
+啟用雲端存檔以再次存取它們吧。"
 menu_movetocloud,Move to Cloud,移至雲端
 menu_movetolocal,Move to Local,移至本地
 menu_pleasewait,Please Wait,請稍候
