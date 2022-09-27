@@ -1,50 +1,51 @@
 ﻿Context,English,Chinese_Trad
 settings_autobackup,"Auto backup history",自動備份存檔
-menu_joincode,Join Code $1,
+menu_joincode,Join Code $1,邀請碼：$1
 error_worldfileload,"Error loading world file. Check backups!",載入世界存檔時發生錯誤。請檢查備份！
-menu_crossplayserver,Crossplay,
-menu_favorite,Favorite,
-menu_recent,Recent,
-menu_addserver,Add server,
-menu_addserverfailed,Failed to add server!,
-menu_addserverfailedincorrectformatting,"The input is not a valid IP, URL or invite code!",
-menu_addserverfailedresolvejoincode,Couldn't resolve join code,
-menu_enteripinvite,Enter IP or invite code,
-menu_ipportorinvitecode,[IP/URL]:[port] or [6 digit invite code],
-menu_removeserver,Remove server?,
-menu_cloudstoragefull,Your cloud storage is full!,
-menu_cloudstoragefulloperationfailed,This operation failed because your cloud storage is full. Please move some worlds to local storage and try again.,
-menu_cloudstoragefullworldprompt,Would you like to save this world to local storage instead?,
-menu_cloudstoragefullcharacterprompt,Would you like to save this character to local storage instead?,
-menu_cloudstoragefullmovingsave,"To prevent data loss, save data for the current session may be moved to local storage.",
-menu_newworldalreadyexists,World already exists!,
-menu_newworldalreadyexistsmessage,A world named $1 already exists,
-menu_acceptedinvite,You accepted an invite!,
-menu_joindifferentserver,You're about to join a different server!,
-menu_logoutprompt,Are you sure you want to log out of the current session?,
-menu_gamepreviewpopupheader,Valheim is in Game Preview,
-menu_gamepreviewpopuptext,Some platform- or game features might not work correctly and the game might crash.,
-msg_worldsavedcloudstoragefull,Cloud storage full! World was moved to local storage and saved,
-menu_managesaves,Manage saves,
-menu_worlds,Worlds,
-menu_characters,Characters,
-menu_backupcount,$1 backups,
-menu_deleted,Deleted,
-menu_expand,Expand,
-menu_collapse,Collapse,
-menu_restorebackup,Restore backup,
-menu_cloudstorageused,Cloud storage used: $1/$2,
-menu_backuprestorefailedheader,Failed to restore backup!,
-menu_movefailedheader,Failed to move file!,
-menu_tryagainorrestart,Please try again or restart the game if the problem persists,
-menu_backuprestorepromptheader,Restore backup?,
-menu_backuprestorepromptrecover,Deleted file $1 will be restored from $2.,
-menu_backuprestorepromptreplace,The current version of $1 will be backed up and replaced by $2.,
-menu_removebackup,Remove backup?,
-menu_duplicatefilepromptheader,Can't move save,
-menu_duplicatefileprompttext,There's already a save with the name $1 in the destination location.,
-menu_reloadfailed,Failed to reload saves,
-menu_checklogfile,Please check the Player.log file for more information,
-hud_crossoffpin,Cross off pin,
-menu_disallowedcharactername,Can't create a character with this name,
-menu_textcontainsbannedword,The text contains banned words,
+menu_crossplayserver,Crossplay,跨平台
+menu_favorite,Favorite,最愛
+menu_recent,Recent,最近
+menu_addserver,Add server,添加伺服器
+menu_addserverfailed,Failed to add server!,添加伺服器失敗！
+menu_addserverfailedincorrectformatting,"The input is not a valid IP, URL or invite code!",輸入的IP、URL或邀請碼無效！
+menu_addserverfailedresolvejoincode,Couldn't resolve join code,無法解析邀請碼
+menu_enteripinvite,Enter IP or invite code,輸入IP或邀請碼
+menu_ipportorinvitecode,[IP/URL]:[port] or [6 digit invite code],[IP/URL]:[連接埠]或[6位數邀請碼]
+menu_removeserver,Remove server?,是否刪除伺服器？
+menu_cloudstoragefull,Your cloud storage is full!,您的雲端空間已滿！
+menu_cloudstoragefulloperationfailed,This operation failed because your cloud storage is full. Please move some worlds to local storage and try again.,"由於您的雲端空間已滿，此操作失敗。
+請將部分世界移至本地，然後再試一次。"
+menu_cloudstoragefullworldprompt,Would you like to save this world to local storage instead?,您想要將此世界改儲存到本地嗎？
+menu_cloudstoragefullcharacterprompt,Would you like to save this character to local storage instead?,您想要將此角色改儲存到本地嗎？
+menu_cloudstoragefullmovingsave,"To prevent data loss, save data for the current session may be moved to local storage.",為避免數據遺失，目前遊戲階段的存檔可能會移至本地。
+menu_newworldalreadyexists,World already exists!,世界已存在！
+menu_newworldalreadyexistsmessage,A world named $1 already exists,名稱為 $1 的世界已存在。
+menu_acceptedinvite,You accepted an invite!,您接受了邀請！
+menu_joindifferentserver,You're about to join a different server!,您即將加入別的伺服器！
+menu_logoutprompt,Are you sure you want to log out of the current session?,您確定要登出目前遊戲階段嗎？
+menu_gamepreviewpopupheader,Valheim is in Game Preview,《英靈界》搶先體驗中
+menu_gamepreviewpopuptext,Some platform- or game features might not work correctly and the game might crash.,部分平台或遊戲功能可能會無法正常運作，遊戲可能會當掉。
+msg_worldsavedcloudstoragefull,Cloud storage full! World was moved to local storage and saved,雲端空間已滿！世界已移至本地並儲存
+menu_managesaves,Manage saves,管理存檔
+menu_worlds,Worlds,世界
+menu_characters,Characters,角色
+menu_backupcount,$1 backups,$1 個備份
+menu_deleted,Deleted,已刪除
+menu_expand,Expand,展開
+menu_collapse,Collapse,摺疊
+menu_restorebackup,Restore backup,還原備份
+menu_cloudstorageused,Cloud storage used: $1/$2,已使用雲端空間：$1/$2
+menu_backuprestorefailedheader,Failed to restore backup!,還原備份失敗！
+menu_movefailedheader,Failed to move file!,移動檔案失敗！
+menu_tryagainorrestart,Please try again or restart the game if the problem persists,如果問題仍然存在，請重試或重新啟動遊戲。
+menu_backuprestorepromptheader,Restore backup?,是否還原備份？
+menu_backuprestorepromptrecover,Deleted file $1 will be restored from $2.,已刪除的存檔 $1 將從 $2 還原。
+menu_backuprestorepromptreplace,The current version of $1 will be backed up and replaced by $2.,目前版本的 $1 將被備份，並被 $2 取代。
+menu_removebackup,Remove backup?,是否刪除備份？
+menu_duplicatefilepromptheader,Can't move save,無法移動存檔
+menu_duplicatefileprompttext,There's already a save with the name $1 in the destination location.,目標位置已有名稱為 $1 的存檔。
+menu_reloadfailed,Failed to reload saves,重新載入存檔失敗
+menu_checklogfile,Please check the Player.log file for more information,請檢查 Player.log 以了解更多詳情。
+hud_crossoffpin,Cross off pin,打叉標記
+menu_disallowedcharactername,Can't create a character with this name,無法用此名稱建立角色。
+menu_textcontainsbannedword,The text contains banned words,文字中含有禁詞。
