@@ -13,8 +13,7 @@ menu_enteripinvite,Enter IP or invite code,輸入IP或邀請碼
 menu_ipportorinvitecode,[IP/URL]:[port] or [6 digit invite code],[IP/URL]:[連接埠]或[6位數邀請碼]
 menu_removeserver,Remove server?,是否刪除伺服器？
 menu_cloudstoragefull,Your cloud storage is full!,您的雲端空間已滿！
-menu_cloudstoragefulloperationfailed,This operation failed because your cloud storage is full. Please move some worlds to local storage and try again.,"由於您的雲端空間已滿，此操作失敗。
-請將部分世界移至本地，然後再試一次。"
+menu_cloudstoragefulloperationfailed,This operation failed because your cloud storage is full. Please move some worlds to local storage and try again.,"由於您的雲端空間已滿，此操作失敗。請將部分世界移至本地，然後再試一次。"
 menu_cloudstoragefullworldprompt,Would you like to save this world to local storage instead?,您想要將此世界改儲存到本地嗎？
 menu_cloudstoragefullcharacterprompt,Would you like to save this character to local storage instead?,您想要將此角色改儲存到本地嗎？
 menu_cloudstoragefullmovingsave,"To prevent data loss, save data for the current session may be moved to local storage.",為避免數據遺失，目前遊戲階段的存檔可能會移至本地。
@@ -48,7 +47,7 @@ menu_reloadfailed,Failed to reload saves,重新載入存檔失敗
 menu_checklogfile,Please check the Player.log file for more information,請檢查 Player.log 以了解更多詳情。
 hud_crossoffpin,Cross off pin,打叉標記
 menu_disallowedcharactername,Can't create a character with this name,無法用此名稱建立角色。
-menu_disallowedworldname,"Can't create a world with this name",
+menu_disallowedworldname,"Can't create a world with this name",無法用此名稱建立世界。
 menu_textcontainsbannedword,The text contains banned words,文字中含有禁詞。
-menu_ugcwarningheader,"User generated content blocked",
-menu_ugcwarningtext,"Your platform privilege settings prevent you from viewing user generated content. Text from other players will be heavily filtered.",
+menu_ugcwarningheader,"User generated content blocked",使用者生成內容遭到屏蔽
+menu_ugcwarningtext,"Your platform privilege settings prevent you from viewing user generated content. Text from other players will be heavily filtered.",您的平台權限設定阻止您查看使用者生成內容。其他玩家的文字將被嚴格過濾。
