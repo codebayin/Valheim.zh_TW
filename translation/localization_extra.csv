@@ -48,4 +48,7 @@ menu_reloadfailed,Failed to reload saves,重新載入存檔失敗
 menu_checklogfile,Please check the Player.log file for more information,請檢查 Player.log 以了解更多詳情。
 hud_crossoffpin,Cross off pin,打叉標記
 menu_disallowedcharactername,Can't create a character with this name,無法用此名稱建立角色。
+menu_disallowedworldname,"Can't create a world with this name",
 menu_textcontainsbannedword,The text contains banned words,文字中含有禁詞。
+menu_ugcwarningheader,"User generated content blocked",
+menu_ugcwarningtext,"Your platform privilege settings prevent you from viewing user generated content. Text from other players will be heavily filtered.",

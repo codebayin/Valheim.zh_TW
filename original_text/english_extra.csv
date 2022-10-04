@@ -47,4 +47,7 @@ menu_reloadfailed,Failed to reload saves
 menu_checklogfile,Please check the Player.log file for more information
 hud_crossoffpin,Cross off pin
 menu_disallowedcharactername,Can't create a character with this name
+menu_disallowedworldname,Can't create a world with this name
 menu_textcontainsbannedword,The text contains banned words
+menu_ugcwarningheader,User generated content blocked
+menu_ugcwarningtext,Your platform privilege settings prevent you from viewing user generated content. Text from other players will be heavily filtered.
