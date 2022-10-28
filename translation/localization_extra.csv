@@ -51,3 +51,6 @@ menu_disallowedworldname,"Can't create a world with this name",無法用此名�
 menu_textcontainsbannedword,The text contains banned words,文字中含有禁詞。
 menu_ugcwarningheader,"User generated content blocked",使用者生成內容遭到屏蔽
 menu_ugcwarningtext,"Your platform privilege settings prevent you from viewing user generated content. Text from other players will be heavily filtered.",您的平台權限設定阻止您查看使用者生成內容。其他玩家的文字將被嚴格過濾。
+menu_onlysameversion,"You can only join servers running version $1",
+menu_privilegerequiredheader,"Platform privilege required",
+menu_onlineprivilegetext,"Your platform account settings prevent you from accessing online multiplayer.",
