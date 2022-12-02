@@ -2966,6 +2966,9 @@ item_magicallystuffedmushroom,Stuffed mushroom
 item_magicallystuffedmushroom_description,Bursting with magical flavour.
 item_magicallystuffedmushroomuncooked,Uncooked magically stuffed shroom
 npc_munin,Munin
+tutorial_eitr,"It seems you have had a sip from an yggrasil branch, and I bet you found it to your liking.
+Those fun colored lights you may see spinning around you might not all be in your head anymore.
+Just don't make it a habit. There may be some long term effects that are anything but magical."
 tutorial_yggroot_text,"Kraa! Although severed from the trunk, I can see that magic still lingers in the roots of the old ash.
 
 Needless to say, no weapon of your design will be able to break the bark. You need something better, fashioned by more capable hands."
@@ -3011,3 +3014,18 @@ tutorial_randomimp6,Harken!
 tutorial_random4,"Busy, warrior? I can come back later..."
 tutorial_random5,Please come and listen.
 tutorial_random6,Kraa? Kaaaw!
+piece_yulegarland,Yule garland
+piece_yulecrown,Yule wreath
+piece_mistletoe,Mistletoe
+tutorial_eitr_label,Hugin: Eitr
+lore_munin_label,Munin: Introduction
+lore_dvergr_label,Munin: Dvergr
+tutorial_dvergr_label,Hugin: Dvergr
+tutorial_dvergrhalls_label,Hugin: Dvergrhomes
+lore_dvergrhalls_label,Munin: Dvergrhomes
+tutorial_giants_label,Hugin: Giant remains
+lore_giants_label,Munin: Giant remains
+tutorial_yggroot_label,Hugin: Yggdrasil roots
+tutorial_magetable_label,Hugin: Galdr table
+tutorial_tissueref_label,Hugin: Eitr refinery
+tutorial_wispattractor_label,Hugin: Wisp fountain
